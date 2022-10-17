@@ -1,13 +1,10 @@
-available-course-formats
 introduction
 motivation
 target-audience
 curriculum
 a-new-chapter
 learning-objectives
-libraries
-topic-of-section
-subtopic
+section
 code-examples
 image-example
 video-examples
