@@ -6,8 +6,10 @@ Coursera
 css
 Datatrail
 DataTrail
+DMS
 Dockerfile
 Dockerhub
+DOI
 dropdown
 favicon
 GDSCN
@@ -26,8 +28,10 @@ NCI
 NHGRI
 ottrpal
 Pandoc
+PHS 398 
 UE
 UE5
 reproducibility
+rmarkdown
 underserved
 www
