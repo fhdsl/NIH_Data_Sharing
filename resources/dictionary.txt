@@ -6,10 +6,14 @@ Coursera
 css
 Datatrail
 DataTrail
+de-identification
+DMS
 Dockerfile
 Dockerhub
+DOI
 dropdown
 favicon
+FHDaSL
 GDSCN
 GitHub
 Github
@@ -26,8 +30,10 @@ NCI
 NHGRI
 ottrpal
 Pandoc
+PHS
 UE
 UE5
 reproducibility
+rmarkdown
 underserved
 www
