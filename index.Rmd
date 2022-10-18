@@ -69,13 +69,24 @@ The course is intended for anyone who plans to submit a grant proposal to the NI
 
 ## Curriculum  
 
-The course covers:
+The course will cover:
 
-- An overview of the new policy requirements
+- Motivations behind the new policy
+- Overview of the new policy requirements
+- Suggestions about where to share your data
+- Recommendations about how to budget for your data
 - Guidance about how to write a DMS plan
-- Guidance about where to share your data
-- Frequently asked questions
+- Information on how to submit the DMS plan to funding agencies
+- Guidance on how to update a DMS plan after submission or funding
+- General tips and frequently asked questions
 
+```{r, echo=FALSE, fig.alt='Pathway of chapters covered in this course.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_1_65")
+```
+
+## Authors
+
+This course was developed by the [Fred Hutch Data Science Lab](https://hutchdatascience.org/). Please see the [author credits](#about-the-authors) for more information.
 
 
 
