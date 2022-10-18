@@ -1,5 +1,5 @@
 ---
-title: "FHDaSL Book Name"
+title: "NIH Data Management and Sharing Policy"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -17,5 +17,77 @@ knitr::write_bib(c(
 ), "packages.bib")
 ```
 
-# About this Book {-}
+# About this Course {-}
+
+The [National Institutes of Health (NIH)](https://www.nih.gov/) is rolling out a new policy for the management and sharing of scientific data starting for (most) grants submitted January 25, 2023 or later.
+
+The main requirement of this new policy is that researchers include a Data Management and Sharing (DMS) plan with their proposal. **Not all research will require data sharing.** However, everyone must provide a justification if they can't share their data.
+
+Once a DMS plan is accepted by the funding agency (updates can be made during the [Just-in-Time process](https://grants.nih.gov/grants/policy/nihgps/html5/section_2/2.5.1_just-in-time_procedures.htm)), the researchers will be required to carry out the plan. However, updates can be made to the plan as well. 
+
+In this course we will describe what the new policy requires, places where you might want to share your particular kind of data, and how to deal with possible challenges associated with the policy.
+
+
+---
+title: "2023 NIH Data Management and Sharing Policy"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: book.bib
+biblio-style: apalike
+link-citations: yes
+description: Description about Course/Book.
+favicon: assets/favicon.ico
+---
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), "bookdown", "knitr", "rmarkdown"
+), "packages.bib")
+```
+
+# About this Course {-}
+
+The [National Institutes of Health (NIH)](https://www.nih.gov/) is rolling out a new policy for the management and sharing of scientific data starting for (most) grants submitted January 25, 2023 or later.
+
+The main requirement of this new policy is that researchers include a Data Management and Sharing (DMS) plan with their proposal. **Not all research will require data sharing.** However, everyone must provide a justification if they can't share their data.
+
+Once a DMS plan is accepted by the funding agency (updates can be made during the [Just-in-Time process](https://grants.nih.gov/grants/policy/nihgps/html5/section_2/2.5.1_just-in-time_procedures.htm)), the researchers will be required to carry out the plan. However, updates can be made to the plan as well. 
+
+In this course we will describe what the new policy requires, places where you might want to share your particular kind of data, and how to deal with possible challenges associated with the policy.
+
+
+## Motivation
+
+We want to help make the process of compliance with this new policy easier.
+
+
+## Target Audience  
+
+The course is intended for anyone who plans to submit a grant proposal to the NIH after January 25th, 2023.
+
+## Curriculum  
+
+The course will cover:
+
+- Motivations behind the new policy
+- Overview of the new policy requirements
+- Suggestions about where to share your data
+- Recommendations about how to budget for your data
+- Guidance about how to write a DMS plan
+- Information on how to submit the DMS plan to funding agencies
+- Guidance on how to update a DMS plan after submission or funding
+- General tips and frequently asked questions
+
+```{r, echo=FALSE, fig.alt='Pathway of chapters covered in this course.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_1_65")
+```
+
+## Authors
+
+This course was developed by the [Fred Hutch Data Science Lab](https://hutchdatascience.org/). Please see the [author credits](#about-the-authors) for more information.
+
+
+
 
