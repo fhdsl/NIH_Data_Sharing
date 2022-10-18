@@ -3,16 +3,10 @@
 ottrpal::set_knitr_image_path()
 ```
 
-# Introduction
+# (PART\*) Introduction {-}
 
+# Why this new policy? {#why-this-new-policy}
 
-## Motivation
-
-
-## Target Audience  
-
-The course is intended for ...
-
-## Curriculum  
-
-The course covers...
+```{r, echo=FALSE, fig.alt='We are on the first step of the pathway.', out.width = '80%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_1_103")
+```
