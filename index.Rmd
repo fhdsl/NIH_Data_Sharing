@@ -21,9 +21,9 @@ knitr::write_bib(c(
 
 The [National Institutes of Health (NIH)](https://www.nih.gov/) is rolling out a new policy for the management and sharing of scientific data starting for (most) grants submitted January 25, 2023 or later.
 
-The main requirement of this new policy is that researchers include a Data Management and Sharing (DMS) plan with their proposal. Not all research will require data sharing. However, everyone must provide a justification if for some reason, they can't share their data.
+The main requirement of this new policy is that researchers include a Data Management and Sharing (DMS) plan with their proposal. **Not all research will require data sharing.** However, everyone must provide a justification if they can't share their data.
 
-Once a DMS plan is accepted by the funding agency, the researchers will be required to carry out the plan. However, updates can be made to the plan as well. 
+Once a DMS plan is accepted by the funding agency (updates can be made during the [Just-in-Time process](https://grants.nih.gov/grants/policy/nihgps/html5/section_2/2.5.1_just-in-time_procedures.htm)), the researchers will be required to carry out the plan. However, updates can be made to the plan as well. 
 
 In this course we will describe what the new policy requires, places where you might want to share your particular kind of data, and how to deal with possible challenges associated with the policy.
 
