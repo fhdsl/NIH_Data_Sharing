@@ -23,10 +23,12 @@ ITCR
 itcrtraining
 ITN
 fyi
+Just-in-Time
 Leanpub
 Markua
 mentorship
 NCI
+NIH
 NHGRI
 ottrpal
 Pandoc
