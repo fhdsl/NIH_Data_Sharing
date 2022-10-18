@@ -1,5 +1,5 @@
 ---
-title: "2023 NIH Data Management and Sharing Policy"
+title: "NIH Data Management and Sharing Policy"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
