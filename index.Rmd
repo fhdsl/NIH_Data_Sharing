@@ -81,7 +81,7 @@ The course will cover:
 - General tips and frequently asked questions
 
 ```{r, echo=FALSE, fig.alt='Pathway of chapters covered in this course.', out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_1_65")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_1_123")
 ```
 
 ## Authors
