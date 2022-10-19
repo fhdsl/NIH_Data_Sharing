@@ -24,7 +24,7 @@ So why is the NIH doing this? There are several reasons why sharing data can be 
 - **Increased collaboration opportunity** - Having data available can encourage other researchers to expand the research in a new direction or extend it further and they may reach out to collaborate.
 - **Data Citations** - Due to the importance of data generation and sharing to the NIH, data will now be seen as research product that demonstrates a contribution to the scientific community.
 
-# How does the policy effect me?
+# How does the policy affect me?
 
 
 ```{r, echo=FALSE, fig.alt='We are on the second step of the pathway - personal considerations of the policy.', out.width = '80%', fig.align = 'center'}

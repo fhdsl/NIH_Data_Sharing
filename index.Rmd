@@ -44,7 +44,7 @@ The course is intended for anyone who plans to submit a grant proposal to the NI
 The course will cover:
 
 - Motivations behind the new policy
-- Overview of the new policy requirements
+- Overview of the new policy requirements and how it may affect you
 - Suggestions about where to share your data
 - Recommendations about how to budget for your data
 - Guidance about how to write a DMS plan
