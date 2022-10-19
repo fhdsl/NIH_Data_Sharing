@@ -10,3 +10,19 @@ ottrpal::set_knitr_image_path()
 ```{r, echo=FALSE, fig.alt='We are on the first step of the pathway.', out.width = '80%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_1_103")
 ```
+
+First we will discuss the motivations behind the new data management and sharing policy that will go into effect for (most) grant proposals submitted to the NIH after January 25, 2023.
+
+So why is the NIH doing this? There are several reasons why sharing data can be beneficial to the scientific community.
+
+- **Supports transparency** - Sharing data provides more clarity about how studies are performed. 
+-  **Encourages reproducibility and rigor** - Having the data accessible, allows others to try to reproduce study findings. This can further enable studies that may replicate or validate the initial findings with different data. 
+- **Supports multi-modal work** - When more data of various types are easily available it makes it easier for scientist to perform studies with multiple types of data. 
+- **More efficient and cost effective** - Some data are especially difficult or expensive to produce.
+- **Supports Researcher Inclusion** - Data generation can be especially difficult for those at institutes with less resources. Publicly available data can therefore be used by these researchers to better enable their participation. 
+- **Increased impact** - Papers that share their data in repositories appear to be cited more based on the study by @colavizza_citation_2020
+- **Increased collaboration opportunity** - Having data available can encourage other researchers to expand the research in a new direction or extend it further and they may reach out to collaborate.
+- **Data Citations** - Due to the importance of data generation and sharing to the NIH, data will now be seen as research product that demonstrates a contrinution to the scientific community.
+
+
+For certain grant mechanisms that are not intended to generate data, compliance with the policy is not required.
