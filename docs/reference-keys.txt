@@ -1,7 +1,11 @@
-introduction
 motivation
 target-audience
 curriculum
+authors
+introduction
+motivation-1
+target-audience-1
+curriculum-1
 a-new-chapter
 learning-objectives
 section
