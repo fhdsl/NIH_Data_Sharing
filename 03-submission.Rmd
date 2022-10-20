@@ -1,12 +1,38 @@
-# Budgeting for Data Sharing
+# Data Management Plan Submission
 
+7. Implementation details
+- other plans field added to forms H filed of the PHS 398 research plan form/career development supplemental form
+- Resource sharing plans will not be going away (but will not be about data - tools and model organisms)- instructions will be updated
+- No longer separate data sharing or genomic data sharing plans
 
-Data has costs.  
+8. Where to share data?
+- currently no NIH requirements except encouraging established repositories, but this may change 
+- link to searchable NIH supported repositories and otherwise encouraged repositories
+- info about other types of data that aren't covered by these repositories
+
+9. What if it will cost a lot to share data?
+- can request for funding support
+    - allowable costs (de-identification, deposition fees)
+    - unallowable data (infrastructure costs (this should be indirect costs) and costs related to conducting the research - like gaining access to the data)
+    - don't double up requests for direct and indirect support
+    - activities that get supported must happen during project period (for example if storing data for 10 years - must pay for those years in advance)
+    - budget implementation details
+    
+10. common concerns
+- can update plan if not accepted (just in time)
+- can also update during regular reporting intervals - thus need to show that you made a plan but it's OK if things change (but these will need to be approved)
+    
+ 11. Other details
+ -Unique persistent identifiers are not required (such as a DOI but they are encouraged)
+  
+  
+
  
+## DMS Plan Submission Tips and How-To's
 
 
 
-
+## Post-Submission Tips
 
 
 

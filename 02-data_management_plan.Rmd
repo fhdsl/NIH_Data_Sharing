@@ -1,6 +1,24 @@
 # Creating a Data Management Plan
 
- 
+## Data Management Options
+
+### Data Storage Concerns
+How you should store and interact with data while doing research.  
+
+### Data Sharing Repositories
+ONce you need to share it as part of this policy, what do you do then?  
+What repo's might work for your data type?
+
+What if I don't have one? 
+
+
+## Budgeting for Data Sharing
+
+how am I going pay this bill?  [reference here](introduction.html#why-this-new-policy)
+
+
+## Writing a Data Management and Sharing Plan
+
 1. Reasons for the new NIH data sharing plan/benefits
 - more transparency/reproducibility/validation
 - more multi-modal analysis

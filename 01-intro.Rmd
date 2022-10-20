@@ -5,7 +5,9 @@ ottrpal::set_knitr_image_path()
 
 # (PART\*) Introduction {-}
 
-# Why this new policy? {#why-this-new-policy}
+# Introduction
+
+## Why this new policy? {#why-this-new-policy}
 
 ```{r, echo=FALSE, fig.alt='We are on the first step of the pathway- understading the motivations of the policy.', out.width = '80%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_1_103")
@@ -24,7 +26,7 @@ So why is the NIH doing this? There are several reasons why sharing data can be 
 - **Increased collaboration opportunity** - Having data available can encourage other researchers to expand the research in a new direction or extend it further and they may reach out to collaborate.
 - **Data Citations** - Due to the importance of data generation and sharing to the NIH, data will now be seen as research product that demonstrates a contribution to the scientific community.
 
-# Will this policy affect me?
+## Will this policy affect me?
 
 > You can refer to the [NIH overview](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policy/research-covered-under-the-data-management-sharing-policy#after) of which research will be covered by this new policy.  
 
