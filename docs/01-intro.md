@@ -1,16 +1,40 @@
 
 
 
-# Introduction
+# (PART\*) Introduction {-}
+
+# Why this new policy? {#why-this-new-policy}
+
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_1_103.png" title="We are on the first step of the pathway- understading the motivations of the policy." alt="We are on the first step of the pathway- understading the motivations of the policy." width="80%" style="display: block; margin: auto;" />
+
+First we will discuss the motivations behind the new data management and sharing policy that will go into effect for (most) grant proposals submitted to the NIH after January 25, 2023.
+
+So why is the NIH doing this? There are several reasons why sharing data can be beneficial to the scientific community.
+
+- **Supports transparency** - Sharing data provides more clarity about how studies are performed. 
+-  **Encourages reproducibility and rigor** - Having the data accessible, allows others to try to reproduce study findings. This can further enable studies that may replicate or validate the initial findings with different data. 
+- **Supports multi-modal work** - When more data of various types are easily available it makes it easier for scientist to perform studies with multiple types of data. 
+- **More efficient and cost effective** - Some data are especially difficult or expensive to produce.
+- **Supports Researcher Inclusion** - Data generation can be especially difficult for those at institutes with less resources. Publicly available data can therefore be used by these researchers to better enable their participation. 
+- **Increased impact** - Papers that share their data in repositories appear to be cited more based on the study by @colavizza_citation_2020
+- **Increased collaboration opportunity** - Having data available can encourage other researchers to expand the research in a new direction or extend it further and they may reach out to collaborate.
+- **Data Citations** - Due to the importance of data generation and sharing to the NIH, data will now be seen as research product that demonstrates a contribution to the scientific community.
+
+# How does the policy affect me?
 
 
-## Motivation
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_12.png" title="We are on the second step of the pathway - personal considerations of the policy." alt="We are on the second step of the pathway - personal considerations of the policy." width="80%" style="display: block; margin: auto;" />
+
+The major requirement of the policy is that all grant proposals (submitted after January 25th, 2023) for mechanisms that require compliance, must include a plan for how they will manage and share their data. 
+
+For certain grant mechanisms for projects that do not generate data, compliance with the policy is not required. For certain types of data, sharing is not possible, and a justification will be required instead. 
+
+What about grant renewals? 
+
+What about no cost extensions?
+
+What grant mechanisms don't require compliance with the policy?
+
+What are examples of reasons why you might not share your data that would be acceptable?
 
 
-## Target Audience  
-
-The course is intended for ...
-
-## Curriculum  
-
-The course covers...

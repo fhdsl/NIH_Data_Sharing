@@ -2,10 +2,8 @@ motivation
 target-audience
 curriculum
 authors
-introduction
-motivation-1
-target-audience-1
-curriculum-1
+why-this-new-policy
+how-does-the-policy-affect-me
 a-new-chapter
 learning-objectives
 section

@@ -1,6 +1,6 @@
 ---
 title: "NIH Data Management and Sharing Policy"
-date: "October 19, 2022"
+date: "October 20, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -11,29 +11,6 @@ favicon: assets/favicon.ico
 ---
 
 
-
-# About this Course {-}
-
-The [National Institutes of Health (NIH)](https://www.nih.gov/) is rolling out a new policy for the management and sharing of scientific data starting for (most) grants submitted January 25, 2023 or later.
-
-The main requirement of this new policy is that researchers include a Data Management and Sharing (DMS) plan with their proposal. **Not all research will require data sharing.** However, everyone must provide a justification if they can't share their data.
-
-Once a DMS plan is accepted by the funding agency (updates can be made during the [Just-in-Time process](https://grants.nih.gov/grants/policy/nihgps/html5/section_2/2.5.1_just-in-time_procedures.htm)), the researchers will be required to carry out the plan. However, updates can be made to the plan as well. 
-
-In this course we will describe what the new policy requires, places where you might want to share your particular kind of data, and how to deal with possible challenges associated with the policy.
-
-
----
-title: "2023 NIH Data Management and Sharing Policy"
-date: "October 19, 2022"
-site: bookdown::bookdown_site
-documentclass: book
-bibliography: book.bib
-biblio-style: apalike
-link-citations: yes
-description: Description about Course/Book.
-favicon: assets/favicon.ico
----
 
 
 
@@ -62,7 +39,7 @@ The course is intended for anyone who plans to submit a grant proposal to the NI
 The course will cover:
 
 - Motivations behind the new policy
-- Overview of the new policy requirements
+- Overview of the new policy requirements and how it may affect you
 - Suggestions about where to share your data
 - Recommendations about how to budget for your data
 - Guidance about how to write a DMS plan
