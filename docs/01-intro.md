@@ -3,7 +3,8 @@
 
 # (PART\*) Introduction {-}
 
-# Why this new policy? {#why-this-new-policy}
+
+# Why this new DMS policy?
 
 <img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_1_103.png" title="We are on the first step of the pathway- understading the motivations of the policy." alt="We are on the first step of the pathway- understading the motivations of the policy." width="80%" style="display: block; margin: auto;" />
 
@@ -20,8 +21,9 @@ So why is the NIH doing this? There are several reasons why sharing data can be 
 - **Increased collaboration opportunity** - Having data available can encourage other researchers to expand the research in a new direction or extend it further and they may reach out to collaborate.
 - **Data Citations** - Due to the importance of data generation and sharing to the NIH, data will now be seen as research product that demonstrates a contribution to the scientific community.
 
-# How does the policy affect me?
+# Will this policy affect me?
 
+> You can refer to the [NIH overview](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policy/research-covered-under-the-data-management-sharing-policy#after) of which research will be covered by this new policy.  
 
 <img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_12.png" title="We are on the second step of the pathway - personal considerations of the policy." alt="We are on the second step of the pathway - personal considerations of the policy." width="80%" style="display: block; margin: auto;" />
 
@@ -38,3 +40,15 @@ What grant mechanisms don't require compliance with the policy?
 What are examples of reasons why you might not share your data that would be acceptable?
 
 
+outline pieces
+When compliance is required (bit confused about training wards for T and F - I think they are saying don't need to only when they don't generate data, but they definitely often do)
+  - what is scientific data and what it is not
+Major aspects: 
+  - need to submit Data Management and Sharing (DMS) plan with all applications after Jan 2023
+  - would need to actually share or not share your data based on what plan gets approved
+ - importantly you do not need to necessarily share your data, but you need to submit a DMS with a justification about why you shouldn't share your data
+Reasons why you might not share your data
+ - legal/ethical/technical (I think being too large to be cost prohibitive is possible)
+ examples 
+ - Unacceptable reasons why you might not share your data
+ examples
