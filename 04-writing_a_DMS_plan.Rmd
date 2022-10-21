@@ -1,0 +1,43 @@
+
+# Writing a DMS Plan
+
+
+ DMS elements
+   - less than 2 pages
+   - Initially not public now.. but may in the future (so don't include anything confidential or proprietary)
+    1. Data type
+    2. tools/code (note code is not required to be shared)
+    3. standards
+    4. data preservation, access, timelines
+      - no later than the time of publication of findings or the end of the award (whatever comes first) This probably stresses people out... maybe you can justify longer timelines? 
+      - renewals can have updated DMS plan with a different timeline, but if not approved must use previous DMS date
+      - no cost extension also allows for more time
+    5. access, distribution, reuse
+      - no specification of how long need to be available, journals may have other requirements
+    6. oversight - who will compliance be managed by
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+devtools::session_info()
+```

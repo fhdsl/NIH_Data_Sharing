@@ -4,9 +4,12 @@ repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
             "01-intro.Rmd",
             "02-data_management_plan.Rmd",
-            "03-submission.Rmd",            
-            "About.Rmd",
-            "References.Rmd"]
+            "03-budgeting.Rmd",
+            "04-writing_a_DMS_plan.Rmd",
+            "05-submission.Rmd",            
+            "Appendix.Rmd",
+            "References.Rmd",
+            "About.Rmd",]
 new_session: yes
 bibliography: [book.bib]
 delete_merged_file: true
