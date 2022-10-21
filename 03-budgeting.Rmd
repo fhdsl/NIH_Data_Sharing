@@ -1,3 +1,7 @@
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
 # Budgeting for Data Sharing
 
 how am I going pay this bill?  [reference here](introduction.html#why-this-new-policy)
