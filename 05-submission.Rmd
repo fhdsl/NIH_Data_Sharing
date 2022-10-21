@@ -1,0 +1,35 @@
+
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+
+# (PART\*) DMS Submission Process {-}
+
+# Pre-Submission Tips
+
+ Implementation details
+- other plans field added to forms H filed of the PHS 398 research plan form/career development supplemental form
+- Resource sharing plans will not be going away (but will not be about data - tools and model organisms)- instructions will be updated
+- No longer separate data sharing or genomic data sharing plans
+
+
+# Post-Submission Tips
+
+
+- can update plan if not accepted (just in time)
+- can also update during regular reporting intervals - thus need to show that you made a plan but it's OK if things change (but these will need to be approved)
+    
+ 11. Other details
+ -Unique persistent identifiers are not required (such as a DOI but they are encouraged)
+  
+  
+
+ 
+
+
+
+
+```{r}
+devtools::session_info()
+```
