@@ -39,6 +39,7 @@ Navigating [https://sharing.nih.gov/](https://sharing.nih.gov/) can be confusing
 
 The course is intended for anyone who plans to submit a grant proposal to the NIH after January 25th, 2023.
 
+
 ## Curriculum  
 
 The course will cover:
@@ -55,6 +56,7 @@ The course will cover:
 ```{r, echo=FALSE, fig.alt='Pathway of chapters covered in this course.', out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_1_123")
 ```
+
 
 ## Authors
 
