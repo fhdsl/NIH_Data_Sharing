@@ -31,7 +31,7 @@ So why is the NIH doing this? There are several reasons why sharing data can be 
 
 **Data Management**
 
-The process of validating, organizing, protecting, maintaining, and processing scientific data to ensure the accessibility, reliability, and quality of the scientific data for its users. All data should be managed.
+The work involved with validating, organizing, protecting, maintaining, and processing scientific data to ensure the accessibility, reliability, and quality of the scientific data for its users. All data should be managed.
 
 **Data Sharing**
 
@@ -61,15 +61,22 @@ For certain grant mechanisms for projects that do not generate data, compliance 
 
 The following outline several key questions:
 
+- **Is my research exempt from the policy?**
 - **Does my research generate scientific data?** If yes, you will need to submit a DMS Plan.
 - **When do I need to share my data?**
 - **Can I elect to not share data?** The short answer is yes. However, you must still justify this choice in a submitted DMS Plan.
+
+## What grant mechanisms don't require compliance with the DMS policy?
+
+<!-- Fill in here -->
+
+
 
 ## Does my research generate scientific data?
 
 The NIH Data Management and Sharing (DMS) Policy applies to **all NIH-supported research generating scientific data**. But what is "scientific data"?
 
-**SCIENTIFIC DATA**
+### Scientific data
 
 Scientific data are the “recorded factual material of sufficient quality to validate and replicate research findings, regardless of whether the data are used to support scholarly publications”. This can include any of the following if they are applicable to your study:
 
@@ -80,7 +87,7 @@ Scientific data are the “recorded factual material of sufficient quality to va
 - raw data
 - cleaned or processed data
 
-**NOT SCIENTIFIC DATA**
+### Not scientific data
 
 You are not expected to share:
 
@@ -92,10 +99,6 @@ You are not expected to share:
 - peer reviews
 - communications with colleagues
 - physical objects (such as biospecimens)
-
-### What grant mechanisms don't require compliance with the policy?
-
-<!-- Fill in here -->
 
 
 
