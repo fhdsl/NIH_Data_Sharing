@@ -20,7 +20,13 @@ ottrpal::set_knitr_image_path()
       - no specification of how long need to be available, journals may have other requirements
     6. oversight - who will compliance be managed by
 
+## List of references for your DMS Plan
 
+The following are scientific papers that can be referenced in your DMS Plan:
+
+-
+-
+- 
 
  
 
