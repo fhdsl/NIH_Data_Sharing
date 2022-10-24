@@ -17,7 +17,7 @@ First we will discuss the motivations behind the new data management and sharing
 So why is the NIH doing this? There are several reasons why sharing data can be beneficial to the scientific community.
 
 - **Supports transparency** - Sharing data provides more clarity about how studies are performed. 
--  **Encourages reproducibility and rigor** - Having the data accessible, allows others to try to reproduce study findings. This can further enable studies that may replicate or validate the initial findings with different data. 
+- **Encourages reproducibility and rigor** - Having the data accessible, allows others to try to reproduce study findings. This can further enable studies that may replicate or validate the initial findings with different data. 
 - **Supports multi-modal work** - When more data of various types are easily available it makes it easier for scientist to perform studies with multiple types of data. 
 - **More efficient and cost effective** - Some data are especially difficult or expensive to produce.
 - **Supports Researcher Inclusion** - Data generation can be especially difficult for those at institutes with less resources. Publicly available data can therefore be used by these researchers to better enable their participation. 
