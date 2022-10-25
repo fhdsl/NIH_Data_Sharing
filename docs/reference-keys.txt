@@ -6,8 +6,8 @@ why-this-new-dms-policy
 key-terms
 will-this-policy-affect-me
 what-grant-mechanisms-dont-require-compliance-with-the-dms-policy
-does-my-research-generate-scientific-data
 scientific-data
+scientific-data-1
 not-scientific-data
 what-is-the-timeline-for-sharing-data
 what-about-no-cost-extensions
@@ -19,7 +19,7 @@ data-sharing-repositories
 budgeting-for-data-sharing
 writing-a-dms-plan
 list-of-references-for-your-dms-plan
-pre-submission-tips
+presubmission-tips
 post-submission-tips
 faq
 references

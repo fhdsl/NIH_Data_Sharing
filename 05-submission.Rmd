@@ -6,12 +6,13 @@ ottrpal::set_knitr_image_path()
 
 # (PART\*) DMS Submission Process {-}
 
-# Pre-Submission Tips
+# Presubmission Tips
 
  Implementation details
 - other plans field added to forms H filed of the PHS 398 research plan form/career development supplemental form
 - Resource sharing plans will not be going away (but will not be about data - tools and model organisms)- instructions will be updated
 - No longer separate data sharing or genomic data sharing plans
+
 
 
 this is from the website:
@@ -23,7 +24,8 @@ The DMS Plan should be submitted as follows:
 - Intramural: determined by the Intramural Research Program
 - Other funding agreements: prior to the release of funds
 
-# Post-Submission Tips
+# Post Submission Tips
+
 
 
 - can update plan if not accepted (just in time)
