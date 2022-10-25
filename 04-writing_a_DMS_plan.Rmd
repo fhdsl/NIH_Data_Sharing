@@ -6,10 +6,11 @@ ottrpal::set_knitr_image_path()
 # Writing a DMS Plan
 
 In this section we will guide you through the general requirements for the various sections of the DMS plan. 
+
 &nbsp;
 &nbsp;
 
-General requirements:
+### General Requirements
 
 - The plan must be **less than 2 pages**.
 - Initially DMS plans will not be made public, but they **may be made public** in the future, so do not include anything that might be confidential or proprietary in your plan.
@@ -71,7 +72,7 @@ Standards vary by discipline. An extensive list of standards you can search can 
 
 ## Data Preservation, Access, and Associated Timelines
 
-A.  List where the data will be shared
+A. List where the data will be shared
 
 - Describe the repositories for sharing the scientific data, as well as the metadata.
 
