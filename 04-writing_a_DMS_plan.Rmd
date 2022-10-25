@@ -66,7 +66,7 @@ A.  List where the data will be shared
 
 B. Methods to make scientific data findable and identifiable
 
- - Describe what you will do to make the data more findable and identifiable. For example, perhaps using a persistent unique identifier or
+ - Describe what you will do to make the data more findable and identifiable. For example, you could use a persistent unique identifier or
 other standard indexing tool. [Zenodo](https://zenodo.org/) can be a useful option for creating digital object identifiers (DOIs). 
 
 C. Timeline of scientific data sharing:
