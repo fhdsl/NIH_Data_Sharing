@@ -49,7 +49,7 @@ A plan describing the data management, preservation, and sharing of scientific d
 
 # Will this policy affect me?
 
-> You can refer to the [NIH overview](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policy/research-covered-under-the-data-management-sharing-policy#after) of which research will be covered by this new policy.  
+> You can refer to the [NIH overview](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policy/research-covered-under-the-data-management-sharing-policy#after){target="_blank"} of which research will be covered by this new policy.  
 
 ```{r, echo=FALSE, fig.alt='We are on the second step of the pathway - personal considerations of the policy.', out.width = '80%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_12")
@@ -84,7 +84,7 @@ The DMS Policy does not apply to research and other activities that do not gener
 - Resource (Gs)
 - Research-Related Infrastructure Programs (e.g., S06)
 
-You can look up your NIH Activity Code [here](https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf) to see if you are required to submit a DMS Plan.
+You can look up your NIH Activity Code [here](https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf){target="_blank"} to see if you are required to submit a DMS Plan.
 
 For example, I am interested in applying to a **R03** award.
 
