@@ -1,5 +1,7 @@
 AnVIL
 apalike
+biospecimen
+biospecimens
 BIPOC
 biblio
 Bloomberg
@@ -23,6 +25,7 @@ GitHub
 Github
 GH
 impactful
+interpretable
 ITCR
 itcrtraining
 ITN
@@ -37,6 +40,10 @@ NHGRI
 ottrpal
 Pandoc
 PHS
+presubmission
+shareable
+SBIR
+STTR
 UE
 UE5
 reproducibility

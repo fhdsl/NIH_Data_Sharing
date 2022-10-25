@@ -3,5 +3,5 @@
 
 # FAQ
 
-The official NIH DMS Policy FAQ page can be found here: [https://osp.od.nih.gov/scientific-sharing/nih-policy-for-data-management-and-sharing-faq/](https://osp.od.nih.gov/scientific-sharing/nih-policy-for-data-management-and-sharing-faq/){target="_blank"}.
+The official NIH DMS Policy FAQ page can be found here: [`https://osp.od.nih.gov/scientific-sharing/nih-policy-for-data-management-and-sharing-faq/`](https://osp.od.nih.gov/scientific-sharing/nih-policy-for-data-management-and-sharing-faq/){target="_blank"}.
 
