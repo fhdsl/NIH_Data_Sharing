@@ -28,7 +28,8 @@ These following are the major sections of the plan:
 
 A. Types and amount data
 
-- Describe what kind of data will be generated over the course of funding and the expected amounts of data for each.
+- Describe what kind of data will be generated over the course of funding. 
+- Describe the expected amounts of data for each kind of data.
 
 B. Data Sharing
 
