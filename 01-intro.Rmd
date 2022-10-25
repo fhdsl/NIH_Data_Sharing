@@ -100,6 +100,9 @@ You are not expected to share:
 - communications with colleagues
 - physical objects (such as biospecimens)
 
+```{r, echo=FALSE, fig.alt='Scientific data should be shared under the new DMS policy, but there are many scientific products that are not considered scientific data.', out.width = '70%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_0")
+```
 
 
 ## What is the timeline for sharing data?
@@ -141,3 +144,7 @@ The following are **NOT** good reasons to limit the sharing of your data:
 - Data are not thought to have a suitable repository 
 - You don't have the right personnel to manage data or share data
 - You don't want to pay for data storage
+
+```{r, echo=FALSE, fig.alt='Researchers with scientific data must justify why they won't share data with an appropriate exception.', out.width = '70%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_36")
+```
