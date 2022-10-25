@@ -23,6 +23,7 @@ ottrpal::set_knitr_image_path()
  11. Other details
  -Unique persistent identifiers are not required (such as a DOI but they are encouraged)
   
+  Investigators are expected to report progress made on data sharing in their Research Progress Performance Report (RPPR). 
   
 
  
