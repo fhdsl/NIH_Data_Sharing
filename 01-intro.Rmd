@@ -84,7 +84,7 @@ The DMS Policy does not apply to research and other activities that do not gener
 - Resource (Gs)
 - Research-Related Infrastructure Programs (e.g., S06)
 
-You can look up your NIH Activity Code [here]() to see if you are required to submit a DMS Plan.
+You can look up your NIH Activity Code [here](https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf) to see if you are required to submit a DMS Plan.
 
 For example, I am interested in applying to a **R03** award.
 
