@@ -12,7 +12,18 @@
 - No longer separate data sharing or genomic data sharing plans
 
 
+
+this is from the website:
+
+The DMS Plan should be submitted as follows:
+
+- Extramural (grants): DMS Plans should be included within the “Other Plan(s) field on the PHS 398 Research Plan or PHS 398 Career Development Award Supplemental Form. Additionally, a brief summary and associated costs should be submitted as part of the budget and budget justification (see Budgeting for Data Management and Sharing).
+- Extramural (contracts): as part of the technical evaluation
+- Intramural: determined by the Intramural Research Program
+- Other funding agreements: prior to the release of funds
+
 # Post Submission Tips
+
 
 
 - can update plan if not accepted (just in time)
@@ -21,6 +32,7 @@
  11. Other details
  -Unique persistent identifiers are not required (such as a DOI but they are encouraged)
   
+  Investigators are expected to report progress made on data sharing in their Research Progress Performance Report (RPPR). 
   
 
  

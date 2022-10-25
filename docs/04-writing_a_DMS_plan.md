@@ -3,20 +3,107 @@
 
 # Writing a DMS Plan
 
+In this section we will guide you through the general requirements for the various sections of the DMS plan. 
+&nbsp;
+&nbsp;
 
- DMS elements
-   - less than 2 pages
-   - Initially not public now.. but may in the future (so don't include anything confidential or proprietary)
-    1. Data type
-    2. tools/code (note code is not required to be shared)
-    3. standards
-    4. data preservation, access, timelines
-      - no later than the time of publication of findings or the end of the award (whatever comes first) This probably stresses people out... maybe you can justify longer timelines? 
-      - renewals can have updated DMS plan with a different timeline, but if not approved must use previous DMS date
-      - no cost extension also allows for more time
-    5. access, distribution, reuse
-      - no specification of how long need to be available, journals may have other requirements
-    6. oversight - who will compliance be managed by
+General requirements:
+
+- The plan must be **less than 2 pages**.
+- Initially DMS plans will not be made public, but they **may be made public** in the future, so do not include anything that might be confidential or proprietary in your plan.
+
+These following are the major sections of the plan:
+
+1. **Data type** - describe what data (amount and type) will be generated over the course of funding and what data will or will not be shared
+2. **Tools, software, and code** (note code is not required to be shared) - describe in what tools you intend to use to manage and analyze the data
+3. **Standards** - describe any standards that you might use for your data and metadata
+4. **Data preservation, access, timelines** - describe where the data will be made available and when
+5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
+6. **Oversight** - describe who will manage compliance of the DMS plan
+    
+    
+##  Data Type
+
+A. Types and amount data
+
+- Describe what kind of data will be generated over the course of funding. 
+- Describe the expected amounts of data for each kind of data.
+
+B. Data Sharing
+
+- Describe what data from the project will shared or not shared and justify this decision.
+
+C. Metadata, other relevant data, and associated documentation
+
+- List information about metadata.
+- List other possibly relevant data (that you think is not considered scientific).
+- List any relevant information about how you plan to gather the data (ex. study protocols and data collection instruments) that you plan to share to make it easier for others to reproduce your work.
+
+
+## Related Tools, Software and/or Code:
+
+- Describe any software or code you intend to use to process or analyze the data (provide the names of the tools and how they can be accessed).
+
+## Standards:
+
+- Describe the names of any data standards that will be used for your data/metadata to enable easier sharing are repeated use of your data.
+- Describe how these standards will be applied to your data.
+- If no standards exist, justify this.
+- This could include: 
+  - data formats 
+  - data dictionaries
+  - data identifiers
+  - definitions
+  - unique identifiers
+  - other data documentation
+  
+<div class = "dictionary">
+
+**Data Standard**  
+
+An agreed upon set of rules that allow information to be shared and processed in a uniform and consistent manner. This includes representations, formats, and definitions of data. 
+
+Standards vary by discipline. An extensive list of standards you can search can be found [here](https://fairsharing.org/search?fairsharingRegistry=Standard). An example standard is the [MIAME](https://fairsharing.org/FAIRsharing.32b10v) reporting guideline for microarray experiments.
+
+</div>
+
+## Data Preservation, Access, and Associated Timelines
+
+A.  List where the data will be shared
+
+- Describe the repositories for sharing the scientific data, as well as the metadata.
+
+B. Methods to make scientific data findable and identifiable
+
+ - Describe what you will do to make the data more findable and identifiable. For example, you could use a persistent unique identifier or
+other standard indexing tool. [Zenodo](https://zenodo.org/) can be a useful option for creating digital object identifiers (DOIs). 
+
+C. Timeline of scientific data sharing:
+
+- Describe when the scientific data will be made available to others.
+  - Recall that data must be shared no later than the time of publication of findings or the end of the award (whatever comes first), however the NIH encourages th the data be shared as early as possible.
+  - Renewals can have an updated DMS plan with a different timeline, but if not approved must use previous DMS date.
+  - No cost extension also allows for more time.
+- Describe how long data will be available to others.
+  - There is no requirement for how long need to be available, however, note that journals may have requirements and the NIH encourages that data be made available for as long as possible.
+
+
+## Access, Distribution, or Reuse Considerations
+
+- Describe how you considered various factors that may influence data access or hinder your ability to share the data including:
+    - What type of consent was used or will be used to gather the data
+    - Privacy and confidentiality protections consistent with applicable federal, Tribal, state, and local laws, regulations, and policies
+    - If access to data related to human subjects will be controlled
+    - Any restrictions imposed by federal, Tribal, or state laws, regulations, or policies, or existing or anticipated agreements
+    - Any other data sharing policies such as the Genomic Data Sharing Policy
+    - Other sharing limitations: 
+      - datasets cannot practically be digitized with reasonable efforts
+      - privacy or safety of research participants would be compromised or place them at greater risk of re-identification or suffering harm when de-identification would be insufficient
+      
+## Oversight
+
+- Describe who will manage compliance with the DMS plan.
+- Describe how compliance will be monitored.
 
 ## List of references for your DMS Plan
 
@@ -47,71 +134,3 @@ The following are scientific papers that can be referenced in your DMS Plan:
 
 
 
-```r
-devtools::session_info()
-```
-
-```
-## ─ Session info ───────────────────────────────────────────────────────────────
-##  setting  value                       
-##  version  R version 4.0.2 (2020-06-22)
-##  os       Ubuntu 20.04.3 LTS          
-##  system   x86_64, linux-gnu           
-##  ui       X11                         
-##  language (EN)                        
-##  collate  en_US.UTF-8                 
-##  ctype    en_US.UTF-8                 
-##  tz       Etc/UTC                     
-##  date     2022-10-25                  
-## 
-## ─ Packages ───────────────────────────────────────────────────────────────────
-##  package     * version    date       lib source                            
-##  assertthat    0.2.1      2019-03-21 [1] RSPM (R 4.0.3)                    
-##  bookdown      0.24       2022-02-15 [1] Github (rstudio/bookdown@88bc4ea) 
-##  callr         3.4.4      2020-09-07 [1] RSPM (R 4.0.2)                    
-##  cli           2.0.2      2020-02-28 [1] RSPM (R 4.0.0)                    
-##  crayon        1.3.4      2017-09-16 [1] RSPM (R 4.0.0)                    
-##  desc          1.2.0      2018-05-01 [1] RSPM (R 4.0.3)                    
-##  devtools      2.3.2      2020-09-18 [1] RSPM (R 4.0.3)                    
-##  digest        0.6.25     2020-02-23 [1] RSPM (R 4.0.0)                    
-##  ellipsis      0.3.1      2020-05-15 [1] RSPM (R 4.0.3)                    
-##  evaluate      0.14       2019-05-28 [1] RSPM (R 4.0.3)                    
-##  fansi         0.4.1      2020-01-08 [1] RSPM (R 4.0.0)                    
-##  fs            1.5.0      2020-07-31 [1] RSPM (R 4.0.3)                    
-##  glue          1.6.1      2022-01-22 [1] CRAN (R 4.0.2)                    
-##  hms           0.5.3      2020-01-08 [1] RSPM (R 4.0.0)                    
-##  htmltools     0.5.0      2020-06-16 [1] RSPM (R 4.0.1)                    
-##  jquerylib     0.1.4      2021-04-26 [1] CRAN (R 4.0.2)                    
-##  knitr         1.33       2022-02-15 [1] Github (yihui/knitr@a1052d1)      
-##  lifecycle     1.0.0      2021-02-15 [1] CRAN (R 4.0.2)                    
-##  magrittr      2.0.2      2022-01-26 [1] CRAN (R 4.0.2)                    
-##  memoise       1.1.0      2017-04-21 [1] RSPM (R 4.0.0)                    
-##  ottrpal       0.1.2      2022-02-15 [1] Github (jhudsl/ottrpal@1018848)   
-##  pillar        1.4.6      2020-07-10 [1] RSPM (R 4.0.2)                    
-##  pkgbuild      1.1.0      2020-07-13 [1] RSPM (R 4.0.2)                    
-##  pkgconfig     2.0.3      2019-09-22 [1] RSPM (R 4.0.3)                    
-##  pkgload       1.1.0      2020-05-29 [1] RSPM (R 4.0.3)                    
-##  prettyunits   1.1.1      2020-01-24 [1] RSPM (R 4.0.3)                    
-##  processx      3.4.4      2020-09-03 [1] RSPM (R 4.0.2)                    
-##  ps            1.3.4      2020-08-11 [1] RSPM (R 4.0.2)                    
-##  purrr         0.3.4      2020-04-17 [1] RSPM (R 4.0.3)                    
-##  R6            2.4.1      2019-11-12 [1] RSPM (R 4.0.0)                    
-##  readr         1.4.0      2020-10-05 [1] RSPM (R 4.0.2)                    
-##  remotes       2.2.0      2020-07-21 [1] RSPM (R 4.0.3)                    
-##  rlang         0.4.10     2022-02-15 [1] Github (r-lib/rlang@f0c9be5)      
-##  rmarkdown     2.10       2022-02-15 [1] Github (rstudio/rmarkdown@02d3c25)
-##  rprojroot     2.0.2      2020-11-15 [1] CRAN (R 4.0.2)                    
-##  sessioninfo   1.1.1      2018-11-05 [1] RSPM (R 4.0.3)                    
-##  stringi       1.5.3      2020-09-09 [1] RSPM (R 4.0.3)                    
-##  stringr       1.4.0      2019-02-10 [1] RSPM (R 4.0.3)                    
-##  testthat      3.0.1      2022-02-15 [1] Github (R-lib/testthat@e99155a)   
-##  tibble        3.0.3      2020-07-10 [1] RSPM (R 4.0.2)                    
-##  usethis       2.1.5.9000 2022-02-15 [1] Github (r-lib/usethis@57b109a)    
-##  vctrs         0.3.4      2020-08-29 [1] RSPM (R 4.0.2)                    
-##  withr         2.3.0      2020-09-22 [1] RSPM (R 4.0.2)                    
-##  xfun          0.26       2022-02-15 [1] Github (yihui/xfun@74c2a66)       
-##  yaml          2.2.1      2020-02-01 [1] RSPM (R 4.0.3)                    
-## 
-## [1] /usr/local/lib/R/site-library
-## [2] /usr/local/lib/R/library
-```

@@ -18,6 +18,12 @@ data-storage-concerns
 data-sharing-repositories
 budgeting-for-data-sharing
 writing-a-dms-plan
+data-type
+related-tools-software-andor-code
+standards
+data-preservation-access-and-associated-timelines
+access-distribution-or-reuse-considerations
+oversight
 list-of-references-for-your-dms-plan
 presubmission-tips
 post-submission-tips
