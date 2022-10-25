@@ -68,11 +68,39 @@ The following outline several key questions:
 
 ## What grant mechanisms don't require compliance with the DMS policy?
 
-<!-- Fill in here -->
+The DMS Policy applies to all research that generates [scientific data](#scientific-data), including:
+
+- Research Projects
+- Some Career Development Awards (Ks)
+- Small Business SBIR/STTR 
+- Research Centers
+
+The DMS Policy does not apply to research and other activities that do not generate scientific data, including:
+
+- Training (T)
+- Fellowships (Fs)
+- Construction (C06)
+- Conference Grants (R13)
+- Resource (Gs)
+- Research-Related Infrastructure Programs (e.g., S06)
+
+You can look up your NIH Activity Code [here]() to see if you are required to submit a DMS Plan.
+
+For example, I am interested in applying to a **R03** award.
+
+```{r, echo=FALSE, fig.alt='I can find the R03 activity code in the request for applications.', out.width = '80%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_56")
+```
+
+According to the table, a **DMS Plan is required** for this particular award.
+
+```{r, echo=FALSE, fig.alt='I can find the R03 activity code in the request for applications.', out.width = '80%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_64")
+```
 
 
 
-## Does my research generate scientific data?
+## Does my research generate scientific data? {#scientific-data}
 
 The NIH Data Management and Sharing (DMS) Policy applies to **all NIH-supported research generating scientific data**. But what is "scientific data"?
 
