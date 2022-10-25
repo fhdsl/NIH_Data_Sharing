@@ -18,7 +18,7 @@ These following are the major sections of the plan:
 
 1. **Data type** - describe what data (amount and type) will be generated over the course of funding and what data will or will not be shared
 2. **Tools, software, and code** (note code is not required to be shared) - describe in what tools you intend to use to manage and analyze the data
-3. **Standards** - describe any standards that you might use for your data
+3. **Standards** - describe any standards that you might use for your data and metadata
 4. **Data preservation, access, timelines** - describe where the data will be made available and when
 5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
 6. **Oversight** - describe who will manage compliance of the DMS plan
@@ -28,7 +28,8 @@ These following are the major sections of the plan:
 
 A. Types and amount data
 
-- Describe what kind of data will be generated over the course of funding and the expected amounts of data for each.
+- Describe what kind of data will be generated over the course of funding. 
+- Describe the expected amounts of data for each kind of data.
 
 B. Data Sharing
 
@@ -57,6 +58,16 @@ C. Metadata, other relevant data, and associated documentation
   - definitions
   - unique identifiers
   - other data documentation
+  
+<div class = "dictionary">
+
+**Data Standard**  
+
+An agreed upon set of rules that allow information to be shared and processed in a uniform and consistent manner. This includes representations, formats, and definitions of data. 
+
+Standards vary by discipline. An extensive list of standards you can search can be found [here](https://fairsharing.org/search?fairsharingRegistry=Standard). An example standard is the [MIAME](https://fairsharing.org/FAIRsharing.32b10v) reporting guideline for microarray experiments.
+
+</div>
 
 ## Data Preservation, Access, and Associated Timelines
 
@@ -66,14 +77,14 @@ A.  List where the data will be shared
 
 B. Methods to make scientific data findable and identifiable
 
- - Describe what you will do to make the data more findable and identifiable. For example, perhaps using a persistent unique identifier or
+ - Describe what you will do to make the data more findable and identifiable. For example, you could use a persistent unique identifier or
 other standard indexing tool. [Zenodo](https://zenodo.org/) can be a useful option for creating digital object identifiers (DOIs). 
 
 C. Timeline of scientific data sharing:
 
 - Describe when the scientific data will be made available to others.
   - Recall that data must be shared no later than the time of publication of findings or the end of the award (whatever comes first), however the NIH encourages th the data be shared as early as possible.
-  - Renewals can have updated DMS plan with a different timeline, but if not approved must use previous DMS date.
+  - Renewals can have an updated DMS plan with a different timeline, but if not approved must use previous DMS date.
   - No cost extension also allows for more time.
 - Describe how long data will be available to others.
   - There is no requirement for how long need to be available, however, note that journals may have requirements and the NIH encourages that data be made available for as long as possible.
