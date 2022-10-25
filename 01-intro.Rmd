@@ -145,6 +145,6 @@ The following are **NOT** good reasons to limit the sharing of your data:
 - You don't have the right personnel to manage data or share data
 - You don't want to pay for data storage
 
-```{r, echo=FALSE, fig.alt='Researchers with scientific data must justify why they won't share data with an appropriate exception.', out.width = '70%', fig.align = 'center'}
+```{r, echo=FALSE, fig.alt='Researchers with scientific data must justify why they will not share data with an appropriate exception.', out.width = '70%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_36")
 ```
