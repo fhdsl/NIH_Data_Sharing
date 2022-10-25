@@ -32,7 +32,7 @@ In this course we will describe what the new policy requires, places where you m
 
 ## Motivation
 
-Navigating [`https://sharing.nih.gov/`](https://sharing.nih.gov/) can be confusing. We want to help make the process of compliance with this new policy easier. 
+Navigating the new NIH Data Management and Sharing Policy - [`https://sharing.nih.gov/`](https://sharing.nih.gov/) - can be confusing. We want to help make the process of compliance with this new policy easier. 
 
 
 ## Target Audience  
