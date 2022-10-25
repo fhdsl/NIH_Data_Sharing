@@ -58,6 +58,16 @@ C. Metadata, other relevant data, and associated documentation
   - definitions
   - unique identifiers
   - other data documentation
+  
+<div class = "dictionary">
+
+**Data Standard**  
+
+An agreed upon set of rules that allow information to be shared and processed in a uniform and consistent manner. This includes representations, formats, and definitions of data. 
+
+Standards vary by discipline. An extensive list of standards you can search can be found [here](https://fairsharing.org/search?fairsharingRegistry=Standard). An example standard is the [MIAME](https://fairsharing.org/FAIRsharing.32b10v) reporting guideline for microarray experiments.
+
+</div>
 
 ## Data Preservation, Access, and Associated Timelines
 
