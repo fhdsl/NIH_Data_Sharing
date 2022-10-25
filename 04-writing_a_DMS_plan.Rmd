@@ -73,7 +73,7 @@ C. Timeline of scientific data sharing:
 
 - Describe when the scientific data will be made available to others.
   - Recall that data must be shared no later than the time of publication of findings or the end of the award (whatever comes first), however the NIH encourages th the data be shared as early as possible.
-  - Renewals can have updated DMS plan with a different timeline, but if not approved must use previous DMS date.
+  - Renewals can have an updated DMS plan with a different timeline, but if not approved must use previous DMS date.
   - No cost extension also allows for more time.
 - Describe how long data will be available to others.
   - There is no requirement for how long need to be available, however, note that journals may have requirements and the NIH encourages that data be made available for as long as possible.
