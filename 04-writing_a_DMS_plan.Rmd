@@ -9,6 +9,8 @@ In this section we will guide you through the general requirements for the vario
 &nbsp;
 &nbsp;
 
+General requirements:
+
 - The plan must be **less than 2 pages**.
 - Initially DMS plans will not be made public, but they **may be made public** in the future, so do not include anything that might be confidential or proprietary in your plan.
 
@@ -34,43 +36,52 @@ B. Data Sharing
 
 C. Metadata, other relevant data, and associated documentation
 
-List information about metadata, other possibly relevant data (that you think is not considered scientific), and any relevant information about how you plan to gather the data (ex. study protocols and data collection instruments) that you plan to share to make it easier for others to reproduce your work.
+- List information about metadata.
+- List other possibly relevant data (that you think is not considered scientific).
+- List any relevant information about how you plan to gather the data (ex. study protocols and data collection instruments) that you plan to share to make it easier for others to reproduce your work.
 
 
 ## Related Tools, Software and/or Code:
 
-- describe any software or code you intend to use to process or analyze the data (provide the names of the tools and how they can be accessed)
+- Describe any software or code you intend to use to process or analyze the data (provide the names of the tools and how they can be accessed).
 
 ## Standards:
 
-- describe the names of any data standards that will be used for your data/metadata to enable easier sharing are repeated use of your data.
-- describe how these standards will be applied to your data
-- if no standards exist, justify this
-- this could include: data formats, data dictionaries, data identifiers, definitions, unique identifiers, and other data documentation
+- Describe the names of any data standards that will be used for your data/metadata to enable easier sharing are repeated use of your data.
+- Describe how these standards will be applied to your data.
+- If no standards exist, justify this.
+- This could include: 
+  - data formats 
+  - data dictionaries
+  - data identifiers
+  - definitions
+  - unique identifiers
+  - other data documentation
 
 ## Data Preservation, Access, and Associated Timelines
 
 A.  List where the data will be shared
 
-- describe the repositories for sharing the scientific data, as well as the metadata
+- Describe the repositories for sharing the scientific data, as well as the metadata.
 
 B. Methods to make scientific data findable and identifiable
 
- - describe what you will do to make the data more findable and identifiable. For example, perhaps using a persistent unique identifier or
+ - Describe what you will do to make the data more findable and identifiable. For example, perhaps using a persistent unique identifier or
 other standard indexing tool. [Zenodo](https://zenodo.org/) can be a useful option for creating digital object identifiers (DOIs). 
 
 C. Timeline of scientific data sharing:
 
-- describe when the scientific data will be made available to others
-- Recall that data must be shared no later than the time of publication of findings or the end of the award (whatever comes first), however the NIH encourages th the data be shared as early as possible
-- describe how long data will be available to others
-- there is no requirement for how long need to be available, however, note that journals may have requirements and the NIH encourages that data be made available for as long as possible
-- renewals can have updated DMS plan with a different timeline, but if not approved must use previous DMS date
-- no cost extension also allows for more time
+- Describe when the scientific data will be made available to others.
+  - Recall that data must be shared no later than the time of publication of findings or the end of the award (whatever comes first), however the NIH encourages th the data be shared as early as possible.
+  - Renewals can have updated DMS plan with a different timeline, but if not approved must use previous DMS date.
+  - No cost extension also allows for more time.
+- Describe how long data will be available to others.
+  - There is no requirement for how long need to be available, however, note that journals may have requirements and the NIH encourages that data be made available for as long as possible.
+
 
 ## Access, Distribution, or Reuse Considerations
 
-- describe how you considered various factors that may influence data access or hinder your ability to share the data including:
+- Describe how you considered various factors that may influence data access or hinder your ability to share the data including:
     - What type of consent was used or will be used to gather the data
     - Privacy and confidentiality protections consistent with applicable federal, Tribal, state, and local laws, regulations, and policies
     - If access to data related to human subjects will be controlled
@@ -82,8 +93,8 @@ C. Timeline of scientific data sharing:
       
 ## Oversight
 
-- describe who will manage compliance with the DMS plan
-- describe how compliance will be monitored
+- Describe who will manage compliance with the DMS plan.
+- Describe how compliance will be monitored.
 
 ## List of references for your DMS Plan
 
@@ -113,6 +124,4 @@ The following are scientific papers that can be referenced in your DMS Plan:
 
 
 
-```{r}
-devtools::session_info()
-```
+
