@@ -18,7 +18,13 @@
       - no specification of how long need to be available, journals may have other requirements
     6. oversight - who will compliance be managed by
 
+## List of references for your DMS Plan
 
+The following are scientific papers that can be referenced in your DMS Plan:
+
+-
+-
+- 
 
  
 
@@ -56,7 +62,7 @@ devtools::session_info()
 ##  collate  en_US.UTF-8                 
 ##  ctype    en_US.UTF-8                 
 ##  tz       Etc/UTC                     
-##  date     2022-10-21                  
+##  date     2022-10-25                  
 ## 
 ## ─ Packages ───────────────────────────────────────────────────────────────────
 ##  package     * version    date       lib source                            
