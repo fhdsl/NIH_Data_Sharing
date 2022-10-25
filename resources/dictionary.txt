@@ -15,13 +15,16 @@ Dockerhub
 DOI
 documentclass
 dropdown
+faq
 favicon
 favicon.ico
 FHDaSL
+findable
 GDSCN
 GitHub
 Github
 GH
+https
 impactful
 ITCR
 itcrtraining
@@ -33,6 +36,7 @@ Markua
 mentorship
 NCI
 NIH
+nih
 NHGRI
 ottrpal
 Pandoc
@@ -41,7 +45,9 @@ UE
 UE5
 reproducibility
 rmarkdown
+RPPR
 th
 underserved
 www
 25th
+Zenodo
