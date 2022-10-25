@@ -84,8 +84,8 @@ Scientific data are the “recorded factual material of sufficient quality to va
 - null results
 - results used to publish papers
 <!-- TODO: are the following two points correct? -->
-- raw data
-- cleaned or processed data
+<!-- - raw data -->
+<!-- - cleaned or processed data -->
 
 ### Not scientific data
 
