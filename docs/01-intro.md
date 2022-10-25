@@ -45,7 +45,7 @@ A plan describing the data management, preservation, and sharing of scientific d
 
 # Will this policy affect me?
 
-> You can refer to the [NIH overview](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policy/research-covered-under-the-data-management-sharing-policy#after) of which research will be covered by this new policy.  
+> You can refer to the [NIH overview](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policy/research-covered-under-the-data-management-sharing-policy#after){target="_blank"} of which research will be covered by this new policy.  
 
 <img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_12.png" title="We are on the second step of the pathway - personal considerations of the policy." alt="We are on the second step of the pathway - personal considerations of the policy." width="80%" style="display: block; margin: auto;" />
 
@@ -62,13 +62,39 @@ The following outline several key questions:
 
 ## What grant mechanisms don't require compliance with the DMS policy?
 
-<!-- Fill in here -->
+The DMS Policy applies to all research that generates [scientific data](#scientific-data), including:
+
+- Research Projects
+- Some Career Development Awards (Ks)
+- Small Business SBIR/STTR 
+- Research Centers
+
+The DMS Policy does not apply to research and other activities that do not generate scientific data, including:
+
+- Training (T)
+- Fellowships (Fs)
+- Construction (C06)
+- Conference Grants (R13)
+- Resource (Gs)
+- Research-Related Infrastructure Programs (e.g., S06)
+
+You can look up your NIH Activity Code [here](https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf){target="_blank"} to see if you are required to submit a DMS Plan.
+
+For example, I am interested in applying to a **R03** award.
+
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_56.png" title="I can find the R03 activity code in the request for applications." alt="I can find the R03 activity code in the request for applications." width="80%" style="display: block; margin: auto;" />
+
+According to the table, a **DMS Plan is required** for this particular award.
+
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_64.png" title="I can find the R03 activity code in the request for applications." alt="I can find the R03 activity code in the request for applications." width="80%" style="display: block; margin: auto;" />
 
 
 
-## Does my research generate scientific data?
+## Does my research generate scientific data? {#scientific-data}
 
 The NIH Data Management and Sharing (DMS) Policy applies to **all NIH-supported research generating scientific data**. But what is "scientific data"?
+
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_0.png" title="Scientific data should be shared under the new DMS policy, but there are many scientific products that are not considered scientific data." alt="Scientific data should be shared under the new DMS policy, but there are many scientific products that are not considered scientific data." width="70%" style="display: block; margin: auto;" />
 
 ### Scientific data
 
@@ -77,9 +103,6 @@ Scientific data are the “recorded factual material of sufficient quality to va
 - unpublished results
 - null results
 - results used to publish papers
-<!-- TODO: are the following two points correct? -->
-<!-- - raw data -->
-<!-- - cleaned or processed data -->
 
 ### Not scientific data
 
@@ -94,7 +117,17 @@ You are not expected to share:
 - communications with colleagues
 - physical objects (such as biospecimens)
 
+<!-- <div class = "warning"> -->
 
+<!-- You might be wondering if it is required to share raw data.  -->
+
+<!-- The DMS Policy applies to **final research data**. This is data that is recorded factual material commonly accepted in the scientific community as necessary to **validate and replicate** research findings. For many scientific areas, final research data includes both raw data and analyses conducted on the data.  -->
+
+<!-- For example, final research data for a clinical study would include a dataset that was used in the published study, but not the clinical documents (for example, medical records) that the dataset was derived from.  -->
+
+<!-- For genomic data, raw sequence reads are generally not expected unless a de novo sequencing experiment was performed. Sequence alignments however are expected to be shared. For more information about genomic data sharing, see the details of the policy [here](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/data-submission-and-release-expectations){target="_blank"}. -->
+
+<!-- </div> -->
 
 ## What is the timeline for sharing data?
 
@@ -112,7 +145,9 @@ Scientific data should be made accessible as soon as possible, and no later than
 
 ## Can I elect to not share data?
 
-There are legitimate reasons you might not want to share your data. Data might not be sharable due to ethical, legal, or technical concerns. **You will still need to submit a DMS Plan even if you plan to withold data sharing**. You must explain your reasoning in your DMS Plan.
+There are legitimate reasons you might not want to share your data. Data might not be shareable due to ethical, legal, or technical concerns. **You will still need to submit a DMS Plan even if you plan to withhold data sharing**. You must explain your reasoning in your DMS Plan.
+
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_36.png" title="Researchers with scientific data must justify why they will not share data with an appropriate exception." alt="Researchers with scientific data must justify why they will not share data with an appropriate exception." width="70%" style="display: block; margin: auto;" />
 
 Justifiable ethical, legal, and technical factors for limiting sharing of data include: 
 

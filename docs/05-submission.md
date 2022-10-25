@@ -4,7 +4,7 @@
 
 # (PART\*) DMS Submission Process {-}
 
-# Pre-Submission Tips
+# Presubmission Tips
 
  Implementation details
 - other plans field added to forms H filed of the PHS 398 research plan form/career development supplemental form
@@ -12,7 +12,7 @@
 - No longer separate data sharing or genomic data sharing plans
 
 
-# Post-Submission Tips
+# Post Submission Tips
 
 
 - can update plan if not accepted (just in time)
