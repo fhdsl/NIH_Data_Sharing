@@ -76,6 +76,10 @@ The following outline several key questions:
 
 The NIH Data Management and Sharing (DMS) Policy applies to **all NIH-supported research generating scientific data**. But what is "scientific data"?
 
+```{r, echo=FALSE, fig.alt='Scientific data should be shared under the new DMS policy, but there are many scientific products that are not considered scientific data.', out.width = '70%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_0")
+```
+
 ### Scientific data
 
 Scientific data are the “recorded factual material of sufficient quality to validate and replicate research findings, regardless of whether the data are used to support scholarly publications”. This can include any of the following if they are applicable to your study:
@@ -83,9 +87,6 @@ Scientific data are the “recorded factual material of sufficient quality to va
 - unpublished results
 - null results
 - results used to publish papers
-<!-- TODO: are the following two points correct? -->
-<!-- - raw data -->
-<!-- - cleaned or processed data -->
 
 ### Not scientific data
 
@@ -100,10 +101,17 @@ You are not expected to share:
 - communications with colleagues
 - physical objects (such as biospecimens)
 
-```{r, echo=FALSE, fig.alt='Scientific data should be shared under the new DMS policy, but there are many scientific products that are not considered scientific data.', out.width = '70%', fig.align = 'center'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_0")
-```
+<div class = "warning">
 
+You might be wondering if it is required to share raw data. 
+
+The DMS Policy applies to **Final research data**. This is data that is recorded factual material commonly accepted in the scientific community as necessary to **validate and replicate** research findings. For many scientific areas, final research data includes both raw data and analyses conducted on the data. 
+
+For example, final research data for a clinical study would include a dataset that was used in the published study, but not the clinical documents (for example, medical records) that the dataset was derived from. 
+
+For genomic data, raw sequence reads are generally not expected unless a de novo sequencing experiment is performed. Sequence alignments however are expected to be shared. For more information about genomic data sharing, see the details of the policy [here](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/data-submission-and-release-expectations){target="_blank"}
+
+</div>
 
 ## What is the timeline for sharing data?
 
@@ -122,6 +130,10 @@ Scientific data should be made accessible as soon as possible, and no later than
 ## Can I elect to not share data?
 
 There are legitimate reasons you might not want to share your data. Data might not be shareable due to ethical, legal, or technical concerns. **You will still need to submit a DMS Plan even if you plan to withhold data sharing**. You must explain your reasoning in your DMS Plan.
+
+```{r, echo=FALSE, fig.alt='Researchers with scientific data must justify why they will not share data with an appropriate exception.', out.width = '70%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_36")
+```
 
 Justifiable ethical, legal, and technical factors for limiting sharing of data include: 
 
@@ -144,7 +156,3 @@ The following are **NOT** good reasons to limit the sharing of your data:
 - Data are not thought to have a suitable repository 
 - You don't have the right personnel to manage data or share data
 - You don't want to pay for data storage
-
-```{r, echo=FALSE, fig.alt='Researchers with scientific data must justify why they will not share data with an appropriate exception.', out.width = '70%', fig.align = 'center'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_36")
-```
