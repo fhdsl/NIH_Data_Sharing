@@ -121,7 +121,7 @@ Scientific data should be made accessible as soon as possible, and no later than
 
 ## Can I elect to not share data?
 
-There are legitimate reasons you might not want to share your data. Data might not be sharable due to ethical, legal, or technical concerns. **You will still need to submit a DMS Plan even if you plan to withold data sharing**. You must explain your reasoning in your DMS Plan.
+There are legitimate reasons you might not want to share your data. Data might not be shareable due to ethical, legal, or technical concerns. **You will still need to submit a DMS Plan even if you plan to withhold data sharing**. You must explain your reasoning in your DMS Plan.
 
 Justifiable ethical, legal, and technical factors for limiting sharing of data include: 
 
