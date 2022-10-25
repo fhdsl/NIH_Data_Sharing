@@ -105,11 +105,11 @@ You are not expected to share:
 
 You might be wondering if it is required to share raw data. 
 
-The DMS Policy applies to **Final research data**. This is data that is recorded factual material commonly accepted in the scientific community as necessary to **validate and replicate** research findings. For many scientific areas, final research data includes both raw data and analyses conducted on the data. 
+The DMS Policy applies to **final research data**. This is data that is recorded factual material commonly accepted in the scientific community as necessary to **validate and replicate** research findings. For many scientific areas, final research data includes both raw data and analyses conducted on the data. 
 
 For example, final research data for a clinical study would include a dataset that was used in the published study, but not the clinical documents (for example, medical records) that the dataset was derived from. 
 
-For genomic data, raw sequence reads are generally not expected unless a de novo sequencing experiment is performed. Sequence alignments however are expected to be shared. For more information about genomic data sharing, see the details of the policy [here](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/data-submission-and-release-expectations){target="_blank"}
+For genomic data, raw sequence reads are generally not expected unless a de novo sequencing experiment was performed. Sequence alignments however are expected to be shared. For more information about genomic data sharing, see the details of the policy [here](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/data-submission-and-release-expectations){target="_blank"}.
 
 </div>
 
