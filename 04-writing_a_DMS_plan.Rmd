@@ -10,12 +10,6 @@ In this section we will guide you through the general requirements for the vario
 &nbsp;
 &nbsp;
 
-### General Requirements
-
-[ ] The plan must be **less than 2 pages**.
-[ ] Do not include anything that might be confidential or proprietary in your plan.
-    - _Initially DMS plans will not be made public, but they **may be made public** in the future_ 
-
 These following are the major sections of the plan:
 
 1. **Data type** - describe what data (amount and type) will be generated over the course of funding and what data will or will not be shared
@@ -24,8 +18,15 @@ These following are the major sections of the plan:
 4. **Data preservation, access, timelines** - describe where the data will be made available and when
 5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
 6. **Oversight** - describe who will manage compliance of the DMS plan
-    
-    
+
+
+## General Requirements
+
+- [ ] The plan must be **less than 2 pages**.  
+- [ ] Nothing confidential or proprietary is in your plan.  
+    - _Initially DMS plans will not be made public, but they **may be made public** in the future_.
+
+
 ##  Data Type
 
 A. Types and amount data
