@@ -28,6 +28,7 @@ Github
 GH
 https
 impactful
+interoperable
 interpretable
 ITCR
 itcrtraining
@@ -37,6 +38,7 @@ Just-in-Time
 Leanpub
 Markua
 mentorship
+MIAME
 NCI
 NIH
 nih
@@ -45,6 +47,7 @@ ottrpal
 Pandoc
 PHS
 presubmission
+SARS-CoV-2
 shareable
 SBIR
 STTR

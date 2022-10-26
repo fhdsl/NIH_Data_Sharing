@@ -16,12 +16,12 @@ First we will discuss the motivations behind the new data management and sharing
 
 So why is the NIH doing this? There are several reasons why sharing data can be beneficial to the scientific community.
 
-- **Supports transparency** - Sharing data provides more clarity about how studies are performed. Many scientists also believe in an ethical responsibility to study participants (@Bauchner_citation_2016).
+- **Supports transparency** - Sharing data provides more clarity about how studies are performed. Many scientists also believe in an ethical responsibility to study participants [@bauchner_citation_2016].
 - **Encourages reproducibility and rigor** - Having the data accessible, allows others to try to reproduce study findings. This can further enable studies that may replicate or validate the initial findings with different data. 
-- **Supports multi-modal work** - When more data of various types are easily available it makes it easier for scientist to perform studies with multiple types of data. 
+- **Supports multi-modal work** - When more data of various types are easily available it makes it easier for scientist to perform studies with multiple types of data [@thessen_citation_2021]. 
 - **More efficient and cost effective** - Some data are especially difficult or expensive to produce.
 - **Supports Researcher Inclusion** - Data generation can be especially difficult for those at institutes with less resources. Publicly available data can therefore be used by these researchers to better enable their participation. 
-- **Increased impact** - Papers that share their data in repositories appear to be cited more based on the study by @colavizza_citation_2020
+- **Increased impact** - Papers that share their data in repositories appear to be cited more based on the study by @colavizza_citation_2020 .
 - **Increased collaboration opportunity** - Having data available can encourage other researchers to expand the research in a new direction or extend it further and they may reach out to collaborate.
 - **Data Citations** - Due to the importance of data generation and sharing to the NIH, data will now be seen as research product that demonstrates a contribution to the scientific community.
 
@@ -71,17 +71,17 @@ The following outline several key questions:
 The DMS Policy applies to all research that generates [scientific data](#scientific-data), including:
 
 - Research Projects
-- Some Career Development Awards (Ks)
+- Some Career Development Awards (K)
 - Small Business SBIR/STTR 
 - Research Centers
 
 The DMS Policy does not apply to research and other activities that do not generate scientific data, including:
 
 - Training (T)
-- Fellowships (Fs)
+- Fellowships (F)
 - Construction (C06)
 - Conference Grants (R13)
-- Resource (Gs)
+- Resource (G)
 - Research-Related Infrastructure Programs (e.g., S06)
 
 You can look up your NIH Activity Code [here](https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf){target="_blank"} to see if you are required to submit a DMS Plan.
