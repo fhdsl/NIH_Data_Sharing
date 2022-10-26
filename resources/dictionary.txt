@@ -7,6 +7,7 @@ biblio
 Bloomberg
 Bookdown
 Coursera
+CoV
 css
 Datatrail
 DataTrail
@@ -21,6 +22,7 @@ faq
 favicon
 favicon.ico
 FHDaSL
+findability
 findable
 GDSCN
 GitHub
@@ -47,13 +49,13 @@ ottrpal
 Pandoc
 PHS
 presubmission
-SARS-CoV-2
 shareable
 SBIR
 STTR
 UE
 UE5
 reproducibility
+reusability
 rmarkdown
 RPPR
 th
