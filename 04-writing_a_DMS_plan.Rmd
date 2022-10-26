@@ -58,20 +58,26 @@ These following are the major sections of the plan:
 
 ## Related Tools, Software and/or Code:
 
-- Describe any software or code you intend to use to process or analyze the data (provide the names of the tools and how they can be accessed).
+☑️  Describe any software or code you intend to use to process or analyze the data.
+
+- _Provide the names of the tools and how they can be accessed._
 
 ## Standards:
 
-- Describe the names of any data standards that will be used for your data/metadata to enable easier sharing are repeated use of your data.
-- Describe how these standards will be applied to your data.
-- If no standards exist, justify this.
-- This could include: 
-  - data formats 
-  - data dictionaries
-  - data identifiers
-  - definitions
-  - unique identifiers
-  - other data documentation
+☑️  Describe the names of any data standards that will be used for your data/metadata to enable easier sharing are repeated use of your data.
+
+- _This could include:_
+  - _data formats_
+  - _data dictionaries_
+  - _data identifiers_
+  - _definitions_
+  - _unique identifiers_
+  - _other data documentation_
+
+☑️  Describe how these standards will be applied to your data.
+&nbsp;
+
+☑️  If no standards exist, justify this.
   
 <div class = "dictionary">
 
