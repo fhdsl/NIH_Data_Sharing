@@ -32,17 +32,17 @@ These following are the major sections of the plan:
 
 ##  Data Type
 
-Types and amount data
+### Types and amount data
 
 ☑️  Describe what kind of data will be generated over the course of funding.  
 
 ☑️  Describe the expected amounts of data for each kind of data.
 
-Data Sharing
+### Data Sharing
 
 ☑️  Describe what data from the project will shared or not shared and justify this decision.
 
-Metadata, other relevant data, and associated documentation
+### Metadata, other relevant data, and associated documentation
 
 ☑️  List information about metadata.
 &nbsp;
