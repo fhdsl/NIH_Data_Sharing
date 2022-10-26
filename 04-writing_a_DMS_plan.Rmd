@@ -113,7 +113,7 @@ C. Timeline of scientific data sharing:
 The following are scientific papers that can be referenced in your DMS Plan:
 
 - @vesteghem_citation_2020 - Describes Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles and their importance to precision oncology
--
+- @bonomi_citation_2020 - Describes the promises and challenges associated with sharing genomic data
 - 
 
  
