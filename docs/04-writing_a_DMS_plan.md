@@ -4,10 +4,11 @@
 # Writing a DMS Plan
 
 In this section we will guide you through the general requirements for the various sections of the DMS plan. 
+
 &nbsp;
 &nbsp;
 
-General requirements:
+### General Requirements
 
 - The plan must be **less than 2 pages**.
 - Initially DMS plans will not be made public, but they **may be made public** in the future, so do not include anything that might be confidential or proprietary in your plan.
@@ -69,7 +70,7 @@ Standards vary by discipline. An extensive list of standards you can search can 
 
 ## Data Preservation, Access, and Associated Timelines
 
-A.  List where the data will be shared
+A. List where the data will be shared
 
 - Describe the repositories for sharing the scientific data, as well as the metadata.
 
@@ -109,11 +110,13 @@ C. Timeline of scientific data sharing:
 
 The following are scientific papers that can be referenced in your DMS Plan:
 
--
--
-- 
-
- 
+- @bonomi_citation_2020 - The promises and challenges associated with sharing genomic data
+- @cosgriff_citation_2020 - The promise of shared data for addressing public health emergencies, such as the SARS-CoV-2 pandemic
+- @mckiernan_citation_2016 - Data sharing can help advance careers through increases in citations, media attention, potential collaborators, job opportunities, and funding opportunities
+- @piwowar_citation_2011 - Investing in data storage and archiving is a good investment of grant funds
+- @tenopir_citation_2020 - Most scientists view data sharing favorably; A majority feel lack of access impedes scientific progress
+- @vesteghem_citation_2020 - Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles and their importance to precision oncology
+- @wilkinson_citation_2016 - Good data management is key to knowledge discovery and innovation; four foundational principles — Findability, Accessibility, Interoperability, and Reusability — can help guide data producers and publishers
 
 
 
