@@ -8,8 +8,8 @@ rmd_files: ["index.Rmd",
             "04-writing_a_DMS_plan.Rmd",
             "05-submission.Rmd",            
             "Appendix.Rmd",
-            "References.Rmd",
-            "About.Rmd",]
+            "About.Rmd",
+            "References.Rmd"]
 new_session: yes
 bibliography: [book.bib]
 delete_merged_file: true
