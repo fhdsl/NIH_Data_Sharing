@@ -22,7 +22,7 @@ These following are the major sections of the plan:
 
 ## General Requirements
 
-☑️  The plan must be **less than 2 pages**.  
+☑️  The plan must be **less than 2 pages**.
 &nbsp;
 
 ☑️  Nothing confidential or proprietary is in your plan.  
@@ -35,7 +35,6 @@ These following are the major sections of the plan:
 Types and amount data
 
 ☑️  Describe what kind of data will be generated over the course of funding.  
-&nbsp;
 
 ☑️  Describe the expected amounts of data for each kind of data.
 
