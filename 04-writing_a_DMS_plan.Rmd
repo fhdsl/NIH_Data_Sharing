@@ -32,20 +32,29 @@ These following are the major sections of the plan:
 
 ##  Data Type
 
-A. Types and amount data
+Types and amount data
 
-- Describe what kind of data will be generated over the course of funding. 
-- Describe the expected amounts of data for each kind of data.
+☑️  Describe what kind of data will be generated over the course of funding.  
+&nbsp;
 
-B. Data Sharing
+☑️  Describe the expected amounts of data for each kind of data.
 
-- Describe what data from the project will shared or not shared and justify this decision.
+Data Sharing
 
-C. Metadata, other relevant data, and associated documentation
+☑️  Describe what data from the project will shared or not shared and justify this decision.
 
-- List information about metadata.
-- List other possibly relevant data (that you think is not considered scientific).
-- List any relevant information about how you plan to gather the data (ex. study protocols and data collection instruments) that you plan to share to make it easier for others to reproduce your work.
+Metadata, other relevant data, and associated documentation
+
+☑️  List information about metadata.
+&nbsp;
+
+☑️  List other possibly relevant data.  
+
+- _This includes data you think is not considered scientific._
+
+☑️  List any relevant information about how you plan to gather the data.
+
+- _For example, this could include study protocols and data collection instruments that you plan to share to make it easier for others to reproduce your work._
 
 
 ## Related Tools, Software and/or Code:
