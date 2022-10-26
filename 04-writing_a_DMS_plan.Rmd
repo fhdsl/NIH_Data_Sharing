@@ -11,8 +11,9 @@ In this section we will guide you through the general requirements for the vario
 
 General requirements:
 
-- The plan must be **less than 2 pages**.
-- Initially DMS plans will not be made public, but they **may be made public** in the future, so do not include anything that might be confidential or proprietary in your plan.
+[ ] The plan must be **less than 2 pages**.
+[ ] Do not include anything that might be confidential or proprietary in your plan.
+    - _Initially DMS plans will not be made public, but they **may be made public** in the future_ 
 
 These following are the major sections of the plan:
 
