@@ -22,9 +22,9 @@ These following are the major sections of the plan:
 
 ## General Requirements
 
-[ ] The plan must be **less than 2 pages**.  
-[ ] Nothing confidential or proprietary is in your plan.  
-    - _Initially DMS plans will not be made public, but they **may be made public** in the future_.
+🔲 The plan must be **less than 2 pages**.  
+🔲 Nothing confidential or proprietary is in your plan.  
+- _Initially DMS plans will not be made public, but they **may be made public** in the future_.
 
 
 ##  Data Type
