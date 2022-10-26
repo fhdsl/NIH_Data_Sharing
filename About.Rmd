@@ -39,9 +39,6 @@ These credits are based on our [course contributors table guidelines](https://gi
 
 &nbsp;
 
-```{r, echo = FALSE}
-devtools::session_info()
-```
 
 <!-- Author information -->
 
@@ -63,8 +60,4 @@ For JHU courses, You will need to add Ira as a credit:
 [Ira Gooding]: https://publichealth.jhu.edu/faculty/4130/ira-gooding
 -->
 
-# Tools used for this course  {-}
 
-```{r, echo = FALSE}
-devtools::session_info()
-```
