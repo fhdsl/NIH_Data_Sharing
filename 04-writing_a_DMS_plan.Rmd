@@ -114,6 +114,7 @@ The following are scientific papers that can be referenced in your DMS Plan:
 
 - @bonomi_citation_2020 - The promises and challenges associated with sharing genomic data
 - @cosgriff_citation_2020 - The promise of shared data for addressing public health emergencies, such as the SARS-CoV-2 pandemic
+- @tenopir_citation_2020 - Most scientists view data sharing favorably; A majority feel lack of access impedes scientific progress
 - @vesteghem_citation_2020 - Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles and their importance to precision oncology
  
 

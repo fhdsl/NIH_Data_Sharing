@@ -71,17 +71,17 @@ The following outline several key questions:
 The DMS Policy applies to all research that generates [scientific data](#scientific-data), including:
 
 - Research Projects
-- Some Career Development Awards (Ks)
+- Some Career Development Awards (K)
 - Small Business SBIR/STTR 
 - Research Centers
 
 The DMS Policy does not apply to research and other activities that do not generate scientific data, including:
 
 - Training (T)
-- Fellowships (Fs)
+- Fellowships (F)
 - Construction (C06)
 - Conference Grants (R13)
-- Resource (Gs)
+- Resource (G)
 - Research-Related Infrastructure Programs (e.g., S06)
 
 You can look up your NIH Activity Code [here](https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf){target="_blank"} to see if you are required to submit a DMS Plan.
