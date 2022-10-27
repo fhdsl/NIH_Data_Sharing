@@ -7,6 +7,7 @@ biblio
 Bloomberg
 Bookdown
 Coursera
+CoV
 css
 Datatrail
 DataTrail
@@ -22,6 +23,8 @@ favicon
 favicon.ico
 FHDaSL
 findable
+findability
+GDS
 GDSCN
 GitHub
 Github
@@ -54,6 +57,7 @@ STTR
 UE
 UE5
 reproducibility
+Reusability
 rmarkdown
 RPPR
 th
