@@ -37,7 +37,7 @@ If you have questions, you can email: SciencePolicy@od.nih.gov
 
 The following costs are **not allowed** in the budget:
 
-  - Infrastructure costs (for example [facilities and administrative costs](https://grants.nih.gov/grants/policy/nihgps/html5/section_7/7.3_direct_costs_and_facilities_and_administrative_costs.htm), this should be indirect costs)
+  - Infrastructure costs (for example [facilities and administrative costs](https://grants.nih.gov/grants/policy/nihgps/html5/section_7/7.3_direct_costs_and_facilities_and_administrative_costs.htm) should be indirect costs)
   - Costs related to gaining access to the data
   - Costs related to collecting the data
   
