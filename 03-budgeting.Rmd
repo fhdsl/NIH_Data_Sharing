@@ -28,7 +28,7 @@ You can request funding for costs related to your data including:
  - If the DMS plan states that the data will be shared in multiple repositories, the costs for each repository can be included in the budget.
 </div>
 
-> You can refer to the [NIH Supplemental Information for Allowable Costs] (https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-015.html){target="_blank"} for more information.  
+> You can refer to the [NIH Supplemental Information for Allowable Costs](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-015.html){target="_blank"} for more information.  
 
 If you have questions, you can email: SciencePolicy@od.nih.gov
 
