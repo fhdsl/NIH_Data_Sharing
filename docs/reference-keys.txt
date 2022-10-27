@@ -20,9 +20,15 @@ budgeting-for-data-sharing
 writing-a-dms-plan
 general-requirements
 data-type
+types-and-amount-data
+data-sharing
+metadata-other-relevant-data-and-associated-documentation
 related-tools-software-andor-code
 standards
 data-preservation-access-and-associated-timelines
+list-where-the-data-will-be-shared
+methods-to-make-scientific-data-findable-and-identifiable
+timeline-of-scientific-data-sharing
 access-distribution-or-reuse-considerations
 oversight
 list-of-references-for-your-dms-plan
