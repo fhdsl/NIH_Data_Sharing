@@ -136,7 +136,8 @@ Describe how you considered various factors that may influence data access or hi
 
 - _An example could be the Genomic Data Sharing Policy._
 
-☑️  Describe any reasons that will limit data sharing.Other sharing limitations: 
+
+☑️ Describe any reasons that will limit data sharing. Other sharing limitations:
 
 - _This could be because datasets cannot practically be digitized with reasonable efforts, or that privacy or safety of research participants would be compromised or place them at greater risk of re-identification._
       
