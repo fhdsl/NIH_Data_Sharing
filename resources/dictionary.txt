@@ -24,6 +24,8 @@ favicon.ico
 FHDaSL
 findability
 findable
+findability
+GDS
 GDSCN
 GitHub
 Github
@@ -55,6 +57,7 @@ STTR
 UE
 UE5
 reproducibility
+Reusability
 reusability
 rmarkdown
 RPPR
