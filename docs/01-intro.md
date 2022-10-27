@@ -158,6 +158,22 @@ Justifiable ethical, legal, and technical factors for limiting sharing of data i
 - Restrictions are imposed by existing or anticipated agreements with other parties 
 - Datasets cannot practically be digitized with reasonable efforts
 
+<div class = "click_to_expand_block">
+
+<details> <summary> What if my data are proprietary? (click for more information) </summary>
+
+**Considerations for Proprietary Data (directly from the NIH)**
+
+NIH understands that some scientific data generated with NIH funds may be proprietary. Under the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) Program Policy Directive, effective May 2, 2019, SBIR and STTR awardees may withhold applicable data for 20 years after the award date, as stipulated in the specific SBIR/STTR funding agreement and consistent with achieving program goals. SBIR and STTR awardees are expected to submit a Data Management & Sharing Plan per DMS Policy requirements.
+
+Issues related to proprietary data also can arise when co-funding is provided by the private sector (for example, the pharmaceutical or biotechnology industries). NIH recognizes that the extent of data sharing may be limited by restrictions imposed by licensing limitations attached to materials needed to conduct the research. Applicants should discuss projects with proposed collaborators early to avoid agreements that prohibit or unnecessarily restrict data sharing. NIH staff will evaluate the justifications of investigators who believe that they are unable to share data.
+
+For questions or concerns about data sharing expectations for proprietary data, please contact the [Office of Science Policy](mailto:SciencePolicy@od.nih.gov). Small businesses may wish to contact the [NIH SEED Office](https://public.era.nih.gov/commons/public/servicedesk/initseed.era).
+
+</details>
+
+</div>
+
 Some additional reasons to limit sharing:
 
 - NIH respects Tribal sovereignty and supports responsible management/sharing of American Indian / Alaska Native participant data, which can include limiting sharing
