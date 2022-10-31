@@ -78,9 +78,9 @@ traceable “owner’s manual,” or provenance.
 
 ## What if I can't find an appropriate repository? 
 
-- **Supplemental material** - if the data is small (less than 2 GB), it may be included as supplemental material for an article. See [here](https://www.ncbi.nlm.nih.gov/pmc/about/guidelines/#suppm) for more information. 
-- **Institutional repositories** - check to see if your institute has a repository where you could publicly share the data
-- **[Generalist repositories](https://www.nlm.nih.gov/NIHbmic/generalist_repositories.html)**- host your data somewhere that hosts different types of data publicly, such as:
+- **Supplemental material** - If the data is small (less than 2 GB), it may be included as supplemental material for an article. See [here](https://www.ncbi.nlm.nih.gov/pmc/about/guidelines/#suppm) for more information. 
+- **Institutional repositories** - Check to see if your institute has a repository where you could publicly share the data
+- **[Generalist repositories](https://www.nlm.nih.gov/NIHbmic/generalist_repositories.html)**- Host your data somewhere that hosts different types of data publicly, such as:
 
     - [Dataverse](https://dataverse.org/)
     - [Dryad](https://datadryad.org/)
@@ -92,7 +92,7 @@ traceable “owner’s manual,” or provenance.
     - [Vivli](https://vivli.org/)
     - [Zenodo](https://zenodo.org/)
     
-
+Note that the NIH encourages that an existing data sharing repository be used whenever one is available instead of one of these options.
 
 
 
