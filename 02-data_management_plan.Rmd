@@ -55,7 +55,7 @@ When working with human participant data, including de-identified human data, he
 <div class = "dictionary">
 Data FAIRness - data that is **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable. For more information about data FAIRness, check out  this [manuscript](https://www.nature.com/articles/sdata201618).
 
-In brief it is described by the [NIH](https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf) as follows:
+In brief, it is described by the [NIH](https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf) as follows:
 
 - To be Findable, data must have unique identifiers, effectively
 labeling it within searchable resources.
