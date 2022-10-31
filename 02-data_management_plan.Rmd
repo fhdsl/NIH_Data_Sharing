@@ -36,6 +36,18 @@ What repositories might work for your data type?
     - **Retention Policy**: Provides documentation on policies for data retention within the repository.
 
 
+<details><summary> Click here  for additional considerations for human data suggested by the NIH </Summary>
+
+When working with human participant data, including de-identified human data, here are some additional characteristics to look for:
+
+- **Fidelity to Consent**: Uses documented procedures to restrict dataset access and use to those that are consistent with participant consent and changes in consent.
+- **Restricted Use Compliant**: Uses documented procedures to communicate and enforce data use restrictions, such as preventing reidentification or redistribution to unauthorized users.
+- **Privacy**: Implements and provides documentation of measures (for example, tiered access, credentialing of data users, security safeguards against potential breaches) to protect human subjects’ data from inappropriate access.
+- **Plan for Breach**: Has security measures that include a response plan for detected data breaches.
+- **Download Control*: Controls and audits access to and download of datasets (if download is permitted).
+- **Violations**: Has procedures for addressing violations of terms-of-use by users and data mismanagement by the repository.
+- **Request Review**: Makes use of an established and transparent process for reviewing data access requests.
+
 
 <div class = "dictionary">
 Data FAIRness - data that is **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable. For more information about data FAIRness, check out  this [manuscript](https://www.nature.com/articles/sdata201618).
