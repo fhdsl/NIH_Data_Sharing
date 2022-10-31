@@ -12,8 +12,10 @@ CoV
 curation
 Curation
 css
+Dataport
 Datatrail
 DataTrail
+Dataverse
 de
 DMS
 Dockerfile
