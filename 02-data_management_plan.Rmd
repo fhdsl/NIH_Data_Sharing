@@ -21,7 +21,7 @@ What repositories might work for your data type?
 - Other programs or FOAs will not specify where the data should be shared, however researchers should aim to find repository with the following characteristics
 
     - **Establised**: If the repository is established (well-known or has been around for a significant period of time), it is likely to improve the FAIRness of the data. 
-    - **Specific** -repositores that are discipline or data-type specific should be priortized to promote reuse.
+    - **Specific**: Repositores that are discipline or data-type specific should be priortized to promote reuse.
     - **Unique Persistent Identifiers**: Assigns datasets a citable, unique persistent identifier, such as a digital object identifier (DOI) or accession number, to support data discovery, reporting, and research assessment. The identifier points to a persistent landing page that remains accessible even if the dataset is de-accessioned or no longer available.
     - **Long-Term Sustainability**: Has a plan for long-term management of data, including maintaining integrity, authenticity, and availability of datasets; building on a stable technical infrastructure and funding plans; and having contingency plans to ensure data are available and maintained during and after unforeseen events.
     - **Metadata**: Ensures datasets are accompanied by metadata to enable discovery, reuse, and citation of datasets, using schema that are appropriate to, and ideally widely used across, the community(ies) the repository serves. Domain-specific repositories would generally have more detailed metadata than generalist repositories.
@@ -36,7 +36,7 @@ What repositories might work for your data type?
     - **Retention Policy**: Provides documentation on policies for data retention within the repository.
 
 
-<details><summary> Click here  for additional considerations for human data suggested by the NIH </Summary>
+<details><summary> Click here  for additional considerations for human data suggested by the NIH. </Summary>
 
 When working with human participant data, including de-identified human data, here are some additional characteristics to look for:
 
@@ -48,6 +48,7 @@ When working with human participant data, including de-identified human data, he
 - **Violations**: Has procedures for addressing violations of terms-of-use by users and data mismanagement by the repository.
 - **Request Review**: Makes use of an established and transparent process for reviewing data access requests.
 
+</div>
 
 <div class = "dictionary">
 Data FAIRness - data that is **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable. For more information about data FAIRness, check out  this [manuscript](https://www.nature.com/articles/sdata201618).
