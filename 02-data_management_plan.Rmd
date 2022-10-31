@@ -18,10 +18,12 @@ What repositories might work for your data type?
 
 - Some programs or Funding Opportunity Announcements (FOA) will specify where the data should be shared.
 
-- Other programs or FOAs will not specify where the data should be shared, however researchers should aim to find repository with the following characteristics
+- Other programs or FOAs will not specify where the data should be shared, however the NIH provides an [interactive table of NIH-supported data repositories]((https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)) to help you identify repositories that might be appropriate for your data. 
 
-    - **Establised**: If the repository is established (well-known or has been around for a significant period of time), it is likely to improve the FAIRness of the data. 
-    - **Specific**: Repositores that are discipline or data-type specific should be priortized to promote reuse.
+  - Researchers should aim to find repository with the following characteristics:
+
+    - **Established**: If the repository is established (well-known or has been around for a significant period of time), it is likely to improve the FAIRness of the data. 
+    - **Specific**: Repositories that are discipline or data-type specific should be prioritized to promote reuse.
     - **Unique Persistent Identifiers**: Assigns datasets a citable, unique persistent identifier, such as a digital object identifier (DOI) or accession number, to support data discovery, reporting, and research assessment. The identifier points to a persistent landing page that remains accessible even if the dataset is de-accessioned or no longer available.
     - **Long-Term Sustainability**: Has a plan for long-term management of data, including maintaining integrity, authenticity, and availability of datasets; building on a stable technical infrastructure and funding plans; and having contingency plans to ensure data are available and maintained during and after unforeseen events.
     - **Metadata**: Ensures datasets are accompanied by metadata to enable discovery, reuse, and citation of datasets, using schema that are appropriate to, and ideally widely used across, the community(ies) the repository serves. Domain-specific repositories would generally have more detailed metadata than generalist repositories.
@@ -74,12 +76,23 @@ traceable “owner’s manual,” or provenance.
 
 
 
-What if I don't have one? 
+## What if I can't find an appropriate repository? 
 
+- **Supplemental material** - if the data is small (less than 2 GB), it may be included as supplemental material for an article. See [here](https://www.ncbi.nlm.nih.gov/pmc/about/guidelines/#suppm) for more information. 
+- **Institutional repositories** - check to see if your institute has a repository where you could publicly share the data
+- **[Generalist repositories](https://www.nlm.nih.gov/NIHbmic/generalist_repositories.html)**- host your data somewhere that hosts different types of data publicly, such as:
 
+    - [Dataverse](https://dataverse.org/)
+    - [Dryad](https://datadryad.org/)
+    - [Figshare](https://figshare.com/)
+    - [IEEE Dataport](https://ieee-dataport.org/)
+    - [Mendeley Data](https://data.mendeley.com/)
+    - [Open Science Framework](https://osf.io/)
+    - [Synapse](https://www.synapse.org/)
+    - [Vivli](https://vivli.org/)
+    - [Zenodo](https://zenodo.org/)
+    
 
-- link to searchable NIH supported repositories and otherwise encouraged repositories
-- info about other types of data that aren't covered by these repositories
 
 
 
