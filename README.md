@@ -2,7 +2,7 @@
 
 [![Render Bookdown and Coursera](https://github.com/jhudsl/OTTR_Template/actions/workflows/render-all.yml/badge.svg)](https://github.com/jhudsl/OTTR_Template/actions/workflows/render-all.yml)
 
-You can see the rendered course material here: {Link to rendered bookdown and/or to the Leanpub.}
+You can see the rendered course material [here](https://hutchdatascience.org/NIH_Data_Sharing/):
 
 If you would like to contribute to this course material, please [submit an issue](https://github.com/fhdsl/NIH_Data_Sharing/issues/new).
 
