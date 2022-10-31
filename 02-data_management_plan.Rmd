@@ -16,10 +16,36 @@ How you should store and interact with data while doing research.
 Once you need to share it as part of this policy, what do you do then?  
 What repositories might work for your data type?
 
+Currently there are no NIH requirements about where to share your data, except that the use of established repositories is highly encouraged, as such repositories likely improve the FAIRness of the data.
+
+<div class = "dictionary">
+Data FAIRness - data that is **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable. For more information about data FAIRness, check out  this [manuscript](https://www.nature.com/articles/sdata201618).
+
+In brief it is described by the [NIH](https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf) as follows:
+
+- To be Findable, data must have unique identifiers, effectively
+labeling it within searchable resources.
+- To be Accessible, data must be easily retrievable via open systems
+and effective and secure authentication and authorization
+procedures.
+-  To be Interoperable, data should “use and speak the same
+language” via use of standardized vocabularies.
+- To be Reusable, data must be adequately described to a new user,
+have clear information about data-usage licenses, and have a
+traceable “owner’s manual,” or provenance.
+
+</div>
+
+In the future the NIH may have more specific requirements about where certain data should be shared. 
+
+
+
+
+
 What if I don't have one? 
 
-8. Where to share data?
-- currently no NIH requirements except encouraging established repositories, but this may change 
+
+
 - link to searchable NIH supported repositories and otherwise encouraged repositories
 - info about other types of data that aren't covered by these repositories
 
