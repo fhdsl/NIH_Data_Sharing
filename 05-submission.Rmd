@@ -6,6 +6,10 @@ ottrpal::set_knitr_image_path()
 
 # (PART\*) DMS Submission Process {-}
 
+```{r, echo=FALSE, fig.alt='Pathway of topics covered in this course: Submission', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_113")
+```
+
 # Presubmission Tips
 
 
@@ -28,6 +32,11 @@ ottrpal::set_knitr_image_path()
 
 
 # Post Submission Tips
+
+```{r, echo=FALSE, fig.alt='Pathway of topics covered in this course: Post Submission', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_138")
+```
+
 
 - You can update your DMS plan if is not accepted during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process
 - You can also update your DMS plan during regular reporting intervals (but these changes will need to be approved)
