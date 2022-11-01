@@ -9,8 +9,6 @@ ottrpal::set_knitr_image_path()
 # Presubmission Tips
 
 
-The DMS Plan should be submitted as follows:
-
 - Extramural (grants)
     - DMS plans should be included within the “Other Plan(s)" field on the following forms:
         - for grants not related to career development:[PHS 398 Research Plan](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/general-forms-h.pdf).
@@ -23,13 +21,10 @@ The DMS Plan should be submitted as follows:
 - Other funding agreements
   - Plans should be submitted prior to the release of funds
 
+## Other Submission Tips:
 
-- Other plans field added to forms H filed of the PHS 398 research plan form/career development supplemental form
 - Resource sharing plans will not be going away (but will **not** be about data and will instead focus on tools and model organisms)
 - There will not be a separate [genomic data sharing](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview) plan, plans to comply with this policy should simply be included in the DMS plan
-
-
-
 
 
 # Post Submission Tips
