@@ -22,7 +22,7 @@ What repositories might work for your data type?
 
   - Researchers should aim to find repository with the following characteristics according to the NIH:
 
-    - **Established**: If the repository is established (well-known or has been around for a significant period of time), it is likely to improve the FAIRness of the data. 
+    - **Established**: If the repository is established (well-known or has been around for a significant period of time), it is likely to improve the FAIRness [@wilkinson_citation_2016] of the data. 
     - **Specific**: Repositories that are discipline or data-type specific should be prioritized to promote reuse.
     - **Unique Persistent Identifiers**: Assigns datasets a citable, unique persistent identifier, such as a digital object identifier (DOI) or accession number, to support data discovery, reporting, and research assessment. The identifier points to a persistent landing page that remains accessible even if the dataset is de-accessioned or no longer available.
     - **Long-Term Sustainability**: Has a plan for long-term management of data, including maintaining integrity, authenticity, and availability of datasets; building on a stable technical infrastructure and funding plans; and having contingency plans to ensure data are available and maintained during and after unforeseen events.
@@ -53,7 +53,7 @@ When working with human participant data, including de-identified human data, he
 </div>
 
 <div class = "dictionary">
-Data FAIRness - data that is **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable. For more information about data FAIRness, check out  this [manuscript](https://www.nature.com/articles/sdata201618).
+Data FAIRness - data that is **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable. For more information about data FAIRness, check out  this [manuscript](https://www.nature.com/articles/sdata201618) by @wilkinson_citation_2016.
 
 In brief, it is described by the [NIH](https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf) as follows:
 
