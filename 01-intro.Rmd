@@ -66,6 +66,9 @@ The following outline several key questions:
 - **When do I need to share my data?**
 - **Can I elect to not share data?** The short answer is yes. However, you must still justify this choice in a submitted DMS Plan.
 
+To determine if your research requires compliance with other policies that may influence how you share your data, take this [quiz](https://sharing.nih.gov/other-sharing-policies/which-policies-apply-to-my-research).
+
+
 ## What grant mechanisms don't require compliance with the DMS policy?
 
 The DMS Policy applies to all research that generates [scientific data](#scientific-data), including:
