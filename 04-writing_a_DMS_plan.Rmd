@@ -5,7 +5,7 @@ ottrpal::set_knitr_image_path()
 
 # Writing a DMS Plan
 
-In this section we will guide you through the general requirements for the various sections of the DMS plan. 
+In this section we will guide you through the general requirements for the various sections of the DMS plan. It is important to note that it is possible to change your DMS plan. Chances can occur during the just in time process or during regular reporting intervals. Thus you need to initially show that you made a plan but it's OK if things change. 
 
 &nbsp;
 &nbsp;
