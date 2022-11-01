@@ -18,9 +18,9 @@ What repositories might work for your data type?
 
 - Some programs or Funding Opportunity Announcements (FOA) will specify where the data should be shared.
 
-- Other programs or FOAs will not specify where the data should be shared, however the NIH provides an [interactive table of NIH-supported data repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) to help you identify repositories that might be appropriate for your data. 
+- Other programs or FOAs will not specify where the data should be shared, however the NIH provides an [interactive table of NIH-supported data repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) to help you identify repositories that might be appropriate for your data. Additional resources can also be found [here](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html).
 
-  - Researchers should aim to find repository with the following characteristics:
+  - Researchers should aim to find repository with the following characteristics according to the NIH:
 
     - **Established**: If the repository is established (well-known or has been around for a significant period of time), it is likely to improve the FAIRness of the data. 
     - **Specific**: Repositories that are discipline or data-type specific should be prioritized to promote reuse.
