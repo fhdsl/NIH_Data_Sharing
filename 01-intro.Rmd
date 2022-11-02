@@ -63,15 +63,15 @@ For certain grant mechanisms for projects that do not generate data, compliance 
 
 The following outline several key questions:
 
-- **Is my research exempt from the policy?**
-- **Does my research generate scientific data?** If yes, you will need to submit a DMS Plan.
-- **When do I need to share my data?**
-- **Can I elect to not share data?** The short answer is yes. However, you must still justify this choice in a submitted DMS Plan.
+- [**Is my research exempt from the policy?**](#no-sharing)
+- [**Does my research generate scientific data?**](#scientific-data) If yes, you will need to submit a DMS Plan.
+- [**When do I need to share my data?**](#sharing-timeline)
+- [**Can I elect to not share data?**](#choose-to-not-share) The short answer is yes. However, you must still justify this choice in a submitted DMS Plan.
 
 To determine if your research requires compliance with other policies that may influence how you share your data, take this [quiz](https://sharing.nih.gov/other-sharing-policies/which-policies-apply-to-my-research).
 
 
-## What grant mechanisms don't require compliance with the DMS policy?
+## What grant mechanisms don't require compliance with the DMS policy?  {#no-sharing}
 
 The DMS Policy applies to all research that generates [scientific data](#scientific-data), including:
 
@@ -146,7 +146,7 @@ You are not expected to share:
 
 <!-- </div> -->
 
-## What is the timeline for sharing data?
+## What is the timeline for sharing data? {#sharing-timeline} 
 
 Data should be made available **no later than publication or end of the award**. This means that data underlying findings that are not published in peer-reviewed journals should be made available by the end of the award.
 
@@ -160,7 +160,7 @@ Scientific data should be made accessible as soon as possible, and no later than
 
 
 
-## Can I elect to not share data?
+## Can I elect to not share data? {#choose-to-not-share}
 
 There are legitimate reasons you might not want to share your data. Data might not be shareable due to ethical, legal, or technical concerns. **You will still need to submit a DMS Plan even if you plan to withhold data sharing**. You must explain your reasoning in your DMS Plan.
 
