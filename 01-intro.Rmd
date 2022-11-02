@@ -5,11 +5,6 @@ ottrpal::set_knitr_image_path()
 
 # (PART\*) Introduction {-}
 
-We will cover the following topics in more detail:
-
-```{r, echo=FALSE, fig.alt='Pathway of more specific topics covered in this course: motivations of the new policy, personal considerations, data storage options, budgeting, creating a DMS plan, submission tips, and post submission tips.', out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1784801ac8b_42_0")
-```
 
 # Why this new DMS policy?
 
