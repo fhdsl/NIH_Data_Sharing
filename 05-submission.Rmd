@@ -6,42 +6,42 @@ ottrpal::set_knitr_image_path()
 
 # (PART\*) DMS Submission Process {-}
 
+```{r, echo=FALSE, fig.alt='Pathway of topics covered in this course: Submission', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_113")
+```
+
 # Presubmission Tips
 
- Implementation details
-- other plans field added to forms H filed of the PHS 398 research plan form/career development supplemental form
-- Resource sharing plans will not be going away (but will not be about data - tools and model organisms)- instructions will be updated
-- No longer separate data sharing or genomic data sharing plans
 
+- Extramural (grants)
+    - DMS plans should be included within the “Other Plan(s)" field on the following forms:
 
+ - for grants not related to career development: [PHS 398 Research Plan](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/general-forms-h.pdf).
+        - for career development grants: [PHS 398 Career Development Award Supplemental Form](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/career-forms-h.pdf).
+    - A brief summary and associated costs should be submitted as part of the budget and budget justification.
+- Extramural (contracts)
+  - DMS plans should be included as part of the technical evaluation
+- Intramural
+  - Check with the Intramural Research Program
+- Other funding agreements
+  - Plans should be submitted prior to the release of funds
 
-this is from the website:
+## Other Submission Tips:
 
-The DMS Plan should be submitted as follows:
+- Resource sharing plans will not be going away (but will **not** be about data and will instead focus on tools and model organisms)
+- There will not be a separate [genomic data sharing](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview) plan. Genomic data sharing plans should simply be included in the overall DMS plan.
 
-- Extramural (grants): DMS Plans should be included within the “Other Plan(s) field on the PHS 398 Research Plan or PHS 398 Career Development Award Supplemental Form. Additionally, a brief summary and associated costs should be submitted as part of the budget and budget justification (see Budgeting for Data Management and Sharing).
-- Extramural (contracts): as part of the technical evaluation
-- Intramural: determined by the Intramural Research Program
-- Other funding agreements: prior to the release of funds
 
 # Post Submission Tips
 
-
-
-- can update plan if not accepted (just in time)
-- can also update during regular reporting intervals - thus need to show that you made a plan but it's OK if things change (but these will need to be approved)
-    
- 11. Other details
- -Unique persistent identifiers are not required (such as a DOI but they are encouraged)
-  
-  Investigators are expected to report progress made on data sharing in their Research Progress Performance Report (RPPR). 
-  
-
- 
-
-
-
-
-```{r}
-devtools::session_info()
+```{r, echo=FALSE, fig.alt='Pathway of topics covered in this course: Post Submission', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_138")
 ```
+
+
+- You can update your DMS plan if is not accepted during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process
+- You can also update your DMS plan during regular reporting intervals (but these changes will need to be approved)
+- Investigators are expected to report progress made on data sharing in their Research Progress Performance Report (RPPR)
+  
+
+
