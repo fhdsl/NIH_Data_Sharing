@@ -54,6 +54,8 @@ When working with human participant data, including de-identified human data, he
 - **Violations**: Has procedures for addressing violations of terms-of-use by users and data mismanagement by the repository.
 - **Request Review**: Makes use of an established and transparent process for reviewing data access requests.
 
+</details>
+
 </div>
 
 <div class = "dictionary">
