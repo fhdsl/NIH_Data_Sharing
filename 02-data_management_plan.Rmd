@@ -16,12 +16,91 @@ How you should store and interact with data while doing research.
 Once you need to share it as part of this policy, what do you do then?  
 What repositories might work for your data type?
 
-What if I don't have one? 
+- Some programs or Funding Opportunity Announcements (FOA) will specify where the data should be shared.
 
-8. Where to share data?
-- currently no NIH requirements except encouraging established repositories, but this may change 
-- link to searchable NIH supported repositories and otherwise encouraged repositories
-- info about other types of data that aren't covered by these repositories
+- Other programs or FOAs will not specify where the data should be shared, however the NIH provides an [interactive table of NIH-supported data repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) to help you identify repositories that might be appropriate for your data. Additional resources can also be found [here](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html).
+
+  - Researchers should aim to find repository with the following characteristics according to the NIH:
+
+    - **Established**: If the repository is established (well-known or has been around for a significant period of time), it is likely to improve the FAIRness [@wilkinson_citation_2016] of the data. 
+    - **Specific**: Repositories that are discipline or data-type specific should be prioritized to promote reuse.
+    - **Unique Persistent Identifiers**: Assigns datasets a citable, unique persistent identifier, such as a digital object identifier (DOI) or accession number, to support data discovery, reporting, and research assessment. The identifier points to a persistent landing page that remains accessible even if the dataset is de-accessioned or no longer available.
+    - **Long-Term Sustainability**: Has a plan for long-term management of data, including maintaining integrity, authenticity, and availability of datasets; building on a stable technical infrastructure and funding plans; and having contingency plans to ensure data are available and maintained during and after unforeseen events.
+    - **Metadata**: Ensures datasets are accompanied by metadata to enable discovery, reuse, and citation of datasets, using schema that are appropriate to, and ideally widely used across, the community/communities the repository serves. Domain-specific repositories would generally have more detailed metadata than generalist repositories.
+    - **Curation and Quality Assurance**: Provides, or has a mechanism for others to provide, expert curation and quality assurance to improve the accuracy and integrity of datasets and metadata.
+    - **Free and Easy Access**: Provides broad, equitable, and maximally open access to datasets and their metadata free of charge in a timely manner after submission, consistent with legal and ethical limits required to maintain privacy and confidentiality, Tribal sovereignty, and protection of other sensitive data.
+    - **Broad and Measured Reuse**: Makes datasets and their metadata available with broadest possible terms of reuse; and provides the ability to measure attribution, citation, and reuse of data (i.e., through assignment of adequate metadata and unique identifiers).
+    - **Clear Use Guidance**: Provides accompanying documentation describing terms of dataset access and use (e.g., particular licenses, need for approval by a data use committee).
+    - **Security and Integrity**: Has documented measures in place to meet generally accepted criteria for preventing unauthorized access to, modification of, or release of data, with levels of security that are appropriate to the sensitivity of data.
+    - **Confidentiality**: Has documented capabilities for ensuring that administrative, technical, and physical safeguards are employed to comply with applicable confidentiality, risk management, and continuous monitoring requirements for sensitive data (should your data require such safeguards).
+    - **Common Format**: Allows datasets and metadata downloaded, accessed, or exported from the repository to be in widely used, preferably non-proprietary, formats consistent with those used in the community/communities the repository serves.
+    - **Provenance**: Has mechanisms in place to record the origin, chain of custody, and any modifications to submitted datasets and metadata.
+    - **Retention Policy**: Provides documentation on policies for data retention within the repository.
+
+
+<div class = "click_to_expand_block">
+
+<details><summary> Click here  for additional considerations for human data suggested by the NIH. </summary>
+
+
+
+When working with human participant data, including de-identified human data, here are some additional characteristics to look for:
+
+- **Fidelity to Consent**: Uses documented procedures to restrict dataset access and use to those that are consistent with participant consent and changes in consent.
+- **Restricted Use Compliant**: Uses documented procedures to communicate and enforce data use restrictions, such as preventing reidentification or redistribution to unauthorized users.
+- **Privacy**: Implements and provides documentation of measures (for example, tiered access, credentialing of data users, security safeguards against potential breaches) to protect human subjects data from inappropriate access.
+- **Plan for Breach**: Has security measures that include a response plan for detected data breaches.
+- **Download Control**: Controls and audits access to and download of datasets (if download is permitted).
+- **Violations**: Has procedures for addressing violations of terms-of-use by users and data mismanagement by the repository.
+- **Request Review**: Makes use of an established and transparent process for reviewing data access requests.
+
+</details>
+
+</div>
+
+<div class = "dictionary">
+**Data FAIRness**
+
+Data that is **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable. For more information about data FAIRness, check out this [manuscript](https://www.nature.com/articles/sdata201618) by @wilkinson_citation_2016.
+
+In brief, it is described by the [NIH](https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf) as follows:
+
+- To be Findable, data must have unique identifiers, effectively
+labeling it within searchable resources.
+- To be Accessible, data must be easily retrievable via open systems
+and effective and secure authentication and authorization
+procedures.
+-  To be Interoperable, data should “use and speak the same
+language” via use of standardized vocabularies.
+- To be Reusable, data must be adequately described to a new user,
+have clear information about data-usage licenses, and have a
+traceable “owner’s manual,” or provenance.
+
+</div>
+
+
+
+
+
+
+
+## What if I can't find an appropriate repository? 
+
+- **Supplemental material** - If the data is small (less than 2 GB), it may be included as supplemental material for an article. See [here](https://www.ncbi.nlm.nih.gov/pmc/about/guidelines/#suppm) for more information. 
+- **Institutional repositories** - Check to see if your institute has a repository where you could publicly share the data
+- **[Generalist repositories](https://www.nlm.nih.gov/NIHbmic/generalist_repositories.html)**- Host your data somewhere that hosts different types of data publicly, such as:
+
+    - [Dataverse](https://dataverse.org/)
+    - [Dryad](https://datadryad.org/)
+    - [Figshare](https://figshare.com/)
+    - [IEEE Dataport](https://ieee-dataport.org/)
+    - [Mendeley Data](https://data.mendeley.com/)
+    - [Open Science Framework](https://osf.io/)
+    - [Synapse](https://www.synapse.org/)
+    - [Vivli](https://vivli.org/)
+    - [Zenodo](https://zenodo.org/)
+    
+Note that the NIH encourages that an existing data sharing repository be used whenever one is available instead of one of these options.
 
 
 
