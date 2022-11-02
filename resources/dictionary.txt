@@ -6,6 +6,7 @@ BIPOC
 biblio
 Bloomberg
 Bookdown
+ccessible
 citable
 Coursera
 CoV
@@ -23,6 +24,7 @@ Dockerhub
 DOI
 documentclass
 dropdown
+eusable
 FAIRness
 faq
 favicon
@@ -41,6 +43,7 @@ Github
 GH
 https
 impactful
+indable
 interoperable
 interpretable
 ITCR
@@ -57,6 +60,7 @@ NCI
 NIH
 nih
 NHGRI
+nteroperable
 ottrpal
 Pandoc
 PHS
