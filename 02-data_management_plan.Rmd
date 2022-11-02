@@ -38,7 +38,11 @@ What repositories might work for your data type?
     - **Retention Policy**: Provides documentation on policies for data retention within the repository.
 
 
-<details><summary> Click here  for additional considerations for human data suggested by the NIH. </Summary>
+<div class = "click_to_expand_block">
+
+<details><summary> Click here  for additional considerations for human data suggested by the NIH. </summary>
+
+
 
 When working with human participant data, including de-identified human data, here are some additional characteristics to look for:
 
