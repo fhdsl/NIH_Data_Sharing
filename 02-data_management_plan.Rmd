@@ -16,7 +16,7 @@ Your data storage needs will depend greatly on the type of data you are storing 
 | **Type of data** | **Common size for a _single_ file** |
 | Genomics (WGS, WES) |	15-60 GB |
 | Genomics (RNA-seq, scRNA-seq)| 3-25 GB |
-| Imaging (microscopy)	Confocal: 2-3 MB |
+| Imaging (microscopy) |	Confocal: 2-3 MB |
 |:-- | Widefield: 5-8 MB |
 | Imaging (human medical) | 1 MB – 2.5 GB |
 | Flow cytometry |	
