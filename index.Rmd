@@ -29,6 +29,9 @@ Once a DMS plan is accepted by the funding agency, the researchers will be requi
 
 In this course we will describe what the new policy requires, places where you might want to share your particular kind of data, and how to deal with possible challenges associated with the policy.
 
+```{r, echo=FALSE, fig.alt='Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1784801ac8b_42_26")
+```
 
 ## Motivation
 
@@ -53,12 +56,9 @@ The course will cover:
 - Guidance on how to update a DMS plan after submission or funding
 - General tips and frequently asked questions
 
-
-```{r, echo=FALSE, fig.alt='Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process.', out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1784801ac8b_42_26")
+```{r, echo=FALSE, fig.alt='Pathway of more specific topics covered in this course: motivations of the new policy, personal considerations, data storage options, budgeting, creating a DMS plan, submission tips, and post submission tips.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1784801ac8b_42_0")
 ```
-
-
 
 
 ## Authors
