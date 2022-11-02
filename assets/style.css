@@ -176,6 +176,7 @@ color: #1B365D
   border-bottom: 50px solid #dbdbdb;
   border-left: 50px solid #b842ca;
   box-sizing: content-box;
+  margin-left: 10px;
 }
 .trapezoid span { 
   position: absolute;
