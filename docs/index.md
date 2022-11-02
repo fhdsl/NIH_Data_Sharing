@@ -1,6 +1,6 @@
 ---
 title: "NIH Data Management and Sharing Policy"
-date: "October 27, 2022"
+date: "November 02, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -24,6 +24,7 @@ Once a DMS plan is accepted by the funding agency, the researchers will be requi
 
 In this course we will describe what the new policy requires, places where you might want to share your particular kind of data, and how to deal with possible challenges associated with the policy.
 
+<img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1784801ac8b_42_26.png" title="Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process." alt="Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process." width="100%" />
 
 ## Motivation
 
@@ -48,7 +49,7 @@ The course will cover:
 - Guidance on how to update a DMS plan after submission or funding
 - General tips and frequently asked questions
 
-<img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_1_123.png" title="Pathway of chapters covered in this course." alt="Pathway of chapters covered in this course." width="100%" />
+<img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1784801ac8b_42_0.png" title="Pathway of more specific topics covered in this course: motivations of the new policy, personal considerations, data storage options, budgeting, creating a DMS plan, submission tips, and post submission tips." alt="Pathway of more specific topics covered in this course: motivations of the new policy, personal considerations, data storage options, budgeting, creating a DMS plan, submission tips, and post submission tips." width="100%" />
 
 
 ## Authors
