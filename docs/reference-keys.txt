@@ -5,14 +5,14 @@ authors
 why-this-new-dms-policy
 key-terms
 will-this-policy-affect-me
-what-grant-mechanisms-dont-require-compliance-with-the-dms-policy
+no-sharing
 scientific-data
 scientific-data-1
 not-scientific-data
-what-is-the-timeline-for-sharing-data
+sharing-timeline
 what-about-no-cost-extensions
 what-about-grant-renewals
-can-i-elect-to-not-share-data
+choose-to-not-share
 data-managementstorage-options
 data-storage-concerns
 data-sharing-repositories
