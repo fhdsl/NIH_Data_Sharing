@@ -110,7 +110,7 @@ Standards vary by discipline. An extensive list of standards you can search can 
 
 ☑️  Describe how long data will be available to others.
   
-- _There is no requirement for how long need to be available, however, note that journals may have requirements and the NIH encourages that data be made available for as long as possible._
+- _There is no requirement for how long need to be available, however, note that journals may have requirements and the NIH encourages that data be made available for as long as possible. Furthermore, [Per Section 8.4.2 of the NIH Grants Policy Statement](https://grants.nih.gov/grants/policy/nihgps/html5/section_8/8.4.2_record_retention_and_access.htm), grantee institutions are required to keep data for 3 years following closeout of a grant or contract agreement. Additionally, specific awards may have their own requirements._
 
 
 ## Access, Distribution, or Reuse Considerations
