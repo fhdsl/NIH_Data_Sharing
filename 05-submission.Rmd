@@ -15,7 +15,8 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 - Extramural (grants)
     - DMS plans should be included within the “Other Plan(s)" field on the following forms:
-        - for grants not related to career development:[PHS 398 Research Plan](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/general-forms-h.pdf).
+
+ - for grants not related to career development: [PHS 398 Research Plan](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/general-forms-h.pdf).
         - for career development grants: [PHS 398 Career Development Award Supplemental Form](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/career-forms-h.pdf).
     - A brief summary and associated costs should be submitted as part of the budget and budget justification.
 - Extramural (contracts)
