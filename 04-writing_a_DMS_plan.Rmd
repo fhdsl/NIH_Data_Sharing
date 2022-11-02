@@ -30,7 +30,9 @@ These following are the major sections of the plan:
 
 - _Initially DMS plans will not be made public, but they **may be made public** in the future_.
 
-☑️  You are encouraged to talk to the appropriate Program Officer for your respective funding announcement about your plan before you submit your grant proposal. 
+☑️  You are encouraged to talk to the appropriate Program Officer for your respective funding announcement about your plan **before** you submit your grant proposal. 
+
+Keep in mind that your DMS plan will not be reviewed by reviewers, only the budget sections in regard to this will be seen by them. Instead the Program Officer will review your DMS plan to determine if it is reasonable and approriate or if you need to make changes. 
 
 ##  Data Type
 
