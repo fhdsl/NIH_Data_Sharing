@@ -39,4 +39,5 @@ access-distribution-or-reuse-considerations
 oversight
 list-of-references-for-your-dms-plan
 presubmission-tips
+other-submission-tips
 post-submission-tips
