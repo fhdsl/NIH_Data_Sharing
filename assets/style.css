@@ -169,8 +169,9 @@ color: #1B365D
 .trapezoid {
   width: 130px;
   text-align: center;
-  height: 15; 
+  height: 16; 
   position: relative;
+    left: 10px;
   border-right: 50px solid #ffb809;
   border-bottom: 50px solid #dbdbdb;
   border-left: 50px solid #b842ca;
@@ -178,7 +179,7 @@ color: #1B365D
 }
 .trapezoid span { 
   position: absolute;
-  top: 5px;
+  top: 10px;
   bottom: 5px;
   left: 5%;
   color: #dbdbdb;
