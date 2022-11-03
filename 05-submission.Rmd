@@ -52,8 +52,12 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 
 - You can update your DMS plan if is not accepted during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process
-- You can also update your DMS plan during regular reporting intervals (but these changes will need to be approved)
-- Investigators are expected to report progress made on data sharing in their Research Progress Performance Report (RPPR)
-  
+- You can also update your DMS plan during regular reporting intervals, but these changes will need to be approved by program staff. Researchers are encouraged to discuss such changes in advance.
+  - examples of appropriate changes include:
+    - change in type of data generated
+    - a more appropriate data repository becomes available
+    - sharing timeline shifts
+- Investigators are expected to report progress made on data sharing in their annual Research Progress Performance Report (RPPR)
+   - NIH staff will monitor compliance with the DMS plan during this process
 
 

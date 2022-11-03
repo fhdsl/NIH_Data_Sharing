@@ -5,7 +5,7 @@ ottrpal::set_knitr_image_path()
 
 # Writing a DMS Plan
 
-In this section we will guide you through the general requirements for the various sections of the DMS plan. It is important to note that it is possible to change your DMS plan. Chances can occur during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process or during regular reporting intervals. Thus you need to initially show that you made a plan but it's OK if things change. 
+In this section we will guide you through the general requirements for the various sections of the DMS plan. It is important to note that it is possible to change your DMS plan. Changes can occur during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process or during regular reporting intervals. Thus you need to initially show that you made a plan but it's OK if things change. 
 
 &nbsp;
 &nbsp;
@@ -23,12 +23,16 @@ These following are the major sections of the plan:
 ## General Requirements
 
 ☑️  The plan must be **less than 2 pages**.
-&nbsp;
+
+- _Follow margin and font formatting restrictions consistent with the rest of the proposal_.
 
 ☑️  Nothing confidential or proprietary is in your plan.  
 
 - _Initially DMS plans will not be made public, but they **may be made public** in the future_.
 
+☑️  You are encouraged to talk to the appropriate Program Officer for your respective funding announcement about your plan **before** you submit your grant proposal. 
+
+Keep in mind that your DMS plan will not be reviewed by reviewers, only the budget sections in regard to this will be seen by them. Instead the Program Officer will review your DMS plan to determine if it is reasonable and appropriate or if you need to make changes. 
 
 ##  Data Type
 
@@ -38,9 +42,14 @@ These following are the major sections of the plan:
 
 ☑️  Describe the expected amounts of data for each kind of data.
 
+☑️  Describe the expected levels of aggregation (individual, aggregated, summarized) of data for each kind of data.
+
+☑️  Describe the expected degree of processing of data for each kind of data.
+
 ### Data Sharing
 
 ☑️  Describe what data from the project will shared or not shared and justify this decision.
+
 
 ### Metadata, other relevant data, and associated documentation
 
@@ -55,12 +64,24 @@ These following are the major sections of the plan:
 
 - _For example, this could include study protocols and data collection instruments that you plan to share to make it easier for others to reproduce your work._
 
+<div class = "click_to_expand_block">
+<details> <summary> Click here for more requirements for data subject to the [Genomic Data Sharing (GDS) policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview).</summary>
+
+
+Data types expected to be shared under the GDS Policy should be described in this element. Note that the GDS Policy expects certain types of data to be shared that may not be covered by the DMS Policy’s definition of “scientific data”. For more information on the data types to be shared under the GDS Policy, consult [Data Submission and Release Expectations](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/data-submission-and-release-expectations). 
+
+</details>
+</div>
+
 
 ## Related Tools, Software and/or Code:
 
 ☑️  Describe any software or code you intend to use to process or analyze the data.
 
-- _Provide the names of the tools and how they can be accessed._
+- _Provide the names of the tools._
+- _Provide how the tools can be accessed._
+- _Provide version number of tools and operating systems expected to be used._
+- _Provide how long they will be available (if known)._
 
 ## Standards:
 
@@ -68,6 +89,10 @@ These following are the major sections of the plan:
 
 - _This could include:_
   - _data formats_
+  - _metadata schemas_
+  - _content/encoding standards_
+  - _standard terminologies_
+  - _common data elements_
   - _data dictionaries_
   - _data identifiers_
   - _definitions_
@@ -92,6 +117,26 @@ Standards vary by discipline. An extensive list of standards you can search can 
 
 ## Data Preservation, Access, and Associated Timelines
 
+Researchers are expected to try to maximize data sharing while still respecting sharing limitations or restrictions. See the next section if you feel that you have limitations for sharing your data.
+
+<div class = "click_to_expand_block">
+<details> <summary> Click here for more requirements for data subject to the [Genomic Data Sharing (GDS) policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview).</summary>
+
+For human genomic data: 
+
+- Investigators are expected to submit data to a repository acceptable under the Genomic Data Sharing Policy. See [Where to Submit Genomic Data](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/where-to-submit-genomic-data). 
+
+- Human genomic data is expected to be shared according to NIH’s [Data Submission and Release Expectations](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/data-submission-and-release-expectations), but no later than the end of the performance period, whichever comes first. 
+
+For Non-human genomic data: 
+
+- Investigators may submit data to any widely used repository. 
+
+- Non-human genomic data is expected to be shared as soon as possible, but no later than the time of an associated publication, or end of the performance period, whichever is first. 
+
+</details>
+</div>
+
 ### List where the data will be shared
 
 ☑️  Describe the repositories for sharing the scientific data, as well as the metadata.
@@ -100,7 +145,7 @@ Standards vary by discipline. An extensive list of standards you can search can 
 
 ☑️  Describe what you will do to make the data more findable and identifiable. 
 
-- _For example, you could use a persistent unique identifier or other standard indexing tool. [Zenodo](https://zenodo.org/) can be a useful option for creating digital object identifiers (DOIs)._
+- _For example, you could use a persistent unique identifier (PID) or other standard indexing tool. [Zenodo](https://zenodo.org/) can be a useful option for creating digital object identifiers (DOIs)._
 
 ### Timeline of scientific data sharing:
 
@@ -109,21 +154,25 @@ Standards vary by discipline. An extensive list of standards you can search can 
 - _Recall that data must be shared no later than the time of publication of findings or the end of the award (whatever comes first), however the NIH encourages th the data be shared as early as possible._
 - _Renewals can have an updated DMS plan with a different timeline, but if not approved must use previous DMS date._
 - _No cost extension also allows for more time._
+- _NIH encourages that data be made available as early as possible._
 
-☑️  Describe how long data will be available to others.
+☑️  Describe how long data will be available to others. 
   
-- _There is no requirement for how long need to be available, however, note that journals may have requirements and the NIH encourages that data be made available for as long as possible. Furthermore, [Per Section 8.4.2 of the NIH Grants Policy Statement](https://grants.nih.gov/grants/policy/nihgps/html5/section_8/8.4.2_record_retention_and_access.htm), grantee institutions are required to keep data for 3 years following closeout of a grant or contract agreement. Additionally, specific awards may have their own requirements._
+- _There is no requirement for how long need to be available, however, note that journals may have requirements and the NIH encourages that data be made available for as long as the data is anticipated to be useful. Furthermore, [Per Section 8.4.2 of the NIH Grants Policy Statement](https://grants.nih.gov/grants/policy/nihgps/html5/section_8/8.4.2_record_retention_and_access.htm), grantee institutions are required to keep data for 3 years following closeout of a grant or contract agreement. Additionally, specific awards may have their own requirements._
 
+☑️  Describe any differences in timelines for different datasets. 
 
 ## Access, Distribution, or Reuse Considerations
 
 Describe how you considered various factors that may influence data access or hinder your ability to share the data including:
 &nbsp;
 
-☑️  Describe type of consent was used or will be used to gather the data.
-&nbsp;
+☑️  Describe type of informed consent was used or will be used to gather the data.
 
-☑️  Describe if access to data related to human subjects will be controlled
+- _NIH expects informed consent for de-identified cell lines or clinical specimens as well (even if the research does not meet the definition of "human subjects research" under the Common Rule for all data derived from such specimens after January 25th, 2015, the effective date of the [GDS policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview)._
+
+☑️  Describe if access to data related to human subjects will be controlled and how the privacy, rights and confidentiality of these participants will be protected (for example, de-identification methods).
+
 &nbsp;
 
 ☑️  Ensure privacy and confidentiality protections consistent with applicable federal, Tribal, state, and local laws, regulations, and policies.
@@ -134,16 +183,22 @@ Describe how you considered various factors that may influence data access or hi
 
 ☑️  Describe any other relevant data sharing policies.
 
-- _An example could be the Genomic Data Sharing Policy._
+- _An example could be the [Genomic Data Sharing (GDS) policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview)._
 
+- _If indeed the data requires compliance with the GDS policy, researchers should indicate if the study should be designated as ["sensitive"](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-023.html)._
 
-☑️ Describe any reasons that will limit data sharing. Other sharing limitations:
+☑️ Describe any reasons that will limit data sharing (including legal, ethical, or technical concerns, as well as [Institutional Certification](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/about-institutional-certifications) limitations). Other sharing limitations:
 
 - _This could be because datasets cannot practically be digitized with reasonable efforts, or that privacy or safety of research participants would be compromised or place them at greater risk of re-identification._
+
+- _If data cannot be shared due to an Institutional Certification criteria, for example, the data cannot be shared as expected by the [GDS policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview). Researchers should include this information in their DMS plan and explain why the element cannot be met._
+
+
+☑️ Describe any consideration for embargo periods or access controls if there are intellectual property concerns, rather than refraining from sharing altogether
       
 ## Oversight
 
-☑️  Describe who will manage compliance with the DMS plan.
+☑️  Describe who will manage compliance with the DMS plan (include names, titles and roles of all individuals involved).
 &nbsp;
 
-☑️  Describe how compliance will be monitored.
+☑️  Describe how compliance will be monitored (including frequency of oversight, for example every 3 months).

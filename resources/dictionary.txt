@@ -40,6 +40,7 @@ findable
 findability
 FOA
 FOAs
+fundable
 GDS
 GDSCN
 GitHub
@@ -68,6 +69,7 @@ nteroperable
 ottrpal
 Pandoc
 PHS
+PID
 presubmission
 Proteomics
 reidentification
@@ -76,6 +78,7 @@ Reusability
 reusability
 rmarkdown
 RPPR
+schemas
 shareable
 SBIR
 scRNA

@@ -10,7 +10,7 @@ In this section we will describe what you need to think about in terms of how to
 
 ## Allowable Costs
 
-You can request funding for costs related to your data including:
+You can request funding for costs related to your data including **personnel** and  **fees** associated with:
 
   - Curating the data (but not gaining access or collecting)
   - Local data management before sharing
@@ -52,10 +52,10 @@ To requests for funds for data management and sharing:
 
 > See additional guidance at the [NIH Implementation Details](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-189.html) for this policy
 
-### General tips
+### Summary
 
 - Don't double up requests for direct and indirect support
-- Again activities that get supported must happen during project period (for example if storing data for 10 years - must pay for those years in advance)
+- Activities that get supported must happen during project period (for example if storing data for 10 years - must pay for those years in advance)
 
 ## Assessment of Budget
 
