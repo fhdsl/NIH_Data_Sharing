@@ -71,10 +71,12 @@ The following outline several key questions:
 To determine if your research requires compliance with other policies that may influence how you share your data, take this [quiz](https://sharing.nih.gov/other-sharing-policies/which-policies-apply-to-my-research).
 
 
-## During Grant Applications 
+## During grant applications 
 
-### Specific Grant Mechanisms {#no-sharing}
-🤔 What grant mechanisms require compliance with the DMS policy?
+### Specific grant mechanisms {#no-sharing}
+<div class = "question">
+What grant mechanisms require compliance with the DMS policy? 
+</div>
 
 
 The DMS Policy applies to all research that generates [scientific data](#scientific-data), including:
@@ -109,8 +111,10 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 
 
-### Data Generating Research {#scientific-data}
-🤔 Does my research generate scientific data?
+### Data generating research {#scientific-data}
+<div class = "question"> 
+Does my research generate scientific data?
+</div>
 
 The NIH Data Management and Sharing (DMS) Policy applies to **all NIH-supported research generating scientific data**. But what is "scientific data"?
 
@@ -152,11 +156,14 @@ You are not expected to share:
 <!-- </div> -->
 
 
-### What about grant renewals? 
+### Grant renewals
 
 <!-- Fill in here --> 
-### Impacts on Reviews
-🤔 How will this influence the grant review process?
+
+### Impact on Reviews
+<div class = "question">
+How will this influence the grant review process?
+</div>
 
 For most proposals - those where data sharing is not part of the Funding Opportunity Announcement the following will happen during the review process:
 
@@ -175,7 +182,7 @@ For proposals where data sharing is specified as part of the Funding Opportunity
 
 Data should be made available **no later than publication or end of the award**. This means that data underlying findings that are not published in peer-reviewed journals should be made available by the end of the award.
 
-### No cost extensions?
+### No cost extensions
 
 Scientific data should be made accessible as soon as possible, and no later than the time of an associated publication or the end of the performance period of the extramural award that generated the data. If a no cost extension is granted for an extramural award, scientific data should be made accessible no later than the time of an associated publication, or the end of the no cost extension, whichever comes first.
 
