@@ -72,6 +72,10 @@ Keep in mind that your DMS plan will not be reviewed by reviewers, only the budg
 
 - _This could include:_
   - _data formats_
+  - _metadata schemas_
+  - _content/encoding standards_
+  - _standard terminologies_
+  - _common data elements_
   - _data dictionaries_
   - _data identifiers_
   - _definitions_
