@@ -42,9 +42,14 @@ Keep in mind that your DMS plan will not be reviewed by reviewers, only the budg
 
 ☑️  Describe the expected amounts of data for each kind of data.
 
+☑️  Describe the expected levels of aggregation (individual, aggregated, summarized) of data for each kind of data.
+
+☑️  Describe the expected degree of processing of data for each kind of data.
+
 ### Data Sharing
 
 ☑️  Describe what data from the project will shared or not shared and justify this decision.
+
 
 ### Metadata, other relevant data, and associated documentation
 
@@ -58,6 +63,15 @@ Keep in mind that your DMS plan will not be reviewed by reviewers, only the budg
 ☑️  List any relevant information about how you plan to gather the data.
 
 - _For example, this could include study protocols and data collection instruments that you plan to share to make it easier for others to reproduce your work._
+
+<div class = "click_to_expand_block">
+<details> <summary> Click here for more requirements for data subject to the [Genomic Data Sharing (GDS) policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview).</summary>
+
+
+Data types expected to be shared under the GDS Policy should be described in this element. Note that the GDS Policy expects certain types of data to be shared that may not be covered by the DMS Policy’s definition of “scientific data”. For more information on the data types to be shared under the GDS Policy, consult [Data Submission and Release Expectations](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/data-submission-and-release-expectations). 
+
+</details>
+</div>
 
 
 ## Related Tools, Software and/or Code:
