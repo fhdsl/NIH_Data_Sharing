@@ -126,8 +126,9 @@ Researchers are expected to try to maximize data sharing while still respecting 
 Describe how you considered various factors that may influence data access or hinder your ability to share the data including:
 &nbsp;
 
-☑️  Describe type of consent was used or will be used to gather the data.
-&nbsp;
+☑️  Describe type of informed consent was used or will be used to gather the data.
+
+- _NIH expects informed consent for de-identified cell lines or clinical specimines as well (even if the research does not meet the definition of "human subjects research" under the Common Rule for all data derived from such specimens after January 25th, 2015, the effective date of the [GDS policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview)._
 
 ☑️  Describe if access to data related to human subjects will be controlled and how the privacy, rights and confidentiality of these participants will be protected (for example, de-identification methods).
 
@@ -143,10 +144,14 @@ Describe how you considered various factors that may influence data access or hi
 
 - _An example could be the Genomic Data Sharing Policy._
 
+- _If indeed the data requires compliance with the Genomic Data Sharing Policy, researchers should indicate if the study should be designated as ["sensitive"](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-023.html)._
 
-☑️ Describe any reasons that will limit data sharing (including legal, ethical, or technical concerns). Other sharing limitations:
+☑️ Describe any reasons that will limit data sharing (including legal, ethical, or technical concerns, as well as [Institutional Certification](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/about-institutional-certifications) limitations). Other sharing limitations:
 
 - _This could be because datasets cannot practically be digitized with reasonable efforts, or that privacy or safety of research participants would be compromised or place them at greater risk of re-identification._
+
+- _If data cannot be shared due to an Institutional Certification criteria (for example, the data cannot be shared as expected by the GDS policy), researchers should include this information in their DMS plan and explain why the element cannot be met._
+
 
 ☑️ Describe any consideration for embargo periods or access controls if there are intellectual property concerns, rather than refraining from sharing altogether
       
