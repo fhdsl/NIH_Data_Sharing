@@ -12,7 +12,7 @@ First we will discuss the motivations behind the new data management and sharing
 
 
 
-So why is the NIH doing this? There are several reasons why sharing data can be beneficial to the scientific community.
+Why is the NIH doing this? There are several reasons why sharing data can be beneficial to the scientific community.
 
 - **Supports transparency** - Sharing data provides more clarity about how studies are performed. Many scientists also believe in an ethical responsibility to study participants [@bauchner_citation_2016].
 - **Encourages reproducibility and rigor** - Having the data accessible, allows others to try to reproduce study findings. This can further enable studies that may replicate or validate the initial findings with different data. 
@@ -29,23 +29,23 @@ So why is the NIH doing this? There are several reasons why sharing data can be 
 
 **Data Management**
 
-The work involved with validating, organizing, protecting, maintaining, and processing scientific data to ensure the accessibility, reliability, and quality of the scientific data for its users. All data should be managed.
+The work involved with validating, organizing, protecting, maintaining, and processing scientific data to ensure the accessibility, reliability, and quality of the scientific data for use in research. All research data should be actively managed.
 
 **Data Sharing**
 
-The act of making scientific data available for use by others (e.g., the larger research community, institutions, the broader public), for example, via an established repository. Some data meet criteria to be exempt from data sharing.
+The act of making scientific data available for use by others (e.g., the larger research community, institutions, the broader public), for example, via an established repository. Some data carry limitations on how data sharing can be done and some meet criteria that make them exempt from data sharing.   
 
 **Metadata**
 
-Data that provide additional information intended to make scientific data interpretable and reusable (e.g., date, independent sample and variable construction and description, methodology, data provenance, data transformations, any intermediate or descriptive observational variables).
+Data that provide additional information intended to make scientific data interpretable and reusable.  Metadata can include features like dates, independent sample and variable construction and description, methodology, data provenance, data transformations, any intermediate or descriptive observational variables.
 
-**Data Management and Sharing Plan (Plan)**
+**Data Management and Sharing Plan**
 
-A plan describing the data management, preservation, and sharing of scientific data and accompanying metadata.
+A plan describing an approach to data management, preservation, and sharing of scientific data and accompanying metadata.
 
 </div>
 
-# Will this policy affect me?
+# How will this policy affect me?
 
 > You can refer to the [NIH overview](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policy/research-covered-under-the-data-management-sharing-policy#after){target="_blank"} of which research will be covered by this new policy.  
 
@@ -65,7 +65,11 @@ The following outline several key questions:
 To determine if your research requires compliance with other policies that may influence how you share your data, take this [quiz](https://sharing.nih.gov/other-sharing-policies/which-policies-apply-to-my-research).
 
 
-## What grant mechanisms don't require compliance with the DMS policy?  {#no-sharing}
+## During Grant Applications 
+
+### Which Grant Mechanisms {#no-sharing}
+🤔 What grant mechanisms don't require compliance with the DMS policy?
+
 
 The DMS Policy applies to all research that generates [scientific data](#scientific-data), including:
 
@@ -95,13 +99,14 @@ According to the table, a **DMS Plan is required** for this particular award.
 
 
 
-## Does my research generate scientific data? {#scientific-data}
+### Data Generating Research {#scientific-data}
+🤔 Does my research generate scientific data?
 
 The NIH Data Management and Sharing (DMS) Policy applies to **all NIH-supported research generating scientific data**. But what is "scientific data"?
 
 <img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_0.png" title="Scientific data should be shared under the new DMS policy, but there are many scientific products that are not considered scientific data." alt="Scientific data should be shared under the new DMS policy, but there are many scientific products that are not considered scientific data." width="70%" style="display: block; margin: auto;" />
 
-### Scientific data
+#### Scientific data
 
 Scientific data are the “recorded factual material of sufficient quality to validate and replicate research findings, regardless of whether the data are used to support scholarly publications”. This can include any of the following if they are applicable to your study:
 
@@ -109,7 +114,7 @@ Scientific data are the “recorded factual material of sufficient quality to va
 - null results
 - results used to publish papers
 
-### Not scientific data
+#### Not scientific data
 
 You are not expected to share:
 
@@ -134,21 +139,36 @@ You are not expected to share:
 
 <!-- </div> -->
 
-## What is the timeline for sharing data? {#sharing-timeline} 
-
-Data should be made available **no later than publication or end of the award**. This means that data underlying findings that are not published in peer-reviewed journals should be made available by the end of the award.
-
-### What about no cost extensions?
-
-Scientific data should be made accessible as soon as possible, and no later than the time of an associated publication or the end of the performance period of the extramural award that generated the data. If a no cost extension is granted for an extramural award, scientific data should be made accessible no later than the time of an associated publication, or the end of the no cost extension, whichever comes first.
 
 ### What about grant renewals? 
 
-<!-- Fill in here -->
+<!-- Fill in here --> 
+### Impacts on Reviews
+🤔 How will this influence the grant review process?
+
+For most proposals - those where data sharing is not part of the Funding Opportunity Announcement the following will happen during the review process:
+
+- Reviewers for will not have access to your DMS plan.
+- Reviewers will however see your budget which will include some descriptions of how money will be spent to manage and share data.
+- Thus the DMS plan should not influence your grant score 
+- After a grant receives a fundable score, a Program Officer will review the DMS plan and will work with the PI to address any concerns. Changes based on this process can be made during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) procedures.
+
+For proposals where data sharing is specified as part of the Funding Opportunity Announcement the following will happen during the review process: 
+
+ - The reviewers will have access to the plan and it may be part of the review criteria.
+ - Program staff will also review the DMS plan.
+ 
+
+## Sharing timeline? {#sharing-timeline} 
+
+Data should be made available **no later than publication or end of the award**. This means that data underlying findings that are not published in peer-reviewed journals should be made available by the end of the award.
+
+### No cost extensions?
+
+Scientific data should be made accessible as soon as possible, and no later than the time of an associated publication or the end of the performance period of the extramural award that generated the data. If a no cost extension is granted for an extramural award, scientific data should be made accessible no later than the time of an associated publication, or the end of the no cost extension, whichever comes first.
 
 
-
-## Can I elect to not share data? {#choose-to-not-share}
+## When Not to Share Data {#choose-to-not-share}
 
 There are legitimate reasons you might not want to share your data. Data might not be shareable due to ethical, legal, or technical concerns. **You will still need to submit a DMS Plan even if you plan to withhold data sharing**. You must explain your reasoning in your DMS Plan.
 
@@ -191,3 +211,7 @@ The following are **NOT** good reasons to limit the sharing of your data:
 - Data are not thought to have a suitable repository 
 - You don't have the right personnel to manage data or share data
 - You don't want to pay for data storage
+
+
+ 
+ 
