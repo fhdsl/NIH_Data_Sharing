@@ -205,3 +205,20 @@ The following are **NOT** good reasons to limit the sharing of your data:
 - Data are not thought to have a suitable repository 
 - You don't have the right personnel to manage data or share data
 - You don't want to pay for data storage
+
+## How will this influence the grant review process?
+
+For most proposals - those where data sharing is not part of the Funding Opportunity Announcement the following will happen during the review process:
+
+- Reviewers for will not have access to your DMS plan.
+- Reviewers will however see your budget which will include some descriptions of how money will be spent to manage and share data.
+- Thus the DMS plan should not influence your grant score 
+- After a grant receives a fundable score, a Program Officer will review the DMS plan and will work with the PI to address any concerns. Changes based on this process can be made during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) procedures.
+
+For proposals where data sharing is specified as part of the Funding Opportunity Announcement the following will happen during the review process: 
+
+ - The reviewers will have access to the plan and it may be part of the review criteria.
+ - Program staff will also review the DMS plan.
+ 
+ 
+ 
