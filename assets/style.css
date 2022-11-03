@@ -285,6 +285,8 @@ div.notice, div.warning, div.github, div.dictionary, div.reflection, div.questio
 
 
 div.question{
+  font-size: 14;
+  font-style: bold;
   background-size: 70px;
   background-position: 15px center;
   background-color: #e8ebee;
@@ -294,6 +296,8 @@ div.question{
   align-items:center;
   border: 4px #00C1D5;
   border-style: solid;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 
@@ -331,7 +335,7 @@ div.dictionary{
   background-position: 15px center;
   background-color: #e8ebee;
   background-image: url("../assets/box_images/dictionary.png");
-  border: 4px #00C1D5;
+  border: 4px black;
   border-style: solid;  
 }
 
