@@ -337,6 +337,7 @@ div.dictionary{
 
 
 div.dictionary_long{
+  padding: 1em;
   padding-top: 20px;
   padding-left: 100px;
   min-height: 180px;
@@ -344,7 +345,7 @@ div.dictionary_long{
   background-color: #e8ebee;
   background-image: url("../assets/box_images/dictionary.png");
   background-repeat: no-repeat;
-  background-position: top 70px left 30px;
+  background-position: top 70px left 20px;
   border: 4px black;
   border-style: solid;
 }
