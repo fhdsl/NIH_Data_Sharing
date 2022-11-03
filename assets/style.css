@@ -257,13 +257,21 @@ li.appendix span, li.part span { /* for TOC part names */
 /* Sidebar formating --------------------------------------------*/
 /* from r-pkgs.org*/
 
-div.notice, div.warning, div.github, div.dictionary, div.reflection {
+div.notice, div.warning, div.github, div.dictionary, div.reflection, div.question {
   border-style: solid;
   padding: 1em;
   margin: 1em 0;
   padding-left: 100px;
   min-height: 120px;
   background-repeat: no-repeat;
+}
+
+div.question{
+  border: 4px #00C1D5;
+  background-size: 70px;
+  background-position: 15px center;
+  background-color: #e8ebee;
+  background-image: url("../assets/box_images/question.png");  
 }
 
 div.notice{
@@ -290,10 +298,25 @@ div.github{
   background-image: url("../assets/box_images/github.png");
 }
 
+
 div.dictionary{
   border: 4px #00C1D5;
   background-size: 70px;
   background-position: 15px center;
+  background-color: #e8ebee;
+  background-image: url("../assets/box_images/dictionary.png");
+}
+
+div.dictionary_long{
+  border-style: solid;
+  padding: 1em;
+  padding-top: 20px;
+  padding-left: 100px;
+  min-height: 120px;
+  background-repeat: no-repeat;
+  border: 4px #00C1D5;
+  background-size: 70px;
+  background-position: top 25 px;
   background-color: #e8ebee;
   background-image: url("../assets/box_images/dictionary.png");
 }

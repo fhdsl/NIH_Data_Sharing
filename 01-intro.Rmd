@@ -29,7 +29,7 @@ So why is the NIH doing this? There are several reasons why sharing data can be 
 
 ## Key terms 
 
-<div class = "dictionary">
+<div class = "dictionary_long">
 
 **Data Management**
 
