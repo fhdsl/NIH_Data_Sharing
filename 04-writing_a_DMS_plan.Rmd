@@ -64,7 +64,10 @@ Keep in mind that your DMS plan will not be reviewed by reviewers, only the budg
 
 ☑️  Describe any software or code you intend to use to process or analyze the data.
 
-- _Provide the names of the tools and how they can be accessed._
+- _Provide the names of the tools._
+- _Provide how the tools can be accessed._
+- _Provide version number of tools and operating systems expected to be used._
+- _Provide how long they will be available (if known)._
 
 ## Standards:
 
