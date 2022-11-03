@@ -53,7 +53,8 @@ What repositories might work for your data type?
     - **Retention Policy**: Provides documentation on policies for data retention within the repository.
     
 <div class = "question">
-test Question - Why do we need to write this out like this?
+Question
+**Why do we need to write this out like this?**
 </div>
 
 <div class = "click_to_expand_block">
