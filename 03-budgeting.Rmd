@@ -14,7 +14,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 ## Allowable Costs
 
-You can request funding for costs related to your data including:
+You can request funding for costs related to your data including **personnel** and  **fees** associated with:
 
   - Curating the data (but not gaining access or collecting)
   - Local data management before sharing
