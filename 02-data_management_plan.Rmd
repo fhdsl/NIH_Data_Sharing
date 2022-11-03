@@ -52,10 +52,6 @@ What repositories might work for your data type?
     - **Provenance**: Has mechanisms in place to record the origin, chain of custody, and any modifications to submitted datasets and metadata.
     - **Retention Policy**: Provides documentation on policies for data retention within the repository.
     
-<div class = "question">
-Question
-**Why do we need to write this out like this?**
-</div>
 
 <div class = "click_to_expand_block">
 
