@@ -98,6 +98,24 @@ Standards vary by discipline. An extensive list of standards you can search can 
 
 Researchers are expected to try to maximize data sharing while still respecting sharing limitations or restrictions. See the next section if you feel that you have limitations for sharing your data.
 
+<div class = "click_to_expand_block">
+<details> <summary> Click here for more requirements for data subject to the [Genomic Data Sharing (GDS) policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview).</summary>
+
+For human genomic data: 
+
+- Investigators are expected to submit data to a repository acceptable under the Genomic Data Sharing Policy. See [Where to Submit Genomic Data](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/where-to-submit-genomic-data). 
+
+- Human genomic data is expected to be shared according to NIH’s [Data Submission and Release Expectations](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/data-submission-and-release-expectations), but no later than the end of the performance period, whichever comes first. 
+
+For Non-human genomic data: 
+
+- Investigators may submit data to any widely used repository. 
+
+- Non-human genomic data is expected to be shared as soon as possible, but no later than the time of an associated publication, or end of the performance period, whichever is first. 
+
+</details>
+</div>
+
 ### List where the data will be shared
 
 ☑️  Describe the repositories for sharing the scientific data, as well as the metadata.
