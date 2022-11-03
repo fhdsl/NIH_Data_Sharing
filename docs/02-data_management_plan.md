@@ -7,7 +7,19 @@
 # Data Management/Storage Options
 
 ## Data Storage Concerns
-How you should store and interact with data while doing research.  
+How should you store and interact with data while doing research?
+
+Your data storage needs will depend greatly on the type of data you are storing as well as the number of samples. File sizes vary considerably based on the data being stored. A single file can be as small as 1 MB in size (for a PET scan image of the heart) to 60 GB (for an uncompressed fastq of a whole genome sequence). Storing files in a compressed format, especially raw files, can help decrease your storage needs and costs. Below is a table of common types of data and sizes for single files. This list is not comprehensive but instead should be taken as a general guide. You should always get a more specific estimate for your particular project before submitting your grant proposal.
+
+| **Type of data** | **Common size for a _single_ file** |
+|------------------|------------------|
+| Genomics (WGS, WES) |	15-60 GB |
+| Genomics (RNA-seq, scRNA-seq)| 3-25 GB |
+| Imaging (microscopy) | 2-8 MB |
+| Imaging (human medical) | 1 MB – 2.5 GB |
+| Flow cytometry |	
+| Proteomics | 3-5 MB |
+| Clinical trials | 2-25 MB |
 
 ## Data Sharing Repositories
 
