@@ -1,10 +1,10 @@
 
-```{r, include = FALSE}
-ottrpal::set_knitr_image_path()
-```
+<!-- ```{r, include = FALSE} -->
+<!-- ottrpal::set_knitr_image_path() -->
+<!-- ``` -->
 
 
-# (PART\*) DMS Submission Process {-}
+<!-- # (PART\*) DMS Submission Process {-} -->
 
 ```{r, echo=FALSE, fig.alt='Pathway of topics covered in this course: Submission', out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_113")
