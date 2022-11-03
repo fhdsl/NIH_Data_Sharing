@@ -64,17 +64,17 @@ For certain grant mechanisms for projects that do not generate data, compliance 
 The following outline several key questions:
 
 - [**Is my research exempt from the policy?**](#no-sharing)
-- [**Does my research generate scientific data?**](#scientific-data) If yes, you will need to submit a DMS Plan.
-- [**When do I need to share my data?**](#sharing-timeline)
-- [**Can I elect to not share data?**](#choose-to-not-share) The short answer is yes. However, you must still justify this choice in a submitted DMS Plan.
+- [**Does my research generate scientific data?**](#scientific-data) 
+- [**When do I need to share my data?**](#sharing-timeline) 
+- [**When should I not share data?**](#when-to-not-share) 
 
 To determine if your research requires compliance with other policies that may influence how you share your data, take this [quiz](https://sharing.nih.gov/other-sharing-policies/which-policies-apply-to-my-research).
 
 
 ## During Grant Applications 
 
-### Which Grant Mechanisms {#no-sharing}
-🤔 What grant mechanisms don't require compliance with the DMS policy?
+### Specific Grant Mechanisms {#no-sharing}
+🤔 What grant mechanisms require compliance with the DMS policy?
 
 
 The DMS Policy applies to all research that generates [scientific data](#scientific-data), including:
@@ -171,7 +171,7 @@ For proposals where data sharing is specified as part of the Funding Opportunity
  - Program staff will also review the DMS plan.
  
 
-## Sharing timeline? {#sharing-timeline} 
+## Sharing timeline {#sharing-timeline} 
 
 Data should be made available **no later than publication or end of the award**. This means that data underlying findings that are not published in peer-reviewed journals should be made available by the end of the award.
 
@@ -180,9 +180,9 @@ Data should be made available **no later than publication or end of the award**.
 Scientific data should be made accessible as soon as possible, and no later than the time of an associated publication or the end of the performance period of the extramural award that generated the data. If a no cost extension is granted for an extramural award, scientific data should be made accessible no later than the time of an associated publication, or the end of the no cost extension, whichever comes first.
 
 
-## When Not to Share Data {#choose-to-not-share}
+## When Not to Share Data {#when-to-not-share}
 
-There are legitimate reasons you might not want to share your data. Data might not be shareable due to ethical, legal, or technical concerns. **You will still need to submit a DMS Plan even if you plan to withhold data sharing**. You must explain your reasoning in your DMS Plan.
+There are legitimate reasons you might not share your data. Data might not be shareable due to ethical, legal, or technical concerns. **You will still need to submit a DMS Plan even if you plan to withhold data sharing**. You must explain your reasoning in your DMS Plan.
 
 ```{r, echo=FALSE, fig.alt='Researchers with scientific data must justify why they will not share data with an appropriate exception.', out.width = '70%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_36")

@@ -5,16 +5,16 @@ ottrpal::set_knitr_image_path()
 
 # Writing a DMS Plan
 
-In this section we will guide you through the general requirements for the various sections of the DMS plan. It is important to note that it is possible to change your DMS plan. Changes can occur during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process or during regular reporting intervals. Thus you need to initially show that you made a plan but it's OK if things change. 
+In this section we will guide you through the requirements for the various sections of the DMS plan. It is important to note that it is possible to change your DMS plan after submission. Changes can occur during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process or during regular reporting intervals. Thus you need to initially show that you made a plan but it's OK if things change. 
 
 &nbsp;
 &nbsp;
 
-These following are the major sections of the plan:
+The following are the major sections of the plan:
 
 1. **Data type** - describe what data (amount and type) will be generated over the course of funding and what data will or will not be shared
-2. **Tools, software, and code** (note code is not required to be shared) - describe in what tools you intend to use to manage and analyze the data
-3. **Standards** - describe any standards that you might use for your data and metadata
+2. **Tools, software, and code** - describe in what tools you intend to use to manage and analyze the data (note code is not required to be shared)
+3. **Standards** - describe any standards that you might need to use for your data and metadata to make them useable by others or be contributed to a repository
 4. **Data preservation, access, timelines** - describe where the data will be made available and when
 5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
 6. **Oversight** - describe who will manage compliance of the DMS plan
@@ -74,7 +74,7 @@ Data types expected to be shared under the GDS Policy should be described in thi
 </div>
 
 
-## Related Tools, Software and/or Code:
+## Related Tools, Software and/or Code
 
 ☑️  Describe any software or code you intend to use to process or analyze the data.
 
@@ -83,7 +83,7 @@ Data types expected to be shared under the GDS Policy should be described in thi
 - _Provide version number of tools and operating systems expected to be used._
 - _Provide how long they will be available (if known)._
 
-## Standards:
+## Standards
 
 ☑️  Describe the names of any data standards that will be used for your data/metadata to enable easier sharing are repeated use of your data.
 
@@ -203,7 +203,7 @@ Describe how you considered various factors that may influence data access or hi
 
 ☑️  Describe how compliance will be monitored (including frequency of oversight, for example every 3 months).
 
-## List of references for your DMS Plan
+## References to Include
 
 The following are scientific papers that can be referenced in your DMS Plan:
 
