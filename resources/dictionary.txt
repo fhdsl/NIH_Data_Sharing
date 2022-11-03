@@ -1,3 +1,4 @@
+	
 AnVIL
 apalike
 biospecimen
@@ -8,11 +9,13 @@ Bloomberg
 Bookdown
 ccessible
 citable
+Confocal
 Coursera
 CoV
 curation
 Curation
 css
+cytometry
 Dataport
 Datatrail
 DataTrail
@@ -27,6 +30,7 @@ dropdown
 eusable
 FAIRness
 faq
+fastq
 favicon
 favicon.ico
 FHDaSL
@@ -65,6 +69,7 @@ ottrpal
 Pandoc
 PHS
 presubmission
+Proteomics
 reidentification
 reproducibility
 Reusability
@@ -73,12 +78,16 @@ rmarkdown
 RPPR
 shareable
 SBIR
+scRNA
 STTR
 th
 underserved
 UE
 UE5
 Vivli
+WES
+WGS
+Widefield
 www
 Zenodo
 25th
