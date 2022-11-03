@@ -283,45 +283,56 @@ div.notice, div.warning, div.github, div.dictionary, div.reflection, div.questio
   background-repeat: no-repeat;
 }
 
+
 div.question{
-  border: 4px #00C1D5;
   background-size: 70px;
   background-position: 15px center;
   background-color: #e8ebee;
+  background-repeat: no-repeat;
   background-image: url("../assets/box_images/question.png");  
+  display:flex;
+  align-items:center;
+  border: 4px #00C1D5;
+  border-style: solid;
 }
 
+
 div.notice{
-  border: 4px #00C1D5;
   background-size: 70px;
   background-position: 15px center;
   background-color: #e8ebee;
   background-image: url("../assets/box_images/note.png");
+  border: 4px #00C1D5;
+  border-style: solid;
 }
 
 div.warning{
-  border: 4px #e0471c;
   background-size: 70px;
   background-position: 15px center;
   background-color: #e8ebee;
   background-image: url("../assets/box_images/warning.png");
+  border: 4px #e0471c;
+  border-style: solid;
 }
 
 div.github{
-  border: 4px #000000;
+
   background-size: 70px;
   background-position: 15px center;
   background-color: #e8ebee;
   background-image: url("../assets/box_images/github.png");
+  border: 4px #000000;
+  border-style: solid;  
 }
 
 
 div.dictionary{
-  border: 4px #00C1D5;
   background-size: 70px;
   background-position: 15px center;
   background-color: #e8ebee;
   background-image: url("../assets/box_images/dictionary.png");
+  border: 4px #00C1D5;
+  border-style: solid;  
 }
 
 
@@ -329,20 +340,21 @@ div.dictionary_long{
   padding-top: 20px;
   padding-left: 100px;
   min-height: 180px;
-  border: 4px black;
-  border-style: solid;
   background-size: 70px;
   background-color: #e8ebee;
   background-image: url("../assets/box_images/dictionary.png");
   background-repeat: no-repeat;
   background-position: top 70px left 30px;
+  border: 4px black;
+  border-style: solid;
 }
 div.reflection{
-  border: 4px #00C1D5;
   background-size: 90px;
   background-position: 15px center;
   background-color: #e8ebee;
   background-image: url("../assets/box_images/thinking_face.png");
+  border: 4px #00C1D5;
+  border-style: solid;
 }
 
 /* .book .book-body .page-wrapper .page-inner section.normal is needed
