@@ -285,8 +285,6 @@ div.notice, div.warning, div.github, div.dictionary, div.reflection, div.questio
 
 
 div.question{
-  font-size: 14;
-  font-style: bold;
   background-size: 70px;
   background-position: 15px center;
   background-color: #e8ebee;
