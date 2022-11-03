@@ -16,7 +16,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 
 
-So why is the NIH doing this? There are several reasons why sharing data can be beneficial to the scientific community.
+Why is the NIH doing this? There are several reasons why sharing data can be beneficial to the scientific community.
 
 - **Supports transparency** - Sharing data provides more clarity about how studies are performed. Many scientists also believe in an ethical responsibility to study participants [@bauchner_citation_2016].
 - **Encourages reproducibility and rigor** - Having the data accessible, allows others to try to reproduce study findings. This can further enable studies that may replicate or validate the initial findings with different data. 
@@ -33,19 +33,19 @@ So why is the NIH doing this? There are several reasons why sharing data can be 
 
 **Data Management**
 
-The work involved with validating, organizing, protecting, maintaining, and processing scientific data to ensure the accessibility, reliability, and quality of the scientific data for its users. All data should be managed.
+The work involved with validating, organizing, protecting, maintaining, and processing scientific data to ensure the accessibility, reliability, and quality of the scientific data for use in research. All research data should be actively managed.
 
 **Data Sharing**
 
-The act of making scientific data available for use by others (e.g., the larger research community, institutions, the broader public), for example, via an established repository. Some data meet criteria to be exempt from data sharing.
+The act of making scientific data available for use by others (e.g., the larger research community, institutions, the broader public), for example, via an established repository. Some data carry limitations on how data sharing can be done and some meet criteria that make them exempt from data sharing.   
 
 **Metadata**
 
-Data that provide additional information intended to make scientific data interpretable and reusable (e.g., date, independent sample and variable construction and description, methodology, data provenance, data transformations, any intermediate or descriptive observational variables).
+Data that provide additional information intended to make scientific data interpretable and reusable.  Metadata can include features like dates, independent sample and variable construction and description, methodology, data provenance, data transformations, any intermediate or descriptive observational variables.
 
-**Data Management and Sharing Plan (Plan)**
+**Data Management and Sharing Plan**
 
-A plan describing the data management, preservation, and sharing of scientific data and accompanying metadata.
+A plan describing an approach to data management, preservation, and sharing of scientific data and accompanying metadata.
 
 </div>
 
@@ -71,7 +71,9 @@ The following outline several key questions:
 To determine if your research requires compliance with other policies that may influence how you share your data, take this [quiz](https://sharing.nih.gov/other-sharing-policies/which-policies-apply-to-my-research).
 
 
-## What grant mechanisms don't require compliance with the DMS policy?  {#no-sharing}
+## Which Grant Mechanisms? {#no-sharing}
+🤔 What grant mechanisms don't require compliance with the DMS policy?
+
 
 The DMS Policy applies to all research that generates [scientific data](#scientific-data), including:
 
