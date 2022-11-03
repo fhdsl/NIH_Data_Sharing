@@ -96,6 +96,8 @@ Standards vary by discipline. An extensive list of standards you can search can 
 
 ## Data Preservation, Access, and Associated Timelines
 
+Researchers are expected to try to maximize data sharing while still respecting sharing limitations or restrictions. See the next section if you feel that you have limitations for sharing your data.
+
 ### List where the data will be shared
 
 ☑️  Describe the repositories for sharing the scientific data, as well as the metadata.
@@ -127,7 +129,8 @@ Describe how you considered various factors that may influence data access or hi
 ☑️  Describe type of consent was used or will be used to gather the data.
 &nbsp;
 
-☑️  Describe if access to data related to human subjects will be controlled
+☑️  Describe if access to data related to human subjects will be controlled and how the privacy, rights and confidentiality of these participants will be protected (for example, de-identification methods).
+
 &nbsp;
 
 ☑️  Ensure privacy and confidentiality protections consistent with applicable federal, Tribal, state, and local laws, regulations, and policies.
@@ -141,9 +144,11 @@ Describe how you considered various factors that may influence data access or hi
 - _An example could be the Genomic Data Sharing Policy._
 
 
-☑️ Describe any reasons that will limit data sharing. Other sharing limitations:
+☑️ Describe any reasons that will limit data sharing (including legal, ethical, or technical concerns). Other sharing limitations:
 
 - _This could be because datasets cannot practically be digitized with reasonable efforts, or that privacy or safety of research participants would be compromised or place them at greater risk of re-identification._
+
+☑️ Describe any consideration for embargo periods or access controls if there are intellectual property concerns, rather than refraining from sharing altogether
       
 ## Oversight
 
