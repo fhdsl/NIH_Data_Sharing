@@ -147,10 +147,10 @@ Describe how you considered various factors that may influence data access or hi
       
 ## Oversight
 
-☑️  Describe who will manage compliance with the DMS plan.
+☑️  Describe who will manage compliance with the DMS plan (include names, titles and roles of all individuals involved).
 &nbsp;
 
-☑️  Describe how compliance will be monitored.
+☑️  Describe how compliance will be monitored (including frequency of oversight, for example every 3 months).
 
 ## List of references for your DMS Plan
 
