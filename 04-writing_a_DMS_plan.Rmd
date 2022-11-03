@@ -106,7 +106,7 @@ Researchers are expected to try to maximize data sharing while still respecting 
 
 ☑️  Describe what you will do to make the data more findable and identifiable. 
 
-- _For example, you could use a persistent unique identifier or other standard indexing tool. [Zenodo](https://zenodo.org/) can be a useful option for creating digital object identifiers (DOIs)._
+- _For example, you could use a persistent unique identifier (PID) or other standard indexing tool. [Zenodo](https://zenodo.org/) can be a useful option for creating digital object identifiers (DOIs)._
 
 ### Timeline of scientific data sharing:
 
@@ -115,11 +115,13 @@ Researchers are expected to try to maximize data sharing while still respecting 
 - _Recall that data must be shared no later than the time of publication of findings or the end of the award (whatever comes first), however the NIH encourages th the data be shared as early as possible._
 - _Renewals can have an updated DMS plan with a different timeline, but if not approved must use previous DMS date._
 - _No cost extension also allows for more time._
+- _NIH encourages that data be made available as early as possible._
 
-☑️  Describe how long data will be available to others.
+☑️  Describe how long data will be available to others. 
   
-- _There is no requirement for how long need to be available, however, note that journals may have requirements and the NIH encourages that data be made available for as long as possible. Furthermore, [Per Section 8.4.2 of the NIH Grants Policy Statement](https://grants.nih.gov/grants/policy/nihgps/html5/section_8/8.4.2_record_retention_and_access.htm), grantee institutions are required to keep data for 3 years following closeout of a grant or contract agreement. Additionally, specific awards may have their own requirements._
+- _There is no requirement for how long need to be available, however, note that journals may have requirements and the NIH encourages that data be made available for as long as the data is anticipated to be useful. Furthermore, [Per Section 8.4.2 of the NIH Grants Policy Statement](https://grants.nih.gov/grants/policy/nihgps/html5/section_8/8.4.2_record_retention_and_access.htm), grantee institutions are required to keep data for 3 years following closeout of a grant or contract agreement. Additionally, specific awards may have their own requirements._
 
+☑️  Describe any differences in timelines for different datasets. 
 
 ## Access, Distribution, or Reuse Considerations
 
@@ -142,15 +144,15 @@ Describe how you considered various factors that may influence data access or hi
 
 ☑️  Describe any other relevant data sharing policies.
 
-- _An example could be the Genomic Data Sharing Policy._
+- _An example could be the [Genomic Data Sharing (GDS) policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview)._
 
-- _If indeed the data requires compliance with the Genomic Data Sharing Policy, researchers should indicate if the study should be designated as ["sensitive"](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-023.html)._
+- _If indeed the data requires compliance with the GDS policy, researchers should indicate if the study should be designated as ["sensitive"](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-023.html)._
 
 ☑️ Describe any reasons that will limit data sharing (including legal, ethical, or technical concerns, as well as [Institutional Certification](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/about-institutional-certifications) limitations). Other sharing limitations:
 
 - _This could be because datasets cannot practically be digitized with reasonable efforts, or that privacy or safety of research participants would be compromised or place them at greater risk of re-identification._
 
-- _If data cannot be shared due to an Institutional Certification criteria (for example, the data cannot be shared as expected by the GDS policy), researchers should include this information in their DMS plan and explain why the element cannot be met._
+- _If data cannot be shared due to an Institutional Certification criteria, for example, the data cannot be shared as expected by the [GDS policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview). Researchers should include this information in their DMS plan and explain why the element cannot be met._
 
 
 ☑️ Describe any consideration for embargo periods or access controls if there are intellectual property concerns, rather than refraining from sharing altogether
