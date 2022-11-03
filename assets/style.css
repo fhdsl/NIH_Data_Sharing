@@ -50,11 +50,11 @@ pre code {
 /*------------- Body and header text---------------- */
 
 .book.font-family-1 {
-  font-family: 'Arimo', arial, sans-serif;
+  font-family: Arial, 'Arimo', sans-serif;
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Tinos', arial, sans-serif;
+  font-family: 'Times New Roman', 'Tinos', serif;
 }
 
 
@@ -69,7 +69,7 @@ h1, h2, h3, h4 {
 }
 
 .title {
-  font-family: 'Tinos';
+  font-family: 'Times New Roman', 'Tinos', serif;
   font-size: 4em !important;
   color: #1B365D;
   margin-top: 0.275em !important;
@@ -77,7 +77,7 @@ h1, h2, h3, h4 {
 }
 
 .subtitle {
-  font-family: 'Tinos';
+  font-family: 'Times New Roman', 'Tinos', serif;
   color: #1B365D;
 }
 
@@ -142,7 +142,7 @@ color: #1B365D
 }
 
 .summary{
-  font-family: 'Arimo', sans-serif;
+  font-family: Arial, 'Arimo', sans-serif;
 }
 
 /* all TOC list items, basically */
@@ -443,7 +443,7 @@ a.anchor:hover {
 /* Footer */
 
 .footer {
-  font-family: "Tinos", serif;
+  font-family: 'Times New Roman', 'Tinos', serif;
   font-size: .85em;
   color: #193a5c;
 }
