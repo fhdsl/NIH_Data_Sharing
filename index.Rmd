@@ -18,7 +18,6 @@ knitr::write_bib(c(
 ```
 
 
-
 # About this Course {-}
 
 The [National Institutes of Health (NIH)](https://www.nih.gov/) is rolling out a new policy for the management and sharing of scientific data starting for (most) grants submitted **January 25, 2023** or later.
