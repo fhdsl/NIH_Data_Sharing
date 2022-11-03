@@ -17,7 +17,7 @@ Your data storage needs will depend greatly on the type of data you are storing 
 | Genomics (RNA-seq, scRNA-seq)| 3-25 GB |
 | Imaging (microscopy) | 2-8 MB |
 | Imaging (human medical) | 1 MB – 2.5 GB |
-| Flow cytometry |	
+| Flow cytometry |	1-50 MB |
 | Proteomics | 3-5 MB |
 | Clinical trials | 2-25 MB |
 
