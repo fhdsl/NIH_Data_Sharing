@@ -28,6 +28,9 @@ Your data storage needs will depend greatly on the type of data you are storing 
 | Proteomics | 3-5 MB |
 | Clinical trials | 2-25 MB |
 
+```{r, echo=FALSE, fig.alt='A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files.', out.width = '80%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_67_0")
+```
 
 
 ## Data Sharing Repositories
