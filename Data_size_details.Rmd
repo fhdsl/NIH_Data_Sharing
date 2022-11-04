@@ -61,5 +61,4 @@ Looking at the [file sizes](https://www.hcup-us.ahrq.gov/db/state/sedddist/seddd
 ottrpal::include_slide("https://docs.google.com/presentation/d/1B4LwuvgA6aUopOHEAbES1Agjy7Ex2IpVAoUIoBFbsq0/edit#slide=id.gfb2e21ecdc_0_42")
 ```
 
-devtools::session_info()
 
