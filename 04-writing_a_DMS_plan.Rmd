@@ -85,7 +85,7 @@ Data types expected to be shared under the GDS Policy should be described in thi
 </div>
 
 
-## Related Tools, Software and/or Code:
+## Related Tools, Software and/or Code
 
 ☑️  Describe any software or code you intend to use to process or analyze the data.
 
@@ -94,7 +94,7 @@ Data types expected to be shared under the GDS Policy should be described in thi
 - _Provide version number of tools and operating systems expected to be used._
 - _Provide how long they will be available (if known)._
 
-## Standards:
+## Standards
 
 ☑️  Describe the names of any data standards that will be used for your data/metadata to enable easier sharing are repeated use of your data.
 
@@ -158,7 +158,7 @@ For Non-human genomic data:
 
 - _For example, you could use a persistent unique identifier (PID) or other standard indexing tool. [Zenodo](https://zenodo.org/) can be a useful option for creating digital object identifiers (DOIs)._
 
-### Timeline of scientific data sharing:
+### Timeline of scientific data sharing
 
 ☑️  Describe when the scientific data will be made available to others.
 
