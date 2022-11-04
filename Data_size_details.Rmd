@@ -62,5 +62,4 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1B4LwuvgA6aUopOHE
 ```
 
 devtools::session_info()
-```
 
