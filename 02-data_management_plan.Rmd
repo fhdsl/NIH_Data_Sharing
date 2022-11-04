@@ -8,8 +8,13 @@ ottrpal::set_knitr_image_path()
 
 # Data Management/Storage Options
 
-## Data Storage Concerns
 How should you store and interact with data while doing research?
+
+```{r, echo=FALSE, fig.alt='We are on the third step of the pathway - personal considerations of the policy.', out.width = '80%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_37")
+```
+
+## Data Storage Concerns
 
 Your data storage needs will depend greatly on the type of data you are storing as well as the number of samples. File sizes vary considerably based on the data being stored. A single file can be as small as 1 MB in size (for a PET scan image of the heart) to 60 GB (for an uncompressed fastq of a whole genome sequence). Storing files in a compressed format, especially raw files, can help decrease your storage needs and costs. Below is a table of common types of data and sizes for single files. This list is not comprehensive but instead should be taken as a general guide. You should always get a more specific estimate for your particular project before submitting your grant proposal.
 
