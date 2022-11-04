@@ -103,7 +103,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 According to the table, a **DMS Plan is required** for this particular award.
 
-```{r, echo=FALSE, fig.alt='I can find the R03 activity code in the request for applications.', out.width = '80%', fig.align = 'center'}
+```{r, echo=FALSE, fig.alt='I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf', out.width = '80%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_64")
 ```
 
