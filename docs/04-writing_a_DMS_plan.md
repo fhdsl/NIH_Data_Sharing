@@ -5,7 +5,7 @@
 
 In this section we will guide you through the general requirements for the various sections of the DMS plan. 
 
-<img src="resources/images/04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_88.png" title="We are on the fifth step of the pathway- Creating a DMS plan." alt="We are on the fifth step of the pathway- Creating a DMS plan." width="100%" />
+<img src="resources/images/04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_88.png" title="We are on the fifth step of the pathway- Creating a DMS plan." alt="We are on the fifth step of the pathway- Creating a DMS plan." width="80%" />
 
 
 It is important to note that it is possible to change your DMS plan. Changes can occur during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process or during regular reporting intervals. Thus you need to initially show that you made a plan but it's OK if things change. 
@@ -36,6 +36,8 @@ These following are the major sections of the plan:
 ☑️  You are encouraged to talk to the appropriate Program Officer for your respective funding announcement about your plan **before** you submit your grant proposal. 
 
 Keep in mind that your DMS plan will not be reviewed by reviewers, only the budget sections in regard to this will be seen by them. Instead the Program Officer will review your DMS plan to determine if it is reasonable and appropriate or if you need to make changes. 
+
+<img src="resources/images/04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_87.png" title="When writing the plan, ensure it is less than 2 pages long, contains no confidential information, and has been planned out carefully, contacting the program officer if necessary." alt="When writing the plan, ensure it is less than 2 pages long, contains no confidential information, and has been planned out carefully, contacting the program officer if necessary." width="80%" style="display: block; margin: auto;" />
 
 ##  Data Type
 

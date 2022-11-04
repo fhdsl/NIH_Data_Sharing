@@ -24,6 +24,7 @@ Your data storage needs will depend greatly on the type of data you are storing 
 | Proteomics | 3-5 MB |
 | Clinical trials | 2-25 MB |
 
+<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_0.png" title="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." alt="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." width="80%" style="display: block; margin: auto;" />
 
 
 ## Data Sharing Repositories
@@ -51,7 +52,8 @@ What repositories might work for your data type?
     - **Common Format**: Allows datasets and metadata downloaded, accessed, or exported from the repository to be in widely used, preferably non-proprietary, formats consistent with those used in the community/communities the repository serves.
     - **Provenance**: Has mechanisms in place to record the origin, chain of custody, and any modifications to submitted datasets and metadata.
     - **Retention Policy**: Provides documentation on policies for data retention within the repository.
-    
+
+<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_39.png" title="The interactive table provided by NIH can help you find an appropriate repository." alt="The interactive table provided by NIH can help you find an appropriate repository." width="80%" style="display: block; margin: auto;" />
 
 <div class = "click_to_expand_block">
 
@@ -93,12 +95,6 @@ traceable “owner’s manual,” or provenance.
 
 </div>
 
-
-
-
-
-
-
 ## What if I can't find an appropriate repository? 
 
 - **Supplemental material** - If the data is small (less than 2 GB), it may be included as supplemental material for an article. See [here](https://www.ncbi.nlm.nih.gov/pmc/about/guidelines/#suppm) for more information. 
@@ -117,7 +113,4 @@ traceable “owner’s manual,” or provenance.
     
 Note that the NIH encourages that an existing data sharing repository be used whenever one is available instead of one of these options.
 
-
-
-
-
+<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_56.png" title="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." alt="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." width="80%" style="display: block; margin: auto;" />
