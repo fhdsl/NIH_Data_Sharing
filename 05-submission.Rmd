@@ -31,6 +31,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 - Resource sharing plans will not be going away (but will **not** be about data and will instead focus on tools and model organisms)
 - There will not be a separate [genomic data sharing](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview) plan. Genomic data sharing plans should simply be included in the overall DMS plan.
 
+
 # Post Submission Tips
 
 ```{r, echo=FALSE, fig.alt='Pathway of topics covered in this course: Post Submission', out.width = '100%'}
