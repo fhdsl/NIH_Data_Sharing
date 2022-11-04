@@ -37,10 +37,9 @@ You can request funding for costs related to your data including **personnel** a
 </div>
 
 > You can refer to the [NIH Supplemental Information for Allowable Costs](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-015.html){target="_blank"} for more information.  
+> If you have questions, you can email: SciencePolicy@od.nih.gov
 
-If you have questions, you can email: SciencePolicy@od.nih.gov
 
-    
 ## Unallowable costs
 
 The following costs are **not allowed** in the budget:
@@ -51,20 +50,19 @@ The following costs are **not allowed** in the budget:
   
 ## Budget Implementation
 
-To requests for funds for data management and sharing:
- 
-☑️  For direct costs - use the R&R Budget Form: single line item in section F. Other Direct Costs
+To request funds for data management and sharing:
 
-☑️  Budget justification - provide a brief summary of the DMS plan and costs- use PHS 398 Modular Budget Form: as text embedded within the Additional Narrative Justification and the R&R Budget Form: embedded within the section L. Budget Justification attachment
+☑️ **Direct Costs** should use the R&R Budget Form. 
+
+- _A single line item should appear in section F "Other Direct Costs"_
+
+☑️ **Budget justification** should provide a brief summary of the DMS plan and costs.
+
+_ _Use PHS 398 Modular Budget Form (as text embedded within the Additional Narrative Justification) and the R&R Budget Form (embedded within the section L "Budget Justification" attachment)_
 
 ☑️  Check that any related costs for other data policies like the [Genomic Data Sharing (GDS) Policy](https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/) are also included
 
 > See additional guidance at the [NIH Implementation Details](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-189.html) for this policy
-
-### Summary
-
-- Don't double up requests for direct and indirect support
-- Activities that get supported must happen during project period (for example if storing data for 10 years - must pay for those years in advance)
 
 ## Assessment of Budget
 
@@ -72,3 +70,7 @@ To requests for funds for data management and sharing:
 - Peer reviewers may provide comments on the reasonableness of the budget
 - These comments will not impact the score
 
+## Summary
+
+- Don't double up requests for direct and indirect support
+- Activities that get supported must happen during project period (for example if storing data for 10 years - must pay for those years in advance)
