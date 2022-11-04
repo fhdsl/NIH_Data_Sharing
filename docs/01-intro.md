@@ -8,7 +8,7 @@
 
 First we will discuss the motivations behind the new data management and sharing policy that will go into effect for (most) grant proposals submitted to the NIH after January 25, 2023.
 
-<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_1_103.png" title="We are on the first step of the pathway- understading the motivations of the policy." alt="We are on the first step of the pathway- understading the motivations of the policy." width="80%" style="display: block; margin: auto;" />
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_1_103.png" title="We are on the first step of the pathway- understanding the motivations of the policy." alt="We are on the first step of the pathway- understanding the motivations of the policy." width="80%" style="display: block; margin: auto;" />
 
 
 
@@ -25,7 +25,7 @@ Why is the NIH doing this? There are several reasons why sharing data can be ben
 
 ## Key terms 
 
-<div class = "dictionary">
+<div class = "dictionary_long">
 
 **Data Management**
 
@@ -95,7 +95,7 @@ For example, I am interested in applying to a **R03** award.
 
 According to the table, a **DMS Plan is required** for this particular award.
 
-<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_64.png" title="I can find the R03 activity code in the request for applications." alt="I can find the R03 activity code in the request for applications." width="80%" style="display: block; margin: auto;" />
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_64.png" title="I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf" alt="I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf" width="80%" style="display: block; margin: auto;" />
 
 
 

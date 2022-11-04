@@ -8,6 +8,7 @@ rmd_files: ["index.Rmd",
             "04-writing_a_DMS_plan.Rmd",
             "05-submission.Rmd",            
             "Appendix.Rmd",
+            "Data_size_details.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
