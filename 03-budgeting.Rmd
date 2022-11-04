@@ -25,7 +25,7 @@ You can request funding for costs related to your data including **personnel** a
   - Local data management before sharing
   - Developing supporting documentation
   - Standardizing the data
-  - Preparing the metadata to be findable, interpretable, and reusable
+  - Preparing the metadata to be findable, accessible, interpretable, and reusable (FAIR)
   - Formatting the data for storage in a repository
   - Transmission of the data from local storage to a repository
   - De-identification of the data
@@ -61,10 +61,10 @@ To requests for funds for data management and sharing:
 
 > See additional guidance at the [NIH Implementation Details](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-189.html) for this policy
 
-### Summary
-
+<div class = "notice"> 
 - Don't double up requests for direct and indirect support
 - Activities that get supported must happen during project period (for example if storing data for 10 years - must pay for those years in advance)
+</div>
 
 ## Assessment of Budget
 
