@@ -1,6 +1,7 @@
 # Data File Size Details {-}
 
-Here you can find more specific information about the file sizes for the types of data commonly generated at Fred Hutch. If you'd like to learn more about the basics of data sizes and computing capacity, please take a look at the Informatics Technology for Cancer Research's class on [Computing for Cancer Informatics](https://jhudatascience.org/Computing_for_Cancer_Informatics/index.html)
+Here you can find more specific information about the file sizes for the types of data commonly generated at Fred Hutch. If you'd like to learn more about the basics of data sizes and computing capacity, please take a look at this class on [Computing for Cancer Informatics](https://jhudatascience.org/Computing_for_Cancer_Informatics/index.html) from the [Informatics Technology for Cancer Research (ITCR)](https://itcr.cancer.gov/) [Training Network (ITN)](https://www.itcrtraining.org/).
+
 
 ## Genomics Data {-}
 
