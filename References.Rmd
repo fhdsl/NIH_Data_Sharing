@@ -1,5 +1,5 @@
 
-# Further Reading {-}
+# References {-}
 
 ## Papers to Cite in Your Plan
 
@@ -12,3 +12,5 @@ It's always a good idea to refer to the the primary literature! The following ar
 - @tenopir_citation_2020 - Most scientists view data sharing favorably; A majority feel lack of access impedes scientific progress
 - @vesteghem_citation_2020 - Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles and their importance to precision oncology
 - @wilkinson_citation_2016 - Good data management is key to knowledge discovery and innovation; four foundational principles — Findability, Accessibility, Interoperability, and Reusability — can help guide data producers and publishers
+
+## References in this Course
