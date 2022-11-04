@@ -7,7 +7,7 @@ ottrpal::set_knitr_image_path()
 
 In this section we will guide you through the general requirements for the various sections of the DMS plan. 
 
-```{r, echo=FALSE, fig.alt='We are on the fifth step of the pathway- Creating a DMS plan.', out.width = '100%'}
+```{r, echo=FALSE, fig.alt='We are on the fifth step of the pathway- Creating a DMS plan.', out.width = '80%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_88")
 ```
 

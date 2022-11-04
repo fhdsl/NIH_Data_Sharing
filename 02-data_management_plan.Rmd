@@ -58,7 +58,10 @@ What repositories might work for your data type?
     - **Common Format**: Allows datasets and metadata downloaded, accessed, or exported from the repository to be in widely used, preferably non-proprietary, formats consistent with those used in the community/communities the repository serves.
     - **Provenance**: Has mechanisms in place to record the origin, chain of custody, and any modifications to submitted datasets and metadata.
     - **Retention Policy**: Provides documentation on policies for data retention within the repository.
-    
+
+```{r, echo=FALSE, fig.alt='The interactive table provided by NIH can help you find an appropriate repository.', out.width = '80%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_67_39")
+```
 
 <div class = "click_to_expand_block">
 
