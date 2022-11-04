@@ -6,6 +6,8 @@
 
 # Data Management/Storage Options
 
+<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_37.png" title="We are on the third step of the pathway - Data Storage Options." alt="We are on the third step of the pathway - Data Storage Options." width="80%" style="display: block; margin: auto;" />
+
 ## Data Storage Concerns
 
 How should you store and interact with data while doing research?

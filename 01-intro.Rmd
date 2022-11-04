@@ -10,7 +10,7 @@ ottrpal::set_knitr_image_path()
 
 First we will discuss the motivations behind the new data management and sharing policy that will go into effect for (most) grant proposals submitted to the NIH after January 25, 2023.
 
-```{r, echo=FALSE, fig.alt='We are on the first step of the pathway- understading the motivations of the policy.', out.width = '80%', fig.align = 'center'}
+```{r, echo=FALSE, fig.alt='We are on the first step of the pathway- understanding the motivations of the policy.', out.width = '80%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_1_103")
 ```
 
@@ -103,7 +103,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 According to the table, a **DMS Plan is required** for this particular award.
 
-```{r, echo=FALSE, fig.alt='I can find the R03 activity code in the request for applications.', out.width = '80%', fig.align = 'center'}
+```{r, echo=FALSE, fig.alt='I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf', out.width = '80%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_64")
 ```
 
