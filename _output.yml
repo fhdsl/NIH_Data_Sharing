@@ -3,6 +3,7 @@ bookdown::gitbook:
   includes:
     before_body: assets/big-image_fhdasl.html
     after_body: assets/footer.html
+  split_bib: false
   highlight: tango
   config:
     toc:

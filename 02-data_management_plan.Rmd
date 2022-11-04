@@ -23,8 +23,14 @@ We will cover specific requirements for each of these sections later, but before
 
 For the most productive research experience and your future ease of complying with any data sharing requirements, active data management during the research process is an important part of being a data steward for your research.  
 
+```{r, echo=FALSE, fig.alt='We are on the third step of the pathway - Data Storage Options.', out.width = '80%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_37")
+```
+
 ## Data Storage Concerns
+
 <div class = "question">
+
 How should you store and interact with data while doing research?
 </div>
 
@@ -40,7 +46,12 @@ Your data storage needs will depend greatly on the type of data you are storing 
 | Proteomics | 3-5 MB |
 | Clinical trials | 2-25 MB |
 
+
 ## Data Repositories
+
+```{r, echo=FALSE, fig.alt='A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files.', out.width = '80%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_67_0")
+```
 
 <div class = "question">
 Where will I share the data I'm required to share? What repositories exist that might work for my data type?
@@ -53,6 +64,9 @@ Other programs or FOAs will not specify where the data should be shared, however
 
 Researchers should aim to find repository with the following characteristics according to the NIH:
 
+```{r, echo=FALSE, fig.alt='The interactive table provided by NIH can help you find an appropriate repository.', out.width = '80%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_67_39")
+```
 
 - **Established**: If the repository is established (well-known or has been around for a significant period of time), it is likely to improve the FAIRness [@wilkinson_citation_2016] of the data. 
 - **Specific**: Repositories that are discipline or data-type specific should be prioritized to promote reuse.
@@ -105,15 +119,13 @@ traceable “owner’s manual,” or provenance.
 </div>
 
 
-
-
-
 ## No Existing Repository?
 <div class = "question">
 What if I can't find an appropriate repository? 
 </div>
 
 - **Supplemental material** - If the data are small (less than 2 GB), it may be included as supplemental material for an article. See [here](https://www.ncbi.nlm.nih.gov/pmc/about/guidelines/#suppm) for more information. 
+
 - **Institutional repositories** - Check to see if your institute has a repository where you could publicly share the data
 - **[Generalist repositories](https://www.nlm.nih.gov/NIHbmic/generalist_repositories.html)**- Host your data somewhere that hosts different types of data publicly, such as:
 
@@ -129,7 +141,6 @@ What if I can't find an appropriate repository?
     
 Note that the NIH encourages that an existing data sharing repository be used whenever one is available instead of one of these options.
 
-
-
-
-
+```{r, echo=FALSE, fig.alt='NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage.', out.width = '80%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_67_56")
+```

@@ -6,7 +6,10 @@
 
 # Data Management/Storage Options
 
+<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_37.png" title="We are on the third step of the pathway - Data Storage Options." alt="We are on the third step of the pathway - Data Storage Options." width="80%" style="display: block; margin: auto;" />
+
 ## Data Storage Concerns
+
 How should you store and interact with data while doing research?
 
 Your data storage needs will depend greatly on the type of data you are storing as well as the number of samples. File sizes vary considerably based on the data being stored. A single file can be as small as 1 MB in size (for a PET scan image of the heart) to 60 GB (for an uncompressed fastq of a whole genome sequence). Storing files in a compressed format, especially raw files, can help decrease your storage needs and costs. Below is a table of common types of data and sizes for single files. This list is not comprehensive but instead should be taken as a general guide. You should always get a more specific estimate for your particular project before submitting your grant proposal.
@@ -20,6 +23,9 @@ Your data storage needs will depend greatly on the type of data you are storing 
 | Flow cytometry |	1-50 MB |
 | Proteomics | 3-5 MB |
 | Clinical trials | 2-25 MB |
+
+<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_0.png" title="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." alt="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." width="80%" style="display: block; margin: auto;" />
+
 
 ## Data Sharing Repositories
 
@@ -47,6 +53,7 @@ What repositories might work for your data type?
     - **Provenance**: Has mechanisms in place to record the origin, chain of custody, and any modifications to submitted datasets and metadata.
     - **Retention Policy**: Provides documentation on policies for data retention within the repository.
 
+<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_39.png" title="The interactive table provided by NIH can help you find an appropriate repository." alt="The interactive table provided by NIH can help you find an appropriate repository." width="80%" style="display: block; margin: auto;" />
 
 <div class = "click_to_expand_block">
 
@@ -88,12 +95,6 @@ traceable “owner’s manual,” or provenance.
 
 </div>
 
-
-
-
-
-
-
 ## What if I can't find an appropriate repository? 
 
 - **Supplemental material** - If the data is small (less than 2 GB), it may be included as supplemental material for an article. See [here](https://www.ncbi.nlm.nih.gov/pmc/about/guidelines/#suppm) for more information. 
@@ -112,7 +113,4 @@ traceable “owner’s manual,” or provenance.
     
 Note that the NIH encourages that an existing data sharing repository be used whenever one is available instead of one of these options.
 
-
-
-
-
+<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_56.png" title="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." alt="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." width="80%" style="display: block; margin: auto;" />
