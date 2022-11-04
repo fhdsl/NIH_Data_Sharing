@@ -9,12 +9,10 @@ These credits are based on our [course contributors table guidelines](https://gi
 |Credits|Names|
 |-------|-----|
 |**Pedagogy**||
-|Lead Content Instructor(s)|[Carrie Wright]| [Ava Hoffman]|
-|Content Contributor(s) | Sandy ormbrek, [Elizabeth Humphries], Amy Paguirigan |
+|Lead Content Instructor(s)|[Carrie Wright], [Ava Hoffman]|
+|Content Contributor(s) | Sandy Ormbrek, [Elizabeth Humphries], Amy Paguirigan |
 |Acknowledgments| Beth Levine |
 |**Production**||
-|Content Publisher(s)| Helped with publishing platform|
-|Content Publishing Reviewer(s)| Reviewed overall content and aesthetics on publishing platform|
 |Course Publishing Engineer|[Carrie Wright], [Ava Hoffman]|
 |Template Publishing Engineers|[Candace Savonen], [Carrie Wright]|
 |Publishing Maintenance Engineer|[Candace Savonen]|
