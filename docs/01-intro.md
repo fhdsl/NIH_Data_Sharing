@@ -25,7 +25,7 @@ Why is the NIH doing this? There are several reasons why sharing data can be ben
 
 ## Key terms 
 
-<div class = "dictionary">
+<div class = "dictionary_long">
 
 **Data Management**
 
