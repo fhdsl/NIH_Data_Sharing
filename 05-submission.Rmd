@@ -49,6 +49,6 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 - Investigators are expected to report progress made on data sharing in their annual Research Progress Performance Report (RPPR)
    - NIH staff will monitor compliance with the DMS plan during this process
 
-```{r, echo=FALSE, fig.alt='DMS plans can be edited during the Just In Time process or during regular reporting intervals, so it's okay if you need to make changes when you learn of better alternatives.', out.width = '100%'}
+```{r, echo=FALSE, fig.alt='DMS plans can be edited during the Just In Time process or during regular reporting intervals, so it is okay if you need to make changes when you learn of better alternatives.', out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_67_115")
 ```
