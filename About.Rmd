@@ -21,6 +21,7 @@ These credits are based on our [course contributors table guidelines](https://gi
 |**Art and Design**||
 |Illustrator(s)|[Ava Hoffman]|
 |Figure Artist(s)|[Ava Hoffman], [Carrie Wright]|
+|Checklist|[Sean Kross]|
 
 
 &nbsp;
@@ -33,6 +34,7 @@ These credits are based on our [course contributors table guidelines](https://gi
 [Candace Savonen]: https://www.cansavvy.com/
 [Carrie Wright]: https://carriewright11.github.io/
 [Elizabeth Humphries]: https://www.linkedin.com/in/elizabeth-humphries-61202a103/
+[Sean Kross]: https://seankross.com
 
 <!-- Links -->
 
