@@ -9,7 +9,7 @@ rmd_files: ["index.Rmd",
             "05-submission.Rmd",            
             "Appendix.Rmd",
             "About.Rmd",
-            "References.Rmd"]
+            "Literature.Rmd"]
 new_session: yes
 bibliography: [book.bib]
 delete_merged_file: true
