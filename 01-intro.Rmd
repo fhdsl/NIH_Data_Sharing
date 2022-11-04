@@ -111,7 +111,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 
 
-### Data generating research {#scientific-data}
+### Data-generating Research {#scientific-data}
 <div class = "question"> 
 Does my research generate scientific data?
 </div>
