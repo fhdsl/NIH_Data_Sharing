@@ -43,7 +43,7 @@ Keep in mind that your DMS plan will not be reviewed by reviewers, only the budg
 
 ☑️  Describe the expected amounts of data for each kind of data.
 
-☑️  Describe the expected levels of aggregation (individual, aggregated, summarized) of data make sense to share for each kind of data.
+☑️  Describe the expected levels of aggregation (individual, aggregated, summarized) for each kind of data.
 
 ☑️  Describe the expected degree of processing of data for each kind of data.
 
