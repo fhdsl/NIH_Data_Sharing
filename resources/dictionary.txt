@@ -1,6 +1,9 @@
 	
+Amplicon
 AnVIL
 apalike
+ATAC
+BAM
 biospecimen
 biospecimens
 BIPOC
@@ -8,10 +11,13 @@ biblio
 Bloomberg
 Bookdown
 ccessible
+CCS
+ChIP
 citable
 Confocal
 Coursera
 CoV
+CRISPR
 curation
 Curation
 css
@@ -20,6 +26,7 @@ Dataport
 Datatrail
 DataTrail
 Dataverse
+dbGaP
 de
 DMS
 Dockerfile
@@ -28,6 +35,7 @@ DOI
 documentclass
 dropdown
 eusable
+Exom
 FAIRness
 faq
 fastq
@@ -38,6 +46,7 @@ Figshare
 findability
 findable
 findability
+Fitzgibbon
 FOA
 FOAs
 GDS
@@ -45,6 +54,7 @@ GDSCN
 GitHub
 Github
 GH
+HCUP
 https
 impactful
 indable
@@ -60,12 +70,16 @@ Markua
 Mendeley
 mentorship
 MIAME
+Multiome
 NCI
 NIH
 nih
+NIH's
+NIS
 NHGRI
 nteroperable
 ottrpal
+PacBio
 Pandoc
 PHS
 presubmission
@@ -79,11 +93,14 @@ RPPR
 shareable
 SBIR
 scRNA
+sgRNA
+SRA
 STTR
 th
 underserved
 UE
 UE5
+Visium
 Vivli
 WES
 WGS
