@@ -156,7 +156,7 @@ You are not expected to share:
 <!-- </div> -->
 
 
-### Grant renewals
+### Grant Renewals
 
 <!-- Fill in here --> 
 
