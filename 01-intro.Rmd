@@ -182,7 +182,7 @@ For proposals where data sharing is specified as part of the Funding Opportunity
 
 Data should be made available **no later than publication or end of the award**. This means that data underlying findings that are not published in peer-reviewed journals should be made available by the end of the award.
 
-### No cost extensions
+### No-cost Extensions
 
 Scientific data should be made accessible as soon as possible, and no later than the time of an associated publication or the end of the performance period of the extramural award that generated the data. If a no cost extension is granted for an extramural award, scientific data should be made accessible no later than the time of an associated publication, or the end of the no cost extension, whichever comes first.
 
