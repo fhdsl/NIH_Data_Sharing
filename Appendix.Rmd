@@ -5,6 +5,24 @@
 
 The official NIH DMS Policy FAQ page can be found here: [`https://osp.od.nih.gov/scientific-sharing/nih-policy-for-data-management-and-sharing-faq/`](https://osp.od.nih.gov/scientific-sharing/nih-policy-for-data-management-and-sharing-faq/){target="_blank"}.
 
+# Additional resources {-}
+
+(shared by Beth Levine, Arnold Library) 
+
+Librarians and other stakeholders have joined minds to produce guidance materials for researchers, libraries, and librarians to prepare for the 2023 NIH Data Management and Sharing Policy. Our working group has created documents for librarians and researchers to use in their institutions as they work to comply with the new policy, including: 
+
+Glossaries of DMSP & NIH Grant Terminology 
+
+Checklist for Researchers 
+
+Policy Readiness Checklist for Librarians 
+
+Example DMSP & Example DMSP catalog 
+
+You can download the materials and see any updated releases at our [OSF project page](https://osf.io/uadxr/) . We have also utilized the OSF wiki to provide descriptions of our outputs, as well as citation information. 
+
+We hope that you will spread the word and use these resources at your institution and in your libguides. Please feel free to remix these documents to suit your needs with credit to our group. 
+
 # Tools used for this course  {-}
 
 ```{r, echo = FALSE}
