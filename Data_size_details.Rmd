@@ -43,7 +43,7 @@ Note that depending on the study requirements, several images may be needed for 
 ```{r, fig.align='center', echo = FALSE, fig.alt= "Example table of overall file storage needs for samples in imaging studies.", out.width="100%"}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1B4LwuvgA6aUopOHEAbES1Agjy7Ex2IpVAoUIoBFbsq0/edit#slide=id.gfb2e21ecdc_0_25")
 ```
-
+[[source](https://jhudatascience.org/Computing_for_Cancer_Informatics)]
 
 ## Clinical Data {-}
 
