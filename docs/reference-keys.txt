@@ -39,7 +39,6 @@ methods-to-make-scientific-data-findable-and-identifiable
 timeline-of-scientific-data-sharing
 access-distribution-or-reuse-considerations
 oversight
-list-of-references-for-your-dms-plan
 presubmission-tips
 other-submission-tips
 post-submission-tips
