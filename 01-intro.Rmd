@@ -73,7 +73,7 @@ To determine if your research requires compliance with other policies that may i
 
 ## During grant applications 
 
-### Specific grant mechanisms {#no-sharing}
+### Specific Grant Mechanisms {#no-sharing}
 <div class = "question">
 What grant mechanisms require compliance with the DMS policy? 
 </div>
