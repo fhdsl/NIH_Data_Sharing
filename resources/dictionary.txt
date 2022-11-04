@@ -36,7 +36,7 @@ DOI
 documentclass
 dropdown
 eusable
-Exom
+Exome
 FAIRness
 faq
 fastq
@@ -81,6 +81,7 @@ NIH's
 NIS
 NHGRI
 nteroperable
+NYU
 OSF
 ottrpal
 PacBio
