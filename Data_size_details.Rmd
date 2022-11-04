@@ -27,7 +27,8 @@ PacBio Small Genome | CCS BAM | highly variable | highly variable | GEO/SRA | N/
 
 ## Imaging Data {-}
 
-File sizes for medical imaging data vary greatly depending on both the technology used and the organ being imaged. These are some general estimates you can use as a guideline when considering your data management and storage needs. These tables are borrowed from the [Informatics Technology for Cancer Research](https://jhudatascience.org/Computing_for_Cancer_Informatics/index.html) training material.
+File sizes for medical imaging data vary greatly depending on both the technology used and the organ being imaged. These are some general estimates you can use as a guideline when considering your data management and storage needs. These tables are borrowed from the [ITN Computing for Cancer Informatics Course](https://jhudatascience.org/Computing_for_Cancer_Informatics/index.html).
+
 
 Here is an table of average file sizes for various medical imaging modalities from @liu_imaging_2017:
 
