@@ -22,6 +22,7 @@ DataTrail
 Dataverse
 de
 DMS
+DMSP
 Dockerfile
 Dockerhub
 DOI
@@ -57,6 +58,7 @@ ITN
 fyi
 Just-in-Time
 Leanpub
+libguides
 Markua
 Mendeley
 mentorship
@@ -66,6 +68,7 @@ NIH
 nih
 NHGRI
 nteroperable
+OSF
 ottrpal
 Pandoc
 PHS
