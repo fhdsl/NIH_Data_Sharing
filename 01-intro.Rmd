@@ -178,7 +178,7 @@ For proposals where data sharing is specified as part of the Funding Opportunity
  - Program staff will also review the DMS plan.
  
 
-## Sharing timeline {#sharing-timeline} 
+## Sharing Timeline {#sharing-timeline} 
 
 Data should be made available **no later than publication or end of the award**. This means that data underlying findings that are not published in peer-reviewed journals should be made available by the end of the award.
 
