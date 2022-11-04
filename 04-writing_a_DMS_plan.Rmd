@@ -7,7 +7,7 @@ ottrpal::set_knitr_image_path()
 
 In this section we will guide you through the general requirements for the various sections of the DMS plan. 
 
-```{r, echo=FALSE, fig.alt='We are on the fifth step of the pathway- Creating a DMS plan.', out.width = '100%'}
+```{r, echo=FALSE, fig.alt='We are on the fifth step of the pathway- Creating a DMS plan.', out.width = '80%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_88")
 ```
 
@@ -40,6 +40,10 @@ These following are the major sections of the plan:
 ☑️  You are encouraged to talk to the appropriate Program Officer for your respective funding announcement about your plan **before** you submit your grant proposal. 
 
 Keep in mind that your DMS plan will not be reviewed by reviewers, only the budget sections in regard to this will be seen by them. Instead the Program Officer will review your DMS plan to determine if it is reasonable and appropriate or if you need to make changes. 
+
+```{r, echo=FALSE, fig.alt='When writing the plan, ensure it is less than 2 pages long, contains no confidential information, and has been planned out carefully, contacting the program officer if necessary.', out.width = '80%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_67_87")
+```
 
 ##  Data Type
 
