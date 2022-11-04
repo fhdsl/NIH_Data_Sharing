@@ -4,6 +4,9 @@
 
 In this section we will describe what you need to think about in terms of how to budget for the management and sharing of your data, as well as what money you can request to help you carry out your DMS plans.
 
+
+<img src="resources/images/03-budgeting_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_62.png" title="We are on the fourth step of the pathway - Budgeting." alt="We are on the fourth step of the pathway - Budgeting." width="80%" style="display: block; margin: auto;" />
+
 > You can refer to the [NIH overview about budgeting for this policy](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-DMS/budgeting-for-data-management-sharing#after){target="_blank"} of which research will be covered by this new policy.  
 
 <img src="resources/images/03-budgeting_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g178800e11b1_15_16.png" title="Costs associated with FAIR principles are generally allowed, while infrastructure and data gathering costs are not." alt="Costs associated with FAIR principles are generally allowed, while infrastructure and data gathering costs are not." width="80%" style="display: block; margin: auto;" />

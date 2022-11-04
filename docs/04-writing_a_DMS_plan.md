@@ -3,7 +3,12 @@
 
 # Writing a DMS Plan
 
-In this section we will guide you through the general requirements for the various sections of the DMS plan. It is important to note that it is possible to change your DMS plan. Changes can occur during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process or during regular reporting intervals. Thus you need to initially show that you made a plan but it's OK if things change. 
+In this section we will guide you through the general requirements for the various sections of the DMS plan. 
+
+<img src="resources/images/04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_88.png" title="We are on the fifth step of the pathway- Creating a DMS plan." alt="We are on the fifth step of the pathway- Creating a DMS plan." width="100%" />
+
+
+It is important to note that it is possible to change your DMS plan. Changes can occur during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process or during regular reporting intervals. Thus you need to initially show that you made a plan but it's OK if things change. 
 
 &nbsp;
 &nbsp;
