@@ -9,7 +9,7 @@ ottrpal::set_knitr_image_path()
 
 # Presubmission Tips
 
-```{r, echo=FALSE, fig.alt='Pathway of topics covered in this course: Submission', out.width = '100%'}
+```{r, echo=FALSE, fig.alt='We are on the sixth step of our pathway - Submission', out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_113")
 ```
 
@@ -36,7 +36,7 @@ The following methods should be used for the submission process for various type
 
 # Post Submission Tips
 
-```{r, echo=FALSE, fig.alt='Pathway of topics covered in this course: Post Submission', out.width = '100%'}
+```{r, echo=FALSE, fig.alt='We are on the final step of our pathway - Post Submission', out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_138")
 ```
 
