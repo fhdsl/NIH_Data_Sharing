@@ -10,7 +10,7 @@ Here we propose some of our thoughts about aspects we think might require extra 
 
 ### De-identification
 
-You don't technically have to de-identify data in order to share it. You just need to go through the process with the IRB and consent review to identify under what conditions the data CAN be shared. Those conditions may be very limiting but usually are not full "cannot be shared" restrictions.
+You don't technically have to de-identify data in order to share it. You need to go through the process with the Internal Review Board (IRB) and consent review to identify under what conditions the data CAN be shared. Those conditions may be very limiting but usually are not full "cannot be shared" restrictions.
 
 If you end up using de-identification methods, it is often recommended that you consult an an expert to ensure that the privacy of the research participants is protected as de-identification can be trickier than expected.
 
