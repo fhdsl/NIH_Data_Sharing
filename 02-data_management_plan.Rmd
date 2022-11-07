@@ -47,11 +47,14 @@ Your data storage needs will depend greatly on the type of data you are storing 
 | Clinical trials | 2-25 MB |
 
 
-## Data Repositories
-
 ```{r, echo=FALSE, fig.alt='A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files.', out.width = '80%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_67_0")
 ```
+
+As you can see some of these data types require large data files. These files may quickly add up to require more storage or computing capacity than your laptop (which typically have 250 GB-1 TB of storage)! If you want to learn more about data file sizes check out the [data file size details section](https://hutchdatascience.org/NIH_Data_Sharing/data-file-size-details.html) of the appendix and this class on [Computing for Cancer Informatics](https://jhudatascience.org/Computing_for_Cancer_Informatics/index.html) from the [Informatics Technology for Cancer Research (ITCR)](https://itcr.cancer.gov/) [Training Network (ITN)](https://www.itcrtraining.org/) for options on how to manage large data files.
+
+## Data Repositories
+
 
 <div class = "question">
 Where will I share the data I'm required to share? What repositories exist that might work for my data type?
