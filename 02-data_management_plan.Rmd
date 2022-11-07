@@ -12,12 +12,12 @@ The following are the major sections of the NIH DMS plan:
 
 1. **Data type** - describe what data (amount and type) will be generated over the course of funding and what data will or will not be shared
 2. **Tools, software, and code** - describe in what tools you intend to use to manage and analyze the data (note code is not required to be shared)
-3. **Standards** - describe any standards that you might need to use for your data and metadata to make them useable by others or be contributed to a repository
+3. **Standards** - describe any standards that you might need to use for your data and metadata to make them usable by others or be contributed to a repository
 4. **Data preservation, access, timelines** - describe where the data will be made available and when
 5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
 6. **Oversight** - describe who will manage compliance of the DMS plan
 
-We will cover specific requirements for each of these sections later, but before you start, data types, size, repositories avilable and the corresponding budgetary implications are important considerations to review prior to writing your plan. 
+We will cover specific requirements for each of these sections later, but before you start, data types, size, repositories available and the corresponding budgetary implications are important considerations to review prior to writing your plan. 
 
 # Data Management and Storage
 
