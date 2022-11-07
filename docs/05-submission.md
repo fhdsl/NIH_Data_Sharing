@@ -24,10 +24,12 @@ The following methods should be used for the submission process for various type
 - Other funding agreements
   - Plans should be submitted prior to the release of funds
 
-## Other Submission Tips
+<div class = "notice"> 
+
 
 - Resource sharing plans will not be going away (but will **not** be about data and will instead focus on tools and model organisms)
 - There will not be a separate [genomic data sharing](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview) plan. Genomic data sharing plans should simply be included in the overall DMS plan.
+</div>
 
 
 # Post Submission Tips
@@ -36,10 +38,10 @@ The following methods should be used for the submission process for various type
 
 - You can update your DMS plan if is not accepted during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process
 - You can also update your DMS plan during regular reporting intervals, but these changes will need to be approved by program staff. Researchers are encouraged to discuss such changes in advance.
-  - examples of appropriate changes include:
-    - change in type of data generated
-    - a more appropriate data repository becomes available
-    - sharing timeline shifts
+  - Examples of appropriate changes include:
+    - change in type of data generated,
+    - a more appropriate data repository becomes available,
+    - sharing timeline shifts.
 - Investigators are expected to report progress made on data sharing in their annual Research Progress Performance Report (RPPR)
    - NIH staff will monitor compliance with the DMS plan during this process
 

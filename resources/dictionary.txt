@@ -29,13 +29,14 @@ Dataverse
 dbGaP
 de
 DMS
+DMSP
 Dockerfile
 Dockerhub
 DOI
 documentclass
 dropdown
 eusable
-Exom
+Exome
 FAIRness
 faq
 fastq
@@ -67,6 +68,7 @@ ITN
 fyi
 Just-in-Time
 Leanpub
+libguides
 Markua
 Mendeley
 mentorship
@@ -79,6 +81,8 @@ NIH's
 NIS
 NHGRI
 nteroperable
+NYU
+OSF
 ottrpal
 PacBio
 Pandoc

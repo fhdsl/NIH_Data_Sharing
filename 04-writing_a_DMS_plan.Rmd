@@ -5,7 +5,7 @@ ottrpal::set_knitr_image_path()
 
 # Writing a DMS Plan
 
-In this section we will guide you through the general requirements for the various sections of the DMS plan. 
+In this section we will guide you through the requirements for the various sections of the DMS plan. It is important to note that it is possible to change your DMS plan after submission. Changes can occur during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process or during regular reporting intervals. Thus you need to initially show that you made a plan but it's OK if things change. 
 
 ```{r, echo=FALSE, fig.alt='We are on the fifth step of the pathway- Creating a DMS plan.', out.width = '80%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_88")
@@ -16,16 +16,18 @@ It is important to note that it is possible to change your DMS plan. Changes can
 &nbsp;
 &nbsp;
 
+
 ## Plan Sections
 
 These following are the major sections of the plan:
 
 1. **Data type** - describe what data (amount and type) will be generated over the course of funding and what data will or will not be shared
-2. **Tools, software, and code** (note code is not required to be shared) - describe in what tools you intend to use to manage and analyze the data
-3. **Standards** - describe any standards that you might use for your data and metadata
+2. **Tools, software, and code** - describe in what tools you intend to use to manage and analyze the data (note code is not required to be shared)
+3. **Standards** - describe any standards that you might need to use for your data and metadata to make them useable by others or be contributed to a repository
 4. **Data preservation, access, timelines** - describe where the data will be made available and when
 5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
 6. **Oversight** - describe who will manage compliance of the DMS plan
+
 
 ## General Requirements
 
@@ -37,7 +39,8 @@ These following are the major sections of the plan:
 
 - _Initially DMS plans will not be made public, but they **may be made public** in the future_.
 
-☑️  You are encouraged to talk to the appropriate Program Officer for your respective funding announcement about your plan **before** you submit your grant proposal. 
+
+You are encouraged to talk to the appropriate Program Officer for your respective funding announcement about your plan **before** you submit your grant proposal. 
 
 - _Keep in mind that your DMS plan will not be reviewed by reviewers, only the budget sections in regard to this will be seen by them. Instead the Program Officer will review your DMS plan to determine if it is reasonable and appropriate or if you need to make changes._
 
@@ -53,7 +56,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 ☑️  Describe the expected amounts of data for each kind of data.
 
-☑️  Describe the expected levels of aggregation (individual, aggregated, summarized) of data for each kind of data.
+☑️  Describe the expected levels of aggregation (individual, aggregated, summarized) for each kind of data.
 
 ☑️  Describe the expected degree of processing of data for each kind of data.
 
@@ -126,7 +129,7 @@ Standards vary by discipline. An extensive list of standards you can search can 
 </div>
 
 
-## Data Preservation, Access, and Associated Timelines
+## Repositories and Timelines
 
 Researchers are expected to try to maximize data sharing while still respecting sharing limitations or restrictions. See the next section if you feel that you have limitations for sharing your data.
 
@@ -173,7 +176,7 @@ For Non-human genomic data:
 
 ☑️  Describe any differences in timelines for different datasets. 
 
-## Access, Distribution, or Reuse Considerations
+## Access and Reuse Considerations
 
 Describe how you considered various factors that may influence data access or hinder your ability to share the data including:
 &nbsp;
@@ -212,3 +215,4 @@ Describe how you considered various factors that may influence data access or hi
 &nbsp;
 
 ☑️  Describe how compliance will be monitored (including frequency of oversight, for example every 3 months).
+
