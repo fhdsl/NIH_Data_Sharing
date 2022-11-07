@@ -149,7 +149,7 @@ What if I can't find an appropriate repository?
 Note that the NIH encourages that an existing data sharing repository be used whenever one is available instead of one of these options.
 
 ```{r, echo=FALSE, fig.alt='NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage.', out.width = '80%', fig.align = 'center'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_67_56")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_44_11")
 ```
 
 ## Summary
