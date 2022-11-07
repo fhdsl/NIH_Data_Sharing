@@ -1,6 +1,10 @@
 # Ethical Considerations
 
-In this section, we would like to point out that there maybe some things to consider in terms of the consequences of how you manage or share your data. This is a new policy, so it isn't quite clear yet what should be done in all circumstances. Here we propose some of our thoughts about things we think might require extra consideration. We do not have all the answers and are open to any feedback or thoughts you have on this topic. Please use the feedback button at the bottom of the table of contents to give us your feedback.
+In this section, we would like to point out that there may be some aspects to consider in terms of the consequences of how you manage or share your data. 
+
+This is a new policy, so it isn't quite clear yet what should be done in all circumstances. 
+
+Here we propose some of our thoughts about aspects we think might require extra consideration. We do not have all the answers and are open to any feedback or thoughts you have on this topic. Please use the feedback button at the bottom of the table of contents to give us your feedback.
 
 ## Considerations for Clinical Data
 
@@ -14,7 +18,7 @@ If you end up using de-identification methods, it is often recommended that you 
 
 You may be wondering what data you should share - the totally raw data or the processed data?
 
-Perhaps one should think about what level of effort/funding/resources would be necessary to make data easy for someone to use the data from scratch, since slightly processed data while less convenient takes up less space/uses less resources. Likely aiming for a balance between making it easy for others to reused while being concious of what would be required might be ideal.
+Perhaps one should think about what level of effort/funding/resources would be necessary to make data easy for someone to use the data from scratch, since slightly processed data while less convenient takes up less space/uses less resources. Likely it might be ideal to aim for a balance between making it easy for others to reuse the data, while being conscious of what is required to do so.
 
 ## Data Quality
 
@@ -22,8 +26,8 @@ What quality threshold is really needed to share data?
 What are the consequences of sharing poor-quality data?
 What are the consequences of not sharing data that is of reasonable quality that someone decided was poor quality?
 
-These questions probably require case-by-case considerations. If the data was used for a publication, then we would imagine it is of high enough quality to be shared. However if the data was produced in the process of your work (but not used for your ultimate findings) and it might not be as helpful to others, maybe it doesn't need to be shared, especially if the quality is not as high as you would like. If you change your data sharing plans based on data quality, this is something you would need to discuss with the program officer. 
+These questions probably require case-by-case considerations. If the data was used for a publication, then we would imagine it is of high enough quality to be shared. However if the data was produced in the process of your work (but not used for your ultimate findings) and it might not be as helpful to others, maybe it doesn't need to be shared, especially if the quality is not as high as you would like. If you change your data sharing plans based on data quality, you would need to discuss with the program officer. 
 
 ## Additional Resources
 
-- The [Ethical, Legal, and Social Implications of genetics and genomics (ELSI) Hub](https://elsihub.org/index.php/) can be a helpful resource for you ethical concerns 
+- The [Ethical, Legal, and Social Implications of genetics and genomics (ELSI) Hub](https://elsihub.org/index.php/) can be a helpful resource for you ethical concerns. 
