@@ -151,3 +151,20 @@ Note that the NIH encourages that an existing data sharing repository be used wh
 ```{r, echo=FALSE, fig.alt='NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage.', out.width = '80%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_67_56")
 ```
+
+## Summary
+
+The following links can help you find a data repository for your data: 
+
+- [Interactive table of NIH-supported data repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) *Start here!*
+- [Open NIH-supported domain-specific repositories](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
+- [Other NIH-supported domain-specific resources](https://www.nlm.nih.gov/NIHbmic/other_data_resources.html)
+- [Nature data sharing resources](https://www.nature.com/sdata/policies/repositories)
+- [Registry of research data repositories](https://www.re3data.org/)
+
+If you don't find an appropriate repository for your data type:
+
+- Consider adding your data as a supplementary file to a manuscript if it is small
+- Consider an institutional repository
+- Check out the [generalist repositories](https://www.nlm.nih.gov/NIHbmic/generalist_repositories.html)
+
