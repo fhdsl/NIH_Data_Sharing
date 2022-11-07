@@ -9,6 +9,7 @@ rmd_files: ["index.Rmd",
             "05-submission.Rmd",            
             "Appendix.Rmd",
             "Data_size_details.Rmd",
+            "Ethics.Rmd"
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
