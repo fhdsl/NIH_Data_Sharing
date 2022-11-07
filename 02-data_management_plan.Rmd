@@ -62,8 +62,12 @@ Where will I share the data I'm required to share? What repositories exist that 
 
 Some programs or Funding Opportunity Announcements (FOA) will specify where the data should be shared, in which case be sure to include the correct repositories for the specific FOA you're responding to. 
 
-Other programs or FOAs will not specify where the data should be shared, however the NIH provides an [interactive table of NIH-supported data repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) to help you identify repositories that might be appropriate for your data. Additional resources can also be found [here](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html).
+Other programs or FOAs will not specify where the data should be shared, however the NIH provides an [interactive table of NIH-supported data repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) to help you identify repositories that might be appropriate for your data. If you don't find a repository there, additional repositories can also be found at the following links:
 
+- [Open NIH-supported domain-specific repositories](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
+- [Other NIH-supported domain-specific resources](https://www.nlm.nih.gov/NIHbmic/other_data_resources.html)
+- [Nature data sharing resources](https://www.nature.com/sdata/policies/repositories)
+- [Registry of research data repositories](https://www.re3data.org/)
 
 Researchers should aim to find repository with the following characteristics according to the NIH:
 
