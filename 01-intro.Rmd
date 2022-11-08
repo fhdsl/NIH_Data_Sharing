@@ -64,16 +64,16 @@ For certain grant mechanisms for projects that do not generate data, compliance 
 The following outline several key questions:
 
 - [**Is my research exempt from the policy?**](#no-sharing)
-- [**Does my research generate scientific data?**](#scientific-data) 
+- [**Does my research generate scientific data?**](#scientific-data)
+- [**Do grant renewals require compliance with the policy?**](#grant-renewals)
+- [**How will the policy impact the review process?**](#review-process)
 - [**When do I need to share my data?**](#sharing-timeline) 
 - [**When should I not share data?**](#when-to-not-share) 
 
 To determine if your research requires compliance with other policies that may influence how you share your data, take this [quiz](https://sharing.nih.gov/other-sharing-policies/which-policies-apply-to-my-research).
 
 
-## During grant applications 
-
-### Specific Grant Mechanisms {#no-sharing}
+## Grant Mechanisms {#no-sharing}
 <div class = "question">
 What grant mechanisms require compliance with the DMS policy? 
 </div>
@@ -156,7 +156,7 @@ You are not expected to share:
 <!-- </div> -->
 
 
-### Grant Renewals
+## Grant Renewals {#grant-renewals}
 
 <div class = "question">
 Do grant renewals need to comply with the policy?
@@ -164,7 +164,7 @@ Do grant renewals need to comply with the policy?
 
 If you submit a grant renewal application for any of the grants mechanisms that require compliance after January 25th, 2023, then your renewal will need to include a DMS Plan even if the grant was originally funded before January 25th, 2023. 
 
-### Impact on Reviews
+## Impact on Reviews {#review-process}
 <div class = "question">
 How will this influence the grant review process?
 </div>
