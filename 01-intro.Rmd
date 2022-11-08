@@ -158,7 +158,7 @@ You are not expected to share:
 
 ### Grant Renewals
 
-<!-- Fill in here --> 
+If you submit a grant renewal application for any of the grants mechanisms that require compliance after January 25th, 2023, then your renewal will need to include a DMS Plan even if the grant was originally funded before January 25th, 2023. 
 
 ### Impact on Reviews
 <div class = "question">
@@ -198,9 +198,13 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 Justifiable ethical, legal, and technical factors for limiting sharing of data include: 
 
 - Informed consent will not permit or will limit the scope or extent of sharing and future research use
+
 - Existing consent (e.g., for previously collected biospecimens) prohibits sharing or limits the scope or extent of sharing and future research use
+
 - Privacy or safety of research participants would be compromised or place them at greater risk of re-identification or suffering harm, and protective measures such as de-identification and [Certificates of Confidentiality](https://grants.nih.gov/policy/humansubjects/coc.htm) would be insufficient. _At Fred Hutch, you should get in contact with the [Institutional Review Office](https://centernet.fredhutch.org/cn/u/iro.html){target="_blank"} if you have questions about compliance of your research._
+
 - Explicit federal, state, local, or Tribal law, regulation, or policy prohibits disclosure 
+
 - Restrictions are imposed by existing or anticipated agreements with other parties 
 - Datasets cannot practically be digitized with reasonable efforts
 
