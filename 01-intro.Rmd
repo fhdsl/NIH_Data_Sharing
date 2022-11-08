@@ -158,6 +158,10 @@ You are not expected to share:
 
 ### Grant Renewals
 
+<div class = "question">
+Do grant renewals need to comply with the policy?
+</div>
+
 If you submit a grant renewal application for any of the grants mechanisms that require compliance after January 25th, 2023, then your renewal will need to include a DMS Plan even if the grant was originally funded before January 25th, 2023. 
 
 ### Impact on Reviews
