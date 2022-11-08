@@ -21,12 +21,14 @@ data-storage-concerns
 data-repositories
 considerations-for-human-data
 no-existing-repository
+summary
 budgeting-for-data-sharing
 allowable-costs
 unallowable-costs
 budget-implementation
 assessment-of-budget
 writing-a-dms-plan
+plan-sections
 general-requirements
 data-type
 types-and-amount-data
@@ -41,4 +43,5 @@ timeline-of-scientific-data-sharing
 access-and-reuse-considerations
 oversight
 presubmission-tips
+submission-by-funding-type
 post-submission-tips
