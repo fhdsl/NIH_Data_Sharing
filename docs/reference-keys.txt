@@ -5,13 +5,12 @@ authors
 why-this-new-dms-policy
 key-terms
 how-will-this-policy-affect-me
-during-grant-applications
 no-sharing
 scientific-data
 scientific-data-1
 not-scientific-data
 grant-renewals
-impact-on-reviews
+review-process
 sharing-timeline
 no-cost-extensions
 when-to-not-share
