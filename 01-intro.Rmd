@@ -184,6 +184,10 @@ For proposals where data sharing is specified as part of the Funding Opportunity
 
 ## Sharing Timeline {#sharing-timeline} 
 
+<div class = "question">
+When does the data need to be shared by?
+</div>
+
 Data should be made available **no later than publication or end of the award**. This means that data underlying findings that are not published in peer-reviewed journals should be made available by the end of the award.
 
 ### No-cost Extensions
@@ -192,6 +196,10 @@ Scientific data should be made accessible as soon as possible, and no later than
 
 
 ## When Not to Share Data {#when-to-not-share}
+
+<div class = "question">
+Is it possible to not share data?
+</div>
 
 There are legitimate reasons you might not share your data. Data might not be shareable due to ethical, legal, or technical concerns. **You will still need to submit a DMS Plan even if you plan to withhold data sharing**. You must explain your reasoning in your DMS Plan.
 
