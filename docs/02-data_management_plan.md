@@ -10,12 +10,12 @@ The following are the major sections of the NIH DMS plan:
 
 1. **Data type** - describe what data (amount and type) will be generated over the course of funding and what data will or will not be shared
 2. **Tools, software, and code** - describe in what tools you intend to use to manage and analyze the data (note code is not required to be shared)
-3. **Standards** - describe any standards that you might need to use for your data and metadata to make them useable by others or be contributed to a repository
+3. **Standards** - describe any standards that you might need to use for your data and metadata to make them usable by others or be contributed to a repository
 4. **Data preservation, access, timelines** - describe where the data will be made available and when
 5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
 6. **Oversight** - describe who will manage compliance of the DMS plan
 
-We will cover specific requirements for each of these sections later, but before you start, data types, size, repositories avilable and the corresponding budgetary implications are important considerations to review prior to writing your plan. 
+We will cover specific requirements for each of these sections later, but before you start, data types, size, repositories available and the corresponding budgetary implications are important considerations to review prior to writing your plan. 
 
 # Data Management and Storage
 
@@ -43,9 +43,12 @@ Your data storage needs will depend greatly on the type of data you are storing 
 | Clinical trials | 2-25 MB |
 
 
+<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_0.png" title="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." alt="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." width="80%" style="display: block; margin: auto;" />
+
+As you can see some of these data types require large data files. These files may quickly add up to require more storage or computing capacity than your laptop (which typically have 250 GB-1 TB of storage)! If you want to learn more about data file sizes check out the [data file size details section](https://hutchdatascience.org/NIH_Data_Sharing/data-file-size-details.html) of the appendix and this class on [Computing for Cancer Informatics](https://jhudatascience.org/Computing_for_Cancer_Informatics/index.html) from the [Informatics Technology for Cancer Research (ITCR)](https://itcr.cancer.gov/) [Training Network (ITN)](https://www.itcrtraining.org/) for options on how to manage large data files.
+
 ## Data Repositories
 
-<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_0.png" title="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." alt="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." width="80%" style="display: block; margin: auto;" />
 
 <div class = "question">
 Where will I share the data I'm required to share? What repositories exist that might work for my data type?
@@ -53,12 +56,20 @@ Where will I share the data I'm required to share? What repositories exist that 
 
 Some programs or Funding Opportunity Announcements (FOA) will specify where the data should be shared, in which case be sure to include the correct repositories for the specific FOA you're responding to. 
 
-Other programs or FOAs will not specify where the data should be shared, however the NIH provides an [interactive table of NIH-supported data repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) to help you identify repositories that might be appropriate for your data. Additional resources can also be found [here](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html).
+Other programs or FOAs will not specify where the data should be shared, however the NIH provides an [interactive table of NIH-supported data repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) to help you identify repositories that might be appropriate for your data. 
 
+<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_39.png" title="The interactive table provided by NIH can help you find an appropriate repository." alt="The interactive table provided by NIH can help you find an appropriate repository." width="80%" style="display: block; margin: auto;" />
+
+If you don't find a repository there, additional repositories can also be found at the following links:
+
+- [Open NIH-supported domain-specific repositories](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
+- [Other NIH-supported domain-specific resources](https://www.nlm.nih.gov/NIHbmic/other_data_resources.html)
+- [Nature data sharing resources](https://www.nature.com/sdata/policies/repositories)
+- [Registry of research data repositories](https://www.re3data.org/)
 
 Researchers should aim to find repository with the following characteristics according to the NIH:
 
-<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_39.png" title="The interactive table provided by NIH can help you find an appropriate repository." alt="The interactive table provided by NIH can help you find an appropriate repository." width="80%" style="display: block; margin: auto;" />
+
 
 - **Established**: If the repository is established (well-known or has been around for a significant period of time), it is likely to improve the FAIRness [@wilkinson_citation_2016] of the data. 
 - **Specific**: Repositories that are discipline or data-type specific should be prioritized to promote reuse.
@@ -133,4 +144,21 @@ What if I can't find an appropriate repository?
     
 Note that the NIH encourages that an existing data sharing repository be used whenever one is available instead of one of these options.
 
-<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_56.png" title="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." alt="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." width="80%" style="display: block; margin: auto;" />
+<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_44_28.png" title="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." alt="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." width="80%" style="display: block; margin: auto;" />
+
+## Summary
+
+The following links can help you find a data repository for your data: 
+
+- [Interactive table of NIH-supported data repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) *Start here!*
+- [Open NIH-supported domain-specific repositories](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
+- [Other NIH-supported domain-specific resources](https://www.nlm.nih.gov/NIHbmic/other_data_resources.html)
+- [Nature data sharing resources](https://www.nature.com/sdata/policies/repositories)
+- [Registry of research data repositories](https://www.re3data.org/)
+
+If you don't find an appropriate repository for your data type:
+
+- Consider adding your data as a supplementary file to a manuscript if it is small
+- Consider an institutional repository
+- Check out the [generalist repositories](https://www.nlm.nih.gov/NIHbmic/generalist_repositories.html)
+

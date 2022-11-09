@@ -7,15 +7,23 @@ In this section we will guide you through the requirements for the various secti
 
 <img src="resources/images/04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_88.png" title="We are on the fifth step of the pathway- Creating a DMS plan." alt="We are on the fifth step of the pathway- Creating a DMS plan." width="80%" />
 
+<div class = "notice"> 
+
+It is important to note that it is possible to change your DMS plan. Changes can occur during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process or during regular reporting intervals. Thus you need to initially show that you made a plan, but it's OK if things change. 
+
+</div>
 
 &nbsp;
 &nbsp;
 
-The following are the major sections of the plan:
+
+## Plan Sections
+
+These following are the major sections of the plan:
 
 1. **Data type** - describe what data (amount and type) will be generated over the course of funding and what data will or will not be shared
 2. **Tools, software, and code** - describe in what tools you intend to use to manage and analyze the data (note code is not required to be shared)
-3. **Standards** - describe any standards that you might need to use for your data and metadata to make them useable by others or be contributed to a repository
+3. **Standards** - describe any standards that you might need to use for your data and metadata to make them usable by others or be contributed to a repository
 4. **Data preservation, access, timelines** - describe where the data will be made available and when
 5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
 6. **Oversight** - describe who will manage compliance of the DMS plan
@@ -34,7 +42,7 @@ The following are the major sections of the plan:
 
 You are encouraged to talk to the appropriate Program Officer for your respective funding announcement about your plan **before** you submit your grant proposal. 
 
-Keep in mind that your DMS plan will not be reviewed by reviewers, only the budget sections in regard to this will be seen by them. Instead the Program Officer will review your DMS plan to determine if it is reasonable and appropriate or if you need to make changes. 
+- _Keep in mind that your DMS plan will not be reviewed by reviewers, only the budget sections in regard to this will be seen by them. Instead the Program Officer will review your DMS plan to determine if it is reasonable and appropriate or if you need to make changes._
 
 <img src="resources/images/04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_87.png" title="When writing the plan, ensure it is less than 2 pages long, contains no confidential information, and has been planned out carefully, contacting the program officer if necessary." alt="When writing the plan, ensure it is less than 2 pages long, contains no confidential information, and has been planned out carefully, contacting the program officer if necessary." width="80%" style="display: block; margin: auto;" />
 
@@ -151,7 +159,7 @@ For Non-human genomic data:
 
 - _For example, you could use a persistent unique identifier (PID) or other standard indexing tool. [Zenodo](https://zenodo.org/) can be a useful option for creating digital object identifiers (DOIs)._
 
-### Timeline of scientific data sharing:
+### Timeline of scientific data sharing
 
 ☑️  Describe when the scientific data will be made available to others.
 
@@ -176,7 +184,6 @@ Describe how you considered various factors that may influence data access or hi
 - _NIH expects informed consent for de-identified cell lines or clinical specimens as well (even if the research does not meet the definition of "human subjects research" under the Common Rule for all data derived from such specimens after January 25th, 2015, the effective date of the [GDS policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview)._
 
 ☑️  Describe if access to data related to human subjects will be controlled and how the privacy, rights and confidentiality of these participants will be protected (for example, de-identification methods).
-
 &nbsp;
 
 ☑️  Ensure privacy and confidentiality protections consistent with applicable federal, Tribal, state, and local laws, regulations, and policies.

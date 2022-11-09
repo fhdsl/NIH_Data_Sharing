@@ -11,7 +11,11 @@ In this section we will guide you through the requirements for the various secti
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_88")
 ```
 
-It is important to note that it is possible to change your DMS plan. Changes can occur during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process or during regular reporting intervals. Thus you need to initially show that you made a plan but it's OK if things change. 
+<div class = "notice"> 
+
+It is important to note that it is possible to change your DMS plan. Changes can occur during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process or during regular reporting intervals. Thus you need to initially show that you made a plan, but it's OK if things change. 
+
+</div>
 
 &nbsp;
 &nbsp;

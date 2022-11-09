@@ -64,16 +64,16 @@ For certain grant mechanisms for projects that do not generate data, compliance 
 The following outline several key questions:
 
 - [**Is my research exempt from the policy?**](#no-sharing)
-- [**Does my research generate scientific data?**](#scientific-data) 
+- [**Does my research generate scientific data?**](#scientific-data)
+- [**Do grant renewals require compliance with the policy?**](#grant-renewals)
+- [**How will the policy impact the review process?**](#review-process)
 - [**When do I need to share my data?**](#sharing-timeline) 
 - [**When should I not share data?**](#when-to-not-share) 
 
 To determine if your research requires compliance with other policies that may influence how you share your data, take this [quiz](https://sharing.nih.gov/other-sharing-policies/which-policies-apply-to-my-research).
 
 
-## During grant applications 
-
-### Specific Grant Mechanisms {#no-sharing}
+## Grant Mechanisms {#no-sharing}
 <div class = "question">
 What grant mechanisms require compliance with the DMS policy? 
 </div>
@@ -156,11 +156,15 @@ You are not expected to share:
 <!-- </div> -->
 
 
-### Grant Renewals
+## Grant Renewals {#grant-renewals}
 
-<!-- Fill in here --> 
+<div class = "question">
+Do grant renewals need to comply with the policy?
+</div>
 
-### Impact on Reviews
+If you submit a grant renewal application for any of the grants mechanisms that require compliance after January 25th, 2023, then your renewal will need to include a DMS Plan even if the grant was originally funded before January 25th, 2023. 
+
+## Impact on Reviews {#review-process}
 <div class = "question">
 How will this influence the grant review process?
 </div>
@@ -180,6 +184,10 @@ For proposals where data sharing is specified as part of the Funding Opportunity
 
 ## Sharing Timeline {#sharing-timeline} 
 
+<div class = "question">
+When does the data need to be shared by?
+</div>
+
 Data should be made available **no later than publication or end of the award**. This means that data underlying findings that are not published in peer-reviewed journals should be made available by the end of the award.
 
 ### No-cost Extensions
@@ -187,7 +195,11 @@ Data should be made available **no later than publication or end of the award**.
 Scientific data should be made accessible as soon as possible, and no later than the time of an associated publication or the end of the performance period of the extramural award that generated the data. If a no cost extension is granted for an extramural award, scientific data should be made accessible no later than the time of an associated publication, or the end of the no cost extension, whichever comes first.
 
 
-## When Not to Share Data {#when-to-not-share}
+## When to Not Share Data {#when-to-not-share}
+
+<div class = "question">
+Is it possible to not share data?
+</div>
 
 There are legitimate reasons you might not share your data. Data might not be shareable due to ethical, legal, or technical concerns. **You will still need to submit a DMS Plan even if you plan to withhold data sharing**. You must explain your reasoning in your DMS Plan.
 
@@ -198,9 +210,13 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 Justifiable ethical, legal, and technical factors for limiting sharing of data include: 
 
 - Informed consent will not permit or will limit the scope or extent of sharing and future research use
+
 - Existing consent (e.g., for previously collected biospecimens) prohibits sharing or limits the scope or extent of sharing and future research use
+
 - Privacy or safety of research participants would be compromised or place them at greater risk of re-identification or suffering harm, and protective measures such as de-identification and [Certificates of Confidentiality](https://grants.nih.gov/policy/humansubjects/coc.htm) would be insufficient. _At Fred Hutch, you should get in contact with the [Institutional Review Office](https://centernet.fredhutch.org/cn/u/iro.html){target="_blank"} if you have questions about compliance of your research._
+
 - Explicit federal, state, local, or Tribal law, regulation, or policy prohibits disclosure 
+
 - Restrictions are imposed by existing or anticipated agreements with other parties 
 - Datasets cannot practically be digitized with reasonable efforts
 
