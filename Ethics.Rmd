@@ -26,9 +26,9 @@ Perhaps one should think about what level of effort/funding/resources would be n
 
 Data standards are especially important for helping to make your data more easily reusable.
 
-As technology advances, it is important that we report enough information about how our data is collected so that others can use it effectively in the future. This is an extra need for this sort of consideration if you are working with a data type this from an especially new technology or field. Ideally our standards should be flexible to the evolution of the technology we are working with. For example, we may discover that a certain library preparation method for a type of sequencing data had a specific bias in the future, thus reporting this information may become vital for the reuse of the data. 
+As technology advances, it is important that we report enough information about how our data is collected so that others can use it effectively in the future. This is an extra need for this sort of consideration if you are working with a data type this from an especially new technology or field. Ideally our standards should be **flexible** to the **evolution** of the **technology** we are working with. For example, we may discover that a certain library preparation method for a type of sequencing data had a specific bias in the future, thus reporting this information may become vital for the reuse of the data. 
 
-Additionally, in considering establishing new standards, it may be helpful to consider how to make the data more usable across disciplines for researchers who may want to work with multiple types of data.
+Additionally, in considering establishing new standards, it may be helpful to consider how to make the data more usable **across disciplines** for researchers who may want to work with multiple types of data.
 
 ## Data Quality
 
