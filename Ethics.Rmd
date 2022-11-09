@@ -22,6 +22,14 @@ You may be wondering what data you should share - the totally raw data or the pr
 
 Perhaps one should think about what level of effort/funding/resources would be necessary to make data easy for someone to use, since slightly processed data while less convenient for working from scratch takes up less space/uses less resources. Indeed people may generally want to reuse a slightly processed version of the data, but we also want to consider the option of giving people access to raw data, as accepted processing methods may change in the future. Likely it might be ideal to aim for a balance between making it easy for others to reuse the data, while being conscious of what is required to do so.
 
+## Data Standards
+
+Data standards are especially important for helping to make your data more easily reusable.
+
+As technology advances, it is important that we report enough information about how our data is collected so that others can use it effectively in the future. This is an extra need for this sort of consideration if you are working with a data type this from an especially new technology or field. Ideally our standards should be flexible to the evolution of the technology we are working with. For example, we may discover that a certain library preparation method for a type of sequencing data had a specific bias in the future, thus reporting this information may become vital for the reuse of the data. 
+
+Additionally, in considering establishing new standards, it may be helpful to consider how to make the data more usible across discaplines for researchers who may want to work with mutliple types of data.
+
 ## Data Quality
 
 <div class = "question">
