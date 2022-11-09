@@ -72,6 +72,7 @@ The following outline several key questions:
 
 To determine if your research requires compliance with other policies that may influence how you share your data, take this [quiz](https://sharing.nih.gov/other-sharing-policies/which-policies-apply-to-my-research).
 
+In addition to these questions, there are ethical considerations that you may want to think about. See the [ethics section](https://hutchdatascience.org/NIH_Data_Sharing/data-file-size-details.html) of the Appendix for more information. 
 
 ## Grant Mechanisms {#no-sharing}
 <div class = "question">
