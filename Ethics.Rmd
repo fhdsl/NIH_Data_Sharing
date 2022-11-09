@@ -1,4 +1,4 @@
-# Ethical Considerations
+# Ethical Considerations {-}
 
 In this section, we would like to point out that there may be some aspects to consider in terms of the consequences of how you manage or share your data. 
 
@@ -20,7 +20,7 @@ If you end up using de-identification methods, it is often recommended that you 
 
 You may be wondering what data you should share - the totally raw data or the processed data?
 
-Perhaps one should think about what level of effort/funding/resources would be necessary to make data easy for someone to use the data from scratch, since slightly processed data while less convenient takes up less space/uses less resources. Likely it might be ideal to aim for a balance between making it easy for others to reuse the data, while being conscious of what is required to do so.
+Perhaps one should think about what level of effort/funding/resources would be necessary to make data easy for someone to use, since slightly processed data while less convenient for working from scratch takes up less space/uses less resources. Indeed people may generally want to reuse a slightly processed version of the data, but we also want to consider the option of giving people access to raw data, as accepted processing methods may change in the future. Likely it might be ideal to aim for a balance between making it easy for others to reuse the data, while being conscious of what is required to do so.
 
 ## Data Quality
 
