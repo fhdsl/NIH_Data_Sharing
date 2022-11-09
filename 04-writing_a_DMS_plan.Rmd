@@ -68,7 +68,9 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 ☑️  Describe what data from the project will shared or not shared and justify this decision.
 
+<div class = "ethics"> 
 For additional information about potential ethical considerations of sharing your data, see the [ethics section](https://hutchdatascience.org/NIH_Data_Sharing/ethics.html) of the appendix.
+</div>
 
 ### Metadata, other relevant data, and associated documentation
 
@@ -131,9 +133,9 @@ An agreed upon set of rules that allow information to be shared and processed in
 
 Standards vary by discipline. An extensive list of standards you can search can be found [here](https://fairsharing.org/search?fairsharingRegistry=Standard). An example standard is the [MIAME](https://fairsharing.org/FAIRsharing.32b10v) reporting guideline for microarray experiments.
 
-</div>
-
+<div class = "ethics"> 
 Keep in mind that there may be important ethical considerations when it comes to data standards, see the [ethics section](https://hutchdatascience.org/NIH_Data_Sharing/ethics.html) of the appendix.
+</div>
 
 ## Repositories and Timelines
 
@@ -215,8 +217,10 @@ Describe how you considered various factors that may influence data access or hi
 
 ☑️ Describe any consideration for embargo periods or access controls if there are intellectual property concerns, rather than refraining from sharing altogether
 
+<div class = "ethics"> 
 Keep in mind that there may be important ethical considerations when it comes to sharing data based on the consent process, see the [ethics section](https://hutchdatascience.org/NIH_Data_Sharing/ethics.html) of the appendix.
-      
+<div>
+
 ## Oversight
 
 ☑️  Describe who will manage compliance with the DMS plan (include names, titles and roles of all individuals involved).
