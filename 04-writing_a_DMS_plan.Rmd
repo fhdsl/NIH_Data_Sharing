@@ -68,7 +68,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 ☑️  Describe what data from the project will shared or not shared and justify this decision.
 
-For additional information about potential ethical considerations of sharing your data, see the [ethics section](https://hutchdatascience.org/NIH_Data_Sharing/data-file-size-details.html) of the appendix.
+For additional information about potential ethical considerations of sharing your data, see the [ethics section](https://hutchdatascience.org/NIH_Data_Sharing/ethics.html) of the appendix.
 
 ### Metadata, other relevant data, and associated documentation
 
@@ -133,7 +133,7 @@ Standards vary by discipline. An extensive list of standards you can search can 
 
 </div>
 
-Keep in mind that there may be important ethical considerations when it comes to data standards, see the [ethics section](https://hutchdatascience.org/NIH_Data_Sharing/data-file-size-details.html) of the appendix.
+Keep in mind that there may be important ethical considerations when it comes to data standards, see the [ethics section](https://hutchdatascience.org/NIH_Data_Sharing/ethics.html) of the appendix.
 
 ## Repositories and Timelines
 
@@ -215,7 +215,7 @@ Describe how you considered various factors that may influence data access or hi
 
 ☑️ Describe any consideration for embargo periods or access controls if there are intellectual property concerns, rather than refraining from sharing altogether
 
-Keep in mind that there may be important ethical considerations when it comes to sharing data based on the consent process, see the [ethics section](https://hutchdatascience.org/NIH_Data_Sharing/data-file-size-details.html) of the appendix.
+Keep in mind that there may be important ethical considerations when it comes to sharing data based on the consent process, see the [ethics section](https://hutchdatascience.org/NIH_Data_Sharing/ethics.html) of the appendix.
       
 ## Oversight
 
