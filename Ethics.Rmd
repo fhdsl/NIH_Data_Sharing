@@ -30,6 +30,8 @@ What quality threshold is really needed to share data?
 What are the consequences of sharing poor-quality data?
 What are the consequences of not sharing data that is of reasonable quality that someone decided was poor quality?
 
+</div>
+
 These questions probably require case-by-case considerations. If the data was used for a publication, then we would imagine it is of high enough quality to be shared. However if the data was produced in the process of your work (but not used for your ultimate findings) and it might not be as helpful to others, maybe it doesn't need to be shared, especially if the quality is not as high as you would like. If you change your data sharing plans based on data quality, you would need to discuss with the program officer. 
 
 ## Additional Resources
