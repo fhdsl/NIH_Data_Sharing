@@ -24,6 +24,8 @@ Perhaps one should think about what level of effort/funding/resources would be n
 
 ## Data Quality
 
+<div class = "question">
+
 What quality threshold is really needed to share data?
 What are the consequences of sharing poor-quality data?
 What are the consequences of not sharing data that is of reasonable quality that someone decided was poor quality?
