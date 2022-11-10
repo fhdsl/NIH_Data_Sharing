@@ -176,7 +176,7 @@ color: #1B365D
   border-left: 50px solid #b842ca;
   box-sizing: content-box;
 }
-.trapezoid span { 
+.trapezoid span {
   position: absolute;
   top: 8px;
   bottom: 5px;
@@ -285,9 +285,8 @@ div.notice, div.warning, div.github, div.dictionary, div.reflection, div.questio
 
  div.motivations, div.question_box, div.data, div.money, div.plan, div.submit {
   padding: 1em;
-  margin: 1em 0;
   padding-left: 100px;
-  min-height: 100px;
+  min-height: 70px;
   background-repeat: no-repeat;
 }
 
@@ -295,7 +294,7 @@ div.motivations{
   background-size: 70px;
   background-position: 15px center;
   background-repeat: no-repeat;
-  background-image: url("../assets/box_images/motivations.png");  
+  background-image: url("../assets/box_images/motivations.png");
   display:flex;
   align-items:center;
 }
@@ -304,7 +303,7 @@ div.question_box{
   background-size: 70px;
   background-position: 15px center;
   background-repeat: no-repeat;
-  background-image: url("../assets/box_images/question_box.png");  
+  background-image: url("../assets/box_images/question_box.png");
   display:flex;
   align-items:center;
 }
@@ -313,7 +312,7 @@ div.data{
   background-size: 70px;
   background-position: 15px center;
   background-repeat: no-repeat;
-  background-image: url("../assets/box_images/data.png");  
+  background-image: url("../assets/box_images/data.png");
   display:flex;
   align-items:center;
 }
@@ -322,7 +321,7 @@ div.money{
   background-size: 70px;
   background-position: 15px center;
   background-repeat: no-repeat;
-  background-image: url("../assets/box_images/money.png");  
+  background-image: url("../assets/box_images/money.png");
   display:flex;
   align-items:center;
 }
@@ -331,7 +330,7 @@ div.plan{
   background-size: 70px;
   background-position: 15px center;
   background-repeat: no-repeat;
-  background-image: url("../assets/box_images/plan.png");  
+  background-image: url("../assets/box_images/plan.png");
   display:flex;
   align-items:center;
 }
@@ -340,7 +339,7 @@ div.submit{
   background-size: 70px;
   background-position: 15px center;
   background-repeat: no-repeat;
-  background-image: url("../assets/box_images/submit.png");  
+  background-image: url("../assets/box_images/submit.png");
   display:flex;
   align-items:center;
 }
@@ -350,7 +349,7 @@ div.question{
   background-position: 15px center;
   background-color: #e8ebee;
   background-repeat: no-repeat;
-  background-image: url("../assets/box_images/question.png");  
+  background-image: url("../assets/box_images/question.png");
   display:flex;
   align-items:center;
   border: 4px #00C1D5;
@@ -385,7 +384,7 @@ div.github{
   background-color: #e8ebee;
   background-image: url("../assets/box_images/github.png");
   border: 4px #000000;
-  border-style: solid;  
+  border-style: solid;
 }
 
 
@@ -395,7 +394,7 @@ div.dictionary{
   background-color: #e8ebee;
   background-image: url("../assets/box_images/dictionary.png");
   border: 4px black;
-  border-style: solid;  
+  border-style: solid;
 }
 
 
