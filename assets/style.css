@@ -286,7 +286,7 @@ div.notice, div.warning, div.github, div.dictionary, div.reflection, div.questio
  div.motivations, div.question_box, div.data, div.money, div.plan, div.submit {
   padding: 1em;
   padding-left: 100px;
-  min-height: 70px;
+  min-height: 55px;
   background-repeat: no-repeat;
 }
 
