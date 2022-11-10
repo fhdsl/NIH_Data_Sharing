@@ -1,4 +1,4 @@
-# Ethical Considerations {-}{#ethics} 
+# Ethical Considerations {-#ethics} 
 
 In this section, we would like to point out that there may be some aspects to consider in terms of the consequences of how you manage or share your data. 
 
