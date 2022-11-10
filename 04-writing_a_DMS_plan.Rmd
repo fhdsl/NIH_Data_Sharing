@@ -138,7 +138,7 @@ Standards vary by discipline. An extensive list of standards you can search can 
 </div>
 
 <div class = "ethics"> 
-Keep in mind that there may be important ethical considerations when it comes to data standards, see the [ethics section](#standards) of the appendix.
+Keep in mind that there may be important ethical considerations when it comes to data standards, see the [ethics section on standards](#standards-ethics) of the appendix.
 </div>
 
 ## Repositories and Timelines
