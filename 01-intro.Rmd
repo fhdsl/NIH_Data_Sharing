@@ -224,7 +224,7 @@ Justifiable ethical, legal, and technical factors for limiting sharing of data i
 - Datasets cannot practically be digitized with reasonable efforts
 
 <div class = "ethics"> 
-For additional information about potential ethical considerations, see the [ethics section](#ethics) of the appendix.
+For additional information about potential ethical considerations, including if data is of sufficient quality to be shared, see the [ethics section](#ethics) of the appendix.
 </div>
 
 <div class = "click_to_expand_block">
