@@ -73,7 +73,7 @@ The following outline several key questions:
 To determine if your research requires compliance with other policies that may influence how you share your data, take this [quiz](https://sharing.nih.gov/other-sharing-policies/which-policies-apply-to-my-research).
 
 <div class = "ethics"> 
-In addition to these questions, there are ethical considerations that you may want to think about. See the [ethics section](https://hutchdatascience.org/NIH_Data_Sharing/ethics.html) of the appendix for more information. 
+In addition to these questions, there are ethical considerations that you may want to think about. See the [ethics section](#ethics) of the appendix for more information. 
 </div>
 
 ## Grant Mechanisms {#no-sharing}
@@ -224,7 +224,7 @@ Justifiable ethical, legal, and technical factors for limiting sharing of data i
 - Datasets cannot practically be digitized with reasonable efforts
 
 <div class = "ethics"> 
-For additional information about potential ethical considerations, see the [ethics section](https://hutchdatascience.org/NIH_Data_Sharing/ethics.html) of the appendix.
+For additional information about potential ethical considerations, see the [ethics section](#ethics) of the appendix.
 </div>
 
 <div class = "click_to_expand_block">
