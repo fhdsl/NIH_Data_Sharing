@@ -44,3 +44,9 @@ oversight
 presubmission-tips
 submission-by-funding-type
 post-submission-tips
+ethics
+consent
+de-identification
+raw-vs-processed
+quality
+additional-resources-1

@@ -41,7 +41,7 @@ It's always a good idea to refer to the the primary literature! The following ar
 - @wilkinson_citation_2016 - Good data management is key to knowledge discovery and innovation; four foundational principles — Findability, Accessibility, Interoperability, and Reusability — can help guide data producers and publishers
 
 
-# Tools used for this course  {-}
+# Tools Used for This Course  {-}
 
 
 ```
@@ -55,7 +55,7 @@ It's always a good idea to refer to the the primary literature! The following ar
 ##  collate  en_US.UTF-8                 
 ##  ctype    en_US.UTF-8                 
 ##  tz       Etc/UTC                     
-##  date     2022-11-08                  
+##  date     2022-11-10                  
 ## 
 ## ─ Packages ───────────────────────────────────────────────────────────────────
 ##  package     * version    date       lib source                            

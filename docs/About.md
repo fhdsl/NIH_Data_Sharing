@@ -23,6 +23,8 @@ These credits are based on our [course contributors table guidelines](https://gi
 |Figure Artist(s)|[Ava Hoffman], [Carrie Wright]|
 |Checklist|Amy Paguirigan, [Sean Kross]|
 
+We would like to acknowledge Jessica Turner for discussing with us about these topics.
+
 
 &nbsp;
 
