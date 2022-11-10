@@ -16,6 +16,9 @@ It is important to note that it is possible to change your DMS plan. Changes can
 &nbsp;
 &nbsp;
 
+<div class = "ethics"> 
+In addition, you may want to consider potential ethical considerations for your data management and sharing plans, see the [ethics section](#ethics) of the appendix.
+</div>
 
 ## Plan Sections
 
@@ -62,6 +65,9 @@ You are encouraged to talk to the appropriate Program Officer for your respectiv
 
 ☑️  Describe what data from the project will shared or not shared and justify this decision.
 
+<div class = "ethics"> 
+For additional information about potential ethical considerations of sharing your data, see the [ethics section](#ethics) of the appendix.
+</div>
 
 ### Metadata, other relevant data, and associated documentation
 
@@ -123,9 +129,11 @@ Data types expected to be shared under the GDS Policy should be described in thi
 An agreed upon set of rules that allow information to be shared and processed in a uniform and consistent manner. This includes representations, formats, and definitions of data. 
 
 Standards vary by discipline. An extensive list of standards you can search can be found [here](https://fairsharing.org/search?fairsharingRegistry=Standard). An example standard is the [MIAME](https://fairsharing.org/FAIRsharing.32b10v) reporting guideline for microarray experiments.
-
 </div>
 
+<div class = "ethics"> 
+Keep in mind that there may be important ethical considerations when it comes to data standards, see the [ethics section on standards](#standards-ethics) of the appendix.
+</div>
 
 ## Repositories and Timelines
 
@@ -206,7 +214,11 @@ Describe how you considered various factors that may influence data access or hi
 
 
 ☑️ Describe any consideration for embargo periods or access controls if there are intellectual property concerns, rather than refraining from sharing altogether
-      
+
+<div class = "ethics"> 
+Keep in mind that there may be important ethical considerations when it comes to sharing data based on the consent process, see the [ethics consent section](#consent) of the appendix. In addition, de-identification can be a tricky process, see the [ethics section](#de-identification) for more information about that as well.
+</div>
+
 ## Oversight
 
 ☑️  Describe who will manage compliance with the DMS plan (include names, titles and roles of all individuals involved).
