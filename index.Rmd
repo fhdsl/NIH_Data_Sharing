@@ -34,7 +34,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 ## Motivation
 
-Navigating the new NIH Data Management and Sharing Policy - [`https://sharing.nih.gov/`](https://sharing.nih.gov/) - can be confusing. We want to help make the process of compliance with this new policy easier. 
+We want to help make the process of compliance with the new NIH Data Management and Sharing Policy  [`https://sharing.nih.gov/`](https://sharing.nih.gov/) easier. 
 
 
 ## Target Audience  
