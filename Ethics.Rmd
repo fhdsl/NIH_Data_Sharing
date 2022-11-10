@@ -22,7 +22,7 @@ You may be wondering what data you should share - the totally raw data or the pr
 
 Perhaps one should think about what level of effort/funding/resources would be necessary to make data easy for someone to use, since slightly processed data while less convenient for working from scratch takes up less space/uses less resources. Indeed people may generally want to reuse a slightly processed version of the data, but we also want to consider the option of giving people access to raw data, as accepted processing methods may change in the future. Likely it might be ideal to aim for a balance between making it easy for others to reuse the data, while being conscious of what is required to do so.
 
-## Data Standards {#standards} 
+## Data Standards {#standards-ethics} 
 
 Data standards are especially important for helping to make your data more easily reusable.
 
@@ -34,9 +34,9 @@ Additionally, in considering establishing new standards, it may be helpful to co
 
 <div class = "question">
 
-What quality threshold is really needed to share data?
-What are the consequences of sharing poor-quality data?
-What are the consequences of not sharing data that is of reasonable quality that someone decided was poor quality?
+- What quality threshold is really needed to share data? 
+- What are the consequences of sharing poor-quality data? 
+- What are the consequences of not sharing data that is of reasonable quality that someone decided was poor quality?
 
 </div>
 
