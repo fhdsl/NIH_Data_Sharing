@@ -1,6 +1,7 @@
 motivation
 target-audience
 curriculum
+overall-takeaways
 authors
 why-this-new-dms-policy
 key-terms
