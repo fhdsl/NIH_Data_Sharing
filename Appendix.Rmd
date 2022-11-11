@@ -22,7 +22,7 @@ You can download the materials and see any updated releases at the [OSF project 
 
 Several other university libraries have also created guides on data management you may find useful, including [Northwestern](https://libguides.northwestern.edu/datamanagement), [Stanford](https://library.stanford.edu/research/data-management-services), [MIT](https://libraries.mit.edu/data-management/), [University of Pittsburgh](https://hsls.libguides.com/data), and [NYU](https://hslguides.med.nyu.edu/data_management).
 
-Feel free to remix these documents to suit your needs with credit to the NIH DMSP Guidance Working Group. Please contact Beth Levine (blevine@fredhutch.org) with any questions. 
+Feel free to remix these documents to suit your needs with credit to the NIH DMSP Guidance Working Group.
 
 
 # Further Reading {-}
