@@ -1,6 +1,6 @@
 ---
 title: "NIH Data Management and Sharing Policy"
-date: "November 10, 2022"
+date: "November 11, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -27,7 +27,7 @@ In this course we will describe what the new policy requires, places where you m
 
 ## Motivation
 
-Navigating the new NIH Data Management and Sharing Policy - [`https://sharing.nih.gov/`](https://sharing.nih.gov/) - can be confusing. We want to help make the process of compliance with this new policy easier. 
+We want to help make the process of compliance with the new NIH Data Management and Sharing Policy  [`https://sharing.nih.gov/`](https://sharing.nih.gov/) easier. 
 
 
 ## Target Audience  
@@ -48,8 +48,35 @@ The course will cover:
 - Guidance on how to update a DMS plan after submission or funding
 - General tips and frequently asked questions
 
+<br>
+
 <img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1784801ac8b_42_0.png" title="Pathway of more specific topics covered in this course: motivations of the new policy, personal considerations, data storage options, budgeting, creating a DMS plan, submission tips, and post submission tips." alt="Pathway of more specific topics covered in this course: motivations of the new policy, personal considerations, data storage options, budgeting, creating a DMS plan, submission tips, and post submission tips." width="100%" />
 
+## Overall Takeaways
+
+<div class = motivations>
+**Why this change?** As of January 23, 2023, the NIH is requiring all grant proposals include a Data Management and Sharing Plan to aid in the transparency and reproducibility of NIH-funded research.
+</div>
+
+<div class = question_box>
+**Does this apply to me?** This will apply to most grants that create data, although some grant mechanisms and some data are exempt. **It is not required to share all data**, however a justification is required. Reasons not to share that are acceptable may be ethical, technical, or legal.
+</div>
+
+<div class = data>
+**Where should I share my data?** The NIH has lists of suggested repositories, and you will need to choose the most appropriate. If there is not an appropriate repository, you can share your data at an institutional (if available) or generalist repository.
+</div>
+
+<div class = money>
+**How do I budget this?** You may request funds for data management and sharing in direct costs. You may not infrastructure costs in direct costs as these should be included as indirect costs.
+</div>
+
+<div class = plan>
+**How do I write my plan?** Your plan should be < 2 pages and include sections on data type; tools, software, and code; standards; data preservation, access, and timelines; access, distribution, and reuse considerations; and oversight. **You can change your plan** in the just-in-time process or during regular reporting intervals.
+</div>
+
+<div class = submit>
+**Will my plan influence my grant score?** Although the Data Management and Sharing Plan is a mandatory part of most grant proposals, it will not be shared with reviewers and thus will not influence your score, however the budget will be visible to reviewers.
+</div>
 
 ## Authors
 
