@@ -90,7 +90,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 <div class = blackbox>
 **Final Considerations**
 
-This is a new policy for the NIH and they are expecting to have some growing pains. While they don't currently have specific expectations, the NIH has stated they, as well as scientists submitting grant proposals under the new policies, will learn from the process as it happens. In general, it's best to be mindful of what is actually feasible when it comes to managing and storing your data and not overstate what you might be able to do.
+This is a new policy for the NIH and they are expecting to have some growing pains. While they don't currently have specific expectations, the NIH has stated they will learn from the process as it happens along with the scientists submitting grant proposals under the new policies. In general, it's best to be mindful of what is actually feasible when it comes to managing and storing your data and try not overstate what you might be able to do.
 </div>
 
 ## Authors
