@@ -24,6 +24,20 @@ Several other university libraries have also created guides on data management y
 
 Feel free to remix these documents to suit your needs with credit to the NIH DMSP Guidance Working Group.
 
+In addition, there are several tools that can help you write your plan and make sure that it complies with all the policies that you need to comply with:
+
+- [DMPTool](https://dmptool.org/) - a tool for:
+  - writing your plan
+  - associating your plan with your [ORCID](https://orcid.org/) ID
+  - sharing your plan (if you wish)
+  - finding other people's plans
+  - finding guidelines for various sharing policies
+- [SPARC](http://datasharing.sparcopen.org/data) - a resource for comparing different data sharing policies for a variety of funding agencies in the United States
+  - includes many different funding agencies, such as the [USDA](https://www.usda.gov/), [NASA](https://www.nasa.gov/), [NSF](https://www.nsf.gov/), [FDA](https://www.fda.gov/), [DOE](https://www.energy.gov/) and more
+  - note that the NIH data sharing information is currently for the 2003 policy (this will likely change after the new plan goes into effect in Jan 2023)
+- [Sherpa Juliet](http://v2.sherpa.ac.uk/juliet/) - also a resource for different policies for a variety of funding agencies
+  - includes information on requirements for **open access publication**, as well as information about data archiving
+- [Council on Government Relations (COGR)](https://www.cogr.edu/chapter-2-nih-data-management-and-sharing-policy-matrix) - additional information about policy requirements
 
 # Further Reading {-}
 
