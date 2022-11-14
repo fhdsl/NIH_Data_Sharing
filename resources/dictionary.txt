@@ -1,4 +1,4 @@
-
+	
 Amplicon
 AnVIL
 apalike
@@ -16,7 +16,6 @@ ChIP
 citable
 Confocal
 Coursera
-COGR
 CoV
 CRISPR
 curation
@@ -29,7 +28,6 @@ DataTrail
 Dataverse
 dbGaP
 de
-DMPTool
 DMS
 DMSP
 Dockerfile
@@ -86,7 +84,6 @@ NIS
 NHGRI
 nteroperable
 NYU
-ORCID
 OSF
 ottrpal
 PacBio
@@ -106,7 +103,6 @@ shareable
 SBIR
 scRNA
 sgRNA
-SPARC
 SRA
 STTR
 th
