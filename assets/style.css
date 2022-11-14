@@ -275,12 +275,7 @@ li.appendix span, li.part span { /* for TOC part names */
 /* Sidebar formating --------------------------------------------*/
 /* from r-pkgs.org*/
 
-<<<<<<< HEAD
-
 div.notice, div.warning, div.github, div.dictionary, div.reflection, div.question, div.ethics{
-=======
-div.notice, div.warning, div.github, div.dictionary, div.reflection, div.question, div.ethics, div.motivations, div.question_box, div.data, div.money, div.plan, div.submit {
->>>>>>> main
   padding: 1em;
   margin: 1em 0;
   padding-left: 100px;
@@ -288,7 +283,7 @@ div.notice, div.warning, div.github, div.dictionary, div.reflection, div.questio
   background-repeat: no-repeat;
 }
 
- div.motivations, div.question_box, div.data, div.money, div.plan, div.submit {
+ div.motivations, div.question_box, div.data, div.money, div.plan, div.submit{
   padding: 1em;
   padding-left: 100px;
   min-height: 55px;
