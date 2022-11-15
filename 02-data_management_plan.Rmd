@@ -6,7 +6,7 @@ ottrpal::set_knitr_image_path()
 # (PART\*) Creating a DMS Plan {-}
 
 # Overview of the DMS Plan
-The NIH has provided an outline for what components of the Data Sharing and Management Plan you submit with your grant applications must include.  We'll introduce these sections and then discuss in more detail some of the important considerations you'll need to include in your specific plan. 
+The NIH has provided an outline for what components of the Data Sharing and Management Plan are required. We'll introduce these sections and then discuss in more detail some of the important considerations you'll need to include in your specific plan. 
 
 The following are the major sections of the NIH DMS plan:
 
@@ -17,7 +17,7 @@ The following are the major sections of the NIH DMS plan:
 5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
 6. **Oversight** - describe who will manage compliance of the DMS plan
 
-We will cover specific requirements for each of these sections later, but before you start, data types, size, repositories available and the corresponding budgetary implications are important considerations to review prior to writing your plan. 
+We will cover specific requirements for each of these sections later. However, before starting to write your plan, it may be helpful to consider the data types and size you plan to generate, the repositories available, and the corresponding budgetary implications prior. 
 
 # Data Management and Storage
 
