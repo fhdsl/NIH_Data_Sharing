@@ -49,7 +49,7 @@ These following are the major sections of the plan:
 
 You are encouraged to talk to the appropriate Program Officer for your respective funding announcement about your plan **before** you submit your grant proposal. 
 
-- _Keep in mind that your DMS plan will not be reviewed by reviewers, only the budget sections in regard to this will be seen by them. Instead the Program Officer will review your DMS plan to determine if it is reasonable and appropriate or if you need to make changes._
+- _Keep in mind that your DMS plan will **not** be reviewed by reviewers, only the budget sections in regard to this will be seen by them. Instead the Program Officer will review your DMS plan to determine if it is reasonable and appropriate or if you need to make changes._
 
 ```{r, echo=FALSE, fig.alt='When writing the plan, ensure it is less than 2 pages long, contains no confidential information, and has been planned out carefully, contacting the program officer if necessary.', out.width = '80%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_67_87")
@@ -203,7 +203,7 @@ Describe how you considered various factors that may influence data access or hi
 ☑️  Ensure privacy and confidentiality protections consistent with applicable federal, Tribal, state, and local laws, regulations, and policies.
 &nbsp;
 
-☑️  Describe any restrictions imposed by federal, Tribal, or state laws, regulations, or policies, or existing or anticipated agreements
+☑️  Describe any restrictions imposed by federal, Tribal, or state laws, regulations, or policies, or existing or anticipated agreements.
 &nbsp;
 
 ☑️  Describe any other relevant data sharing policies.
@@ -212,14 +212,17 @@ Describe how you considered various factors that may influence data access or hi
 
 - _If indeed the data requires compliance with the GDS policy, researchers should indicate if the study should be designated as ["sensitive"](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-023.html)._
 
-☑️ Describe any reasons that will limit data sharing (including legal, ethical, or technical concerns, as well as [Institutional Certification](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/about-institutional-certifications) limitations). Other sharing limitations:
+☑️ Describe any reasons that will limit data sharing (including legal, ethical, or technical concerns, as well as [Institutional Certification](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/about-institutional-certifications) limitations). 
+&nbsp;
 
-- _This could be because datasets cannot practically be digitized with reasonable efforts, or that privacy or safety of research participants would be compromised or place them at greater risk of re-identification._
+- _Other sharing limitations:_
 
-- _If data cannot be shared due to an Institutional Certification criteria, for example, the data cannot be shared as expected by the [GDS policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview). Researchers should include this information in their DMS plan and explain why the element cannot be met._
+  - _This could be because datasets cannot practically be digitized with reasonable efforts, or that privacy or safety of research participants would be compromised or place them at greater risk of re-identification._
+
+  - _If data cannot be shared due to an Institutional Certification criteria, for example, the data cannot be shared as expected by the [GDS policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview). Researchers should include this information in their DMS plan and explain why the element cannot be met._
 
 
-☑️ Describe any consideration for embargo periods or access controls if there are intellectual property concerns, rather than refraining from sharing altogether
+☑️ Describe any consideration for embargo periods or access controls if there are intellectual property concerns, rather than refraining from sharing altogether.
 
 <div class = "ethics"> 
 Keep in mind that there may be important ethical considerations when it comes to sharing data based on the consent process, see the [ethics consent section](#consent) of the appendix. In addition, de-identification can be a tricky process, see the [ethics section](#de-identification) for more information about that as well.
