@@ -1,6 +1,6 @@
 ---
 title: "NIH Data Management and Sharing Policy"
-date: "November 14, 2022"
+date: "November 15, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -59,23 +59,29 @@ The course will cover:
 </div>
 
 <div class = question_box>
-**Does this apply to me?** This will apply to most grants that create data, although some grant mechanisms and some data are exempt. **It is not required to share all data**, however a justification is required. Reasons not to share that are acceptable may be ethical, technical, or legal.
+**Does this apply to me?** This will apply to most NIH grants that create data, although some grant mechanisms and some data are exempt. **It is not required to share all data**, however a justification is required. Reasons not to share that are acceptable may be ethical, technical, or legal.
 </div>
 
 <div class = data>
-**Where should I share my data?** The NIH has lists of suggested repositories, and you will need to choose the most appropriate. If there is not an appropriate repository, you can share your data at an institutional (if available) or generalist repository.
+**Where should I share my data?** The NIH has lists of suggested repositories, to help you find appropriate repositories for your data. If there is not an appropriate repository, you can share your data at an institutional (if available) or generalist repository.
 </div>
 
 <div class = money>
-**How do I budget this?** You may request funds for data management and sharing in direct costs. You may not infrastructure costs in direct costs as these should be included as indirect costs.
+**How do I budget this?** You may request funds for data management and sharing as direct costs. You may not infrastructure costs as direct costs as these should be included as indirect costs.
 </div>
 
 <div class = plan>
-**How do I write my plan?** Your plan should be < 2 pages and include sections on data type; tools, software, and code; standards; data preservation, access, and timelines; access, distribution, and reuse considerations; and oversight. **You can change your plan** in the just-in-time process or during regular reporting intervals.
+**How do I write my plan?** Your plan should be < 2 pages and include sections on data type; tools, software, and code; standards; data preservation, access, and timelines; access, distribution, and reuse considerations; and oversight. **You may be able to change your plan** in the just-in-time process or during regular reporting intervals. Changes require approval.
 </div>
 
 <div class = submit>
 **Will my plan influence my grant score?** Although the Data Management and Sharing Plan is a mandatory part of most grant proposals, it will not be shared with reviewers and thus will not influence your score, however the budget will be visible to reviewers.
+</div>
+
+<div class = blackbox>
+**Final Considerations**
+
+This is a new policy for the NIH and they are expecting to have some growing pains. While they don't currently have specific expectations, the NIH has stated they will learn from the process as it happens along with the scientists submitting grant proposals under the new policies. In general, it's best to be mindful of what is **actually feasible** when it comes to managing and storing your data and try not overstate what you might be able to do.
 </div>
 
 ## Authors
