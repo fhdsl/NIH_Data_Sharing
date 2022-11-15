@@ -61,7 +61,7 @@ The major requirement of the policy is that all grant proposals (submitted after
 
 For certain grant mechanisms for projects that do not generate data, compliance with the policy is not required. For certain types of data, sharing is not possible, and a justification will be required instead. 
 
-The following outline several key questions:
+The following text will discuss several key questions:
 
 - [**Is my research exempt from the policy?**](#no-sharing)
 - [**Does my research generate scientific data?**](#scientific-data)
