@@ -32,7 +32,7 @@ It is important to note that the submission process may be different depending o
   - Plans should be submitted prior to the release of funds
 
 <div class = "notice"> 
-- Resource sharing plans will not be going away (but will **not** be about data and will instead focus on tools and model organisms)
+- Resource sharing plans will not be going away (but will **not** be about data and will instead focus on tools and model organisms).
 - There will **not** be a separate [genomic data sharing](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview) plan. Genomic data sharing plans should simply be included in the overall DMS plan.
 </div>
 
