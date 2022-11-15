@@ -76,7 +76,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 </div>
 
 <div class = money>
-**How do I budget this?** You may request funds for data management and sharing as direct costs (including personnel costs). You may not infrastructure costs as direct costs, as these should be included as indirect costs.
+**How do I budget this?** You may request funds for data management and sharing as direct costs (including personnel costs). Infrastructure costs should only be included as indirect costs.
 </div>
 
 <div class = plan>
