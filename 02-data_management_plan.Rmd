@@ -57,7 +57,7 @@ As you can see some of these data types require large data files. These files ma
 
 
 <div class = "question">
-Where will I share the data I'm required to share? What repositories exist that might work for my data type?
+Where will I share my data? What repositories exist that might work for my data type?
 </div>
 
 Some programs or Funding Opportunity Announcements (FOA) will specify where the data should be shared, in which case be sure to include the correct repositories for the specific FOA you're responding to. 
