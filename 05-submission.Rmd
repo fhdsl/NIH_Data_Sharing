@@ -9,11 +9,15 @@ ottrpal::set_knitr_image_path()
 
 # Presubmission Tips
 
+In this section we will outline how you can submit your DMS plan: 
+
 ```{r, echo=FALSE, fig.alt='We are on the sixth step of our pathway - Submission', out.width = '80%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_113")
 ```
 
 ## Submission by Funding Type
+
+It is important to note that the submission process may be different depending on what type of grant your are applying for:
 
 - Extramural (grants)
   - DMS plans should be included within the “Other Plan(s)" field on the following forms:
