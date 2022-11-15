@@ -82,7 +82,7 @@ What grant mechanisms require compliance with the DMS policy?
 </div>
 
 
-The DMS Policy applies to all research that generates [scientific data](#scientific-data), including:
+The DMS Policy applies to all research that generates [scientific data](#scientific-data) (regardless of the funding level), including:
 
 - Research Projects
 - Some Career Development Awards (K)
