@@ -60,7 +60,7 @@ As you can see some of these data types require large data files. These files ma
 Where will I share my data? What repositories exist that might work for my data type?
 </div>
 
-Some programs or Funding Opportunity Announcements (FOA) will specify where the data should be shared, in which case be sure to plan to use the correct repositories for the specific FOA you're responding to. 
+Some programs or Funding Opportunity Announcements (FOA) will specify where the data should be shared. If this applies, you should plan to use the repositories mentioned in the FOA. 
 
 Other programs or FOAs will not specify where the data should be shared, however the NIH provides an [interactive table of NIH-supported data repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) to help you identify repositories that might be appropriate for your data. 
 
