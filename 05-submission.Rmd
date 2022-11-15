@@ -39,6 +39,8 @@ It is important to note that the submission process may be different depending o
 
 # Post Submission Tips
 
+In this section we will discuss tips about what might be needed after you submit your DMS plan: 
+
 ```{r, echo=FALSE, fig.alt='We are on the final step of our pathway - Post Submission', out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_138")
 ```
