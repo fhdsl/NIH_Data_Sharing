@@ -172,7 +172,7 @@ If you submit a grant renewal application for any of the grants mechanisms that 
 How will this influence the grant review process?
 </div>
 
-For most proposals - those where data sharing is not part of the Funding Opportunity Announcement the following will happen during the review process:
+For most proposals -- those where data sharing is not part of the Funding Opportunity Announcement -- the following will happen during the review process:
 
 - Reviewers for will not have access to your DMS plan.
 - Reviewers will however see your budget which will include some descriptions of how money will be spent to manage and share data.
