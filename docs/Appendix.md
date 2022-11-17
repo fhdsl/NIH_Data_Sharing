@@ -24,7 +24,7 @@ Several other university libraries have also created guides on data management y
 
 Feel free to remix these documents to suit your needs with credit to the NIH DMSP Guidance Working Group.
 
-In addition, there are several tools that can help you write your plan and make sure that it complies with all the policies that you need to comply with:
+In addition, there are several tools and resources that can help you write data management and sharing plans and help you learn about various policies:
 
 - [DMPTool](https://dmptool.org/) - a tool for:
   - writing your plan
@@ -69,7 +69,7 @@ It's always a good idea to refer to the the primary literature! The following ar
 ##  collate  en_US.UTF-8                 
 ##  ctype    en_US.UTF-8                 
 ##  tz       Etc/UTC                     
-##  date     2022-11-16                  
+##  date     2022-11-17                  
 ## 
 ## ─ Packages ───────────────────────────────────────────────────────────────────
 ##  package     * version    date       lib source                            

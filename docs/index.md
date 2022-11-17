@@ -1,6 +1,6 @@
 ---
 title: "NIH Data Management and Sharing Policy"
-date: "November 16, 2022"
+date: "November 17, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -59,7 +59,7 @@ The course will cover:
 </div>
 
 <div class = question_box>
-**Does this apply to me?** This will apply to most NIH grants that create data, although some grant mechanisms and some data are exempt. **It is not required to share all data**, however a justification is required. Reasons not to share that are acceptable may be ethical, technical, or legal.
+**Does this apply to me?** This will apply to most NIH grants that create data (regardless of funding level), although some grant mechanisms and some data are exempt. **It is not required to share all data**, however a justification is required. Reasons not to share that are acceptable may be ethical, technical, or legal.
 </div>
 
 <div class = data>
@@ -67,7 +67,7 @@ The course will cover:
 </div>
 
 <div class = money>
-**How do I budget this?** You may request funds for data management and sharing as direct costs. You may not infrastructure costs as direct costs as these should be included as indirect costs.
+**How do I budget this?** You may request funds for data management and sharing as direct costs (including personnel costs). Infrastructure costs should only be included as indirect costs.
 </div>
 
 <div class = plan>

@@ -66,5 +66,5 @@ To request funds for data management and sharing:
 
 <div class = "notice"> 
 - Don't double up requests for direct and indirect support
-- Activities that get supported must happen during project period (for example if storing data for 10 years - must pay for those years in advance)
+- Activities that get supported must happen during project period (for example if storing data for 10 years, you must pay for all of those years in advance)
 </div>

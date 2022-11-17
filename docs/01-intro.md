@@ -55,7 +55,7 @@ The major requirement of the policy is that all grant proposals (submitted after
 
 For certain grant mechanisms for projects that do not generate data, compliance with the policy is not required. For certain types of data, sharing is not possible, and a justification will be required instead. 
 
-The following outline several key questions:
+The following text will discuss several key questions:
 
 - [**Is my research exempt from the policy?**](#no-sharing)
 - [**Does my research generate scientific data?**](#scientific-data)
@@ -76,7 +76,7 @@ What grant mechanisms require compliance with the DMS policy?
 </div>
 
 
-The DMS Policy applies to all research that generates [scientific data](#scientific-data), including:
+The DMS Policy applies to all research that generates [scientific data](#scientific-data) (regardless of the funding level), including:
 
 - Research Projects
 - Some Career Development Awards (K)
@@ -160,11 +160,11 @@ If you submit a grant renewal application for any of the grants mechanisms that 
 How will this influence the grant review process?
 </div>
 
-For most proposals - those where data sharing is not part of the Funding Opportunity Announcement the following will happen during the review process:
+For most proposals -- those where data sharing is not part of the Funding Opportunity Announcement -- the following will happen during the review process:
 
 - Reviewers for will not have access to your DMS plan.
 - Reviewers will however see your budget which will include some descriptions of how money will be spent to manage and share data.
-- Thus the DMS plan should not influence your grant score 
+- Thus, the DMS plan should not influence your grant score. 
 - After a grant receives a fundable score, a Program Officer will review the DMS plan and will work with the PI to address any concerns. Changes based on this process can be made during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) procedures.
 
 For proposals where data sharing is specified as part of the Funding Opportunity Announcement the following will happen during the review process: 

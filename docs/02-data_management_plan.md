@@ -4,22 +4,22 @@
 # (PART\*) Creating a DMS Plan {-}
 
 # Overview of the DMS Plan
-The NIH has provided an outline for what components of the Data Sharing and Management Plan you submit with your grant applications must include.  We'll introduce these sections and then discuss in more detail some of the important considerations you'll need to include in your specific plan. 
+The NIH has provided an outline for what components of the Data Sharing and Management Plan are required. We'll introduce these sections and then discuss in more detail some of the important considerations you'll need to include in your specific plan. 
 
 The following are the major sections of the NIH DMS plan:
 
 1. **Data type** - describe what data (amount and type) will be generated over the course of funding and what data will or will not be shared
-2. **Tools, software, and code** - describe in what tools you intend to use to manage and analyze the data (note code is not required to be shared)
+2. **Tools, software, and code** - describe what tools (and versions) you intend to use to manage and analyze the data (note code is not required to be shared)
 3. **Standards** - describe any standards that you might need to use for your data and metadata to make them usable by others or be contributed to a repository
 4. **Data preservation, access, timelines** - describe where the data will be made available and when
 5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
 6. **Oversight** - describe who will manage compliance of the DMS plan
 
-We will cover specific requirements for each of these sections later, but before you start, data types, size, repositories available and the corresponding budgetary implications are important considerations to review prior to writing your plan. 
+We will cover specific requirements for each of these sections later. However, before starting to write your plan, it may be helpful to consider the data types and size you plan to generate, the repositories available, and the corresponding budgetary implications prior. 
 
 # Data Management and Storage
 
-For the most productive research experience and your future ease of complying with any data sharing requirements, active data management during the research process is an important part of being a data steward for your research.  
+To enable a more productive research experience and to ease your future compliance with any data sharing requirements, active data management during the research process can be very helpful.  
 
 <img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_37.png" title="We are on the third step of the pathway - Data Storage Options." alt="We are on the third step of the pathway - Data Storage Options." width="80%" style="display: block; margin: auto;" />
 
@@ -30,7 +30,7 @@ For the most productive research experience and your future ease of complying wi
 How should you store and interact with data while doing research?
 </div>
 
-Your data storage needs will depend greatly on the type of data you are storing as well as the number of samples. File sizes vary considerably based on the data being stored. A single file can be as small as 1 MB in size (for a PET scan image of the heart) to 60 GB (for an uncompressed fastq of a whole genome sequence). Storing files in a compressed format, especially raw files, can help decrease your storage needs and costs. Below is a table of common types of data and sizes for single files. This list is not comprehensive but instead should be taken as a general guide. You should always get a more specific estimate for your particular project before submitting your grant proposal.
+Your data storage needs will depend greatly on the type of data you will be working with as well as the number of samples you might have. File sizes vary considerably based on the data being stored. A single file can be as small as 1 MB in size (for a PET scan image of the heart) to 60 GB (for an uncompressed fastq of a whole genome sequence). Storing files in a compressed format, especially raw files, can help decrease your storage needs and costs. Below is a table of common types of data and sizes for single files. This list is not comprehensive but instead should be taken as a general guide. You should always get a more specific estimate for your particular project before submitting your grant proposal.
 
 | **Type of data** | **Common size for a _single_ file** |
 |------------------|------------------|
@@ -51,10 +51,10 @@ As you can see some of these data types require large data files. These files ma
 
 
 <div class = "question">
-Where will I share the data I'm required to share? What repositories exist that might work for my data type?
+Where will I share my data? What repositories exist that might work for my data type?
 </div>
 
-Some programs or Funding Opportunity Announcements (FOA) will specify where the data should be shared, in which case be sure to include the correct repositories for the specific FOA you're responding to. 
+Some programs or Funding Opportunity Announcements (FOA) will specify where the data should be shared. If this applies, you should plan to use the repositories mentioned in the FOA. 
 
 Other programs or FOAs will not specify where the data should be shared, however the NIH provides an [interactive table of NIH-supported data repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) to help you identify repositories that might be appropriate for your data. 
 
