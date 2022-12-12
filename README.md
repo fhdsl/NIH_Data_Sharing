@@ -27,7 +27,7 @@ This template course will help you:
 
 ## Encountering problems?
 
-You can provide feedback for the course using [this Google Form](https://forms.gle/6g1HfLyCzQWw78gk8).
+You can provide feedback for the course using [this Google Form](https://forms.gle/W6Mg4rzuMK6Yk3Am8).
 
 This course is a work in progress. If you are encountering any problems with this course, please file a [GitHub issue](https://github.com/fhdsl/NIH_Data_Sharing/issues/new) to let us know.
 
