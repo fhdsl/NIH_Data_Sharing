@@ -32,3 +32,7 @@ You can provide feedback for the course using [this Google Form](https://forms.g
 This course is a work in progress. If you are encountering any problems with this course, please file a [GitHub issue](https://github.com/fhdsl/NIH_Data_Sharing/issues/new) to let us know.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />All materials in this course are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> unless noted otherwise.
+
+## Disclaimer
+
+These materials have been developed at Fred Hutch for the purpose of assisting our faculty scientists with the new NIH data sharing policy requirements.  While we are confident in the content of these materials, we make no guarantee that they will fully comply with NIH's policy.  This is a new policy, and only time will tell.  We will revise these materials on an on-going basis, as appropriate.
