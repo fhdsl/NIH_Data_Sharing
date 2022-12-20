@@ -1,6 +1,6 @@
 ---
 title: "NIH Data Management and Sharing Policy"
-date: "November 17, 2022"
+date: "December 20, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -24,6 +24,12 @@ Once a DMS plan is accepted by the funding agency, the researchers will be requi
 In this course we will describe what the new policy requires, places where you might want to share your particular kind of data, and how to deal with possible challenges associated with the policy.
 
 <img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1784801ac8b_42_26.png" title="Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process." alt="Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process." width="100%" />
+
+<div class = blackbox>
+**Disclaimer**
+
+These materials have been developed at Fred Hutch for the purpose of assisting our faculty scientists with the new NIH data sharing policy requirements.  While we are confident in the content of these materials, we make no guarantee that they will fully comply with NIH's policy.  This is a new policy, and only time will tell.  We will revise these materials on an on-going basis, as appropriate.
+</div>
 
 ## Motivation
 
