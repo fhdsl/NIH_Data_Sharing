@@ -86,7 +86,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 </div>
 
 <div class = plan>
-**How do I write my plan?** Your plan should be < 2 pages and include sections on data type; tools, software, and code; standards; data preservation, access, and timelines; access, distribution, and reuse considerations; and oversight. **You may be able to change your plan** in the just-in-time process or during regular reporting intervals. Changes require approval.
+**How do I write my plan?** Your plan should be < 2 pages (without hyperlinks) and include sections on data type; tools, software, and code; standards; data preservation, access, and timelines; access, distribution, and reuse considerations; and oversight. **You may be able to change your plan** in the just-in-time process or during regular reporting intervals. Changes require approval.
 </div>
 
 <div class = submit>
