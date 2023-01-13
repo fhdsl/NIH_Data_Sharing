@@ -41,6 +41,8 @@ In addition, there are several tools and resources that can help you write data 
   - includes information on requirements for **open access publication**, as well as information about data archiving
 - [Council on Government Relations (COGR)](https://www.cogr.edu/chapter-2-nih-data-management-and-sharing-policy-matrix) - additional information about policy requirements
 
+Also if you submit your data to dbGaP, you may find this [guide](https://www.whi.org/doc/WHI-dbGaP-Guidelines.pdf) a useful resource.
+
 # Further Reading {-}
 
 It's always a good idea to refer to the the primary literature! The following are scientific papers that can be referenced in your DMS Plan or read for further context:
