@@ -1,6 +1,6 @@
 ---
 title: "NIH Data Management and Sharing Policy"
-date: "December 20, 2022"
+date: "January 16, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -77,7 +77,7 @@ The course will cover:
 </div>
 
 <div class = plan>
-**How do I write my plan?** Your plan should be < 2 pages and include sections on data type; tools, software, and code; standards; data preservation, access, and timelines; access, distribution, and reuse considerations; and oversight. **You may be able to change your plan** in the just-in-time process or during regular reporting intervals. Changes require approval.
+**How do I write my plan?** Your plan should be < 2 pages (without hyperlinks) and include sections on data type; tools, software, and code; standards; data preservation, access, and timelines; access, distribution, and reuse considerations; and oversight. **You may be able to change your plan** in the just-in-time process or during regular reporting intervals. Changes require approval.
 </div>
 
 <div class = submit>

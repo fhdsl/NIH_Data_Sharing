@@ -34,9 +34,10 @@ These following are the major sections of the plan:
 
 ## General Requirements
 
-☑️  The plan must be **less than 2 pages**.
+☑️  The plan must be **less than 2 pages** and do not include [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink).
 
 - _Follow margin and font formatting restrictions consistent with the rest of the proposal_.
+
 
 ☑️  Nothing confidential or proprietary is in your plan.  
 

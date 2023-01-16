@@ -3,10 +3,12 @@
 
 # FAQ {-}
 
-The official NIH DMS Policy FAQ page can be found here: [`https://osp.od.nih.gov/scientific-sharing/nih-policy-for-data-management-and-sharing-faq/`](https://osp.od.nih.gov/scientific-sharing/nih-policy-for-data-management-and-sharing-faq/){target="_blank"}.
+The official NIH DMS Policy FAQ page can be found here: [`https://sharing.nih.gov/faqs#/data-management-and-sharing-policy.htm`](https://sharing.nih.gov/faqs#/data-management-and-sharing-policy.htm){target="_blank"}.
 
 
 # Additional Resources {-}
+
+The NIH provides [example DMS plans](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan#sample-plans) to help those who are writing their own. 
 
 Librarians and other stakeholders have joined minds to produce guidance materials for researchers, libraries, and librarians to prepare for the 2023 NIH Data Management and Sharing Policy. This working group has created documents for librarians and researchers to use in their institutions as they work to comply with the new policy, including: 
 
@@ -39,6 +41,8 @@ In addition, there are several tools and resources that can help you write data 
   - includes information on requirements for **open access publication**, as well as information about data archiving
 - [Council on Government Relations (COGR)](https://www.cogr.edu/chapter-2-nih-data-management-and-sharing-policy-matrix) - additional information about policy requirements
 
+Also if you submit your data to dbGaP, you may find this [guide](https://www.whi.org/doc/WHI-dbGaP-Guidelines.pdf) a useful resource.
+
 # Further Reading {-}
 
 It's always a good idea to refer to the the primary literature! The following are scientific papers that can be referenced in your DMS Plan or read for further context:
@@ -46,10 +50,12 @@ It's always a good idea to refer to the the primary literature! The following ar
 &nbsp;
 &nbsp;
 
+
 - @bonomi_citation_2020 - The promises and challenges associated with sharing genomic data
 - @cosgriff_citation_2020 - The promise of shared data for addressing public health emergencies, such as the SARS-CoV-2 pandemic
 - @mckiernan_citation_2016 - Data sharing can help advance careers through increases in citations, media attention, potential collaborators, job opportunities, and funding opportunities
 - @piwowar_citation_2011 - Investing in data storage and archiving is a good investment of grant funds
+- @sansone_fairsharing_2019 - FAIRsharing as a community approach to standards, repositories and policies
 - @tenopir_citation_2020 - Most scientists view data sharing favorably; A majority feel lack of access impedes scientific progress
 - @vesteghem_citation_2020 - Findable, Accessible, Interoperable and Reusable (FAIR) Data Principles and their importance to precision oncology
 - @wilkinson_citation_2016 - Good data management is key to knowledge discovery and innovation; four foundational principles — Findability, Accessibility, Interoperability, and Reusability — can help guide data producers and publishers
@@ -69,7 +75,7 @@ It's always a good idea to refer to the the primary literature! The following ar
 ##  collate  en_US.UTF-8                 
 ##  ctype    en_US.UTF-8                 
 ##  tz       Etc/UTC                     
-##  date     2022-12-20                  
+##  date     2023-01-16                  
 ## 
 ## ─ Packages ───────────────────────────────────────────────────────────────────
 ##  package     * version    date       lib source                            
