@@ -36,10 +36,12 @@ Dockerhub
 DOI
 documentclass
 dropdown
+DSMP
 ELSI
 eusable
 Exome
 FAIRness
+FAIRsharing
 faq
 fastq
 favicon
