@@ -34,12 +34,12 @@ These following are the major sections of the plan:
 
 ## General Requirements
 
-☑️  The plan must be **less than 2 pages** and do not include [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink).
+:ballot_box_with_check: The plan must be **less than 2 pages** and do not include [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink).
 
 - _Follow margin and font formatting restrictions consistent with the rest of the proposal_.
 
 
-☑️  Nothing confidential or proprietary is in your plan.  
+:ballot_box_with_check: Nothing confidential or proprietary is in your plan.  
 
 - _Initially DMS plans will not be made public, but they **may be made public** in the future_.
 
@@ -54,17 +54,17 @@ You are encouraged to talk to the appropriate Program Officer for your respectiv
 
 ### Types and amount data
 
-☑️  Describe what kind of data will be generated over the course of funding.  
+:ballot_box_with_check: Describe what kind of data will be generated over the course of funding.  
 
-☑️  Describe the expected amounts of data for each kind of data.
+:ballot_box_with_check: Describe the expected amounts of data for each kind of data.
 
-☑️  Describe the expected levels of aggregation (individual, aggregated, summarized) for each kind of data.
+:ballot_box_with_check: Describe the expected levels of aggregation (individual, aggregated, summarized) for each kind of data.
 
-☑️  Describe the expected degree of processing of data for each kind of data.
+:ballot_box_with_check: Describe the expected degree of processing of data for each kind of data.
 
 ### Data Sharing
 
-☑️  Describe what data from the project will shared or not shared and justify this decision.
+:ballot_box_with_check: Describe what data from the project will shared or not shared and justify this decision.
 
 <div class = "ethics"> 
 For additional information about potential ethical considerations of sharing your data, see the [ethics section](#ethics) of the appendix.
@@ -72,14 +72,14 @@ For additional information about potential ethical considerations of sharing you
 
 ### Metadata, other relevant data, and associated documentation
 
-☑️  List information about metadata.
+:ballot_box_with_check: List information about metadata.
 &nbsp;
 
-☑️  List other possibly relevant data.  
+:ballot_box_with_check: List other possibly relevant data.  
 
 - _This includes data you think is not considered scientific._
 
-☑️  List any relevant information about how you plan to gather the data.
+:ballot_box_with_check: List any relevant information about how you plan to gather the data.
 
 - _For example, this could include study protocols and data collection instruments that you plan to share to make it easier for others to reproduce your work._
 
@@ -95,7 +95,7 @@ Data types expected to be shared under the GDS Policy should be described in thi
 
 ## Related Tools, Software and/or Code
 
-☑️  Describe any software or code you intend to use to process or analyze the data.
+:ballot_box_with_check: Describe any software or code you intend to use to process or analyze the data.
 
 - _Provide the names of the tools._
 - _Provide how the tools can be accessed._
@@ -104,7 +104,7 @@ Data types expected to be shared under the GDS Policy should be described in thi
 
 ## Standards
 
-☑️  Describe the names of any data standards that will be used for your data/metadata to enable easier sharing are repeated use of your data.
+:ballot_box_with_check: Describe the names of any data standards that will be used for your data/metadata to enable easier sharing are repeated use of your data.
 
 - _This could include:_
   - _data formats_
@@ -118,10 +118,10 @@ Data types expected to be shared under the GDS Policy should be described in thi
   - _unique identifiers_
   - _other data documentation_
 
-☑️  Describe how these standards will be applied to your data.
+:ballot_box_with_check: Describe how these standards will be applied to your data.
 &nbsp;
 
-☑️  If no standards exist, justify this.
+:ballot_box_with_check: If no standards exist, justify this.
   
 <div class = "dictionary">
 
@@ -160,54 +160,54 @@ For Non-human genomic data:
 
 ### List where the data will be shared
 
-☑️  Describe the repositories for sharing the scientific data, as well as the metadata.
+:ballot_box_with_check: Describe the repositories for sharing the scientific data, as well as the metadata.
 
 ### Methods to make scientific data findable and identifiable
 
-☑️  Describe what you will do to make the data more findable and identifiable. 
+:ballot_box_with_check: Describe what you will do to make the data more findable and identifiable. 
 
 - _For example, you could use a persistent unique identifier (PID) or other standard indexing tool. [Zenodo](https://zenodo.org/) can be a useful option for creating digital object identifiers (DOIs)._
 
 ### Timeline of scientific data sharing
 
-☑️  Describe when the scientific data will be made available to others.
+:ballot_box_with_check: Describe when the scientific data will be made available to others.
 
 - _Recall that data must be shared no later than the time of publication of findings or the end of the award (whatever comes first), however the NIH encourages th the data be shared as early as possible._
 - _Renewals can have an updated DMS plan with a different timeline, but if not approved must use previous DMS date._
 - _No cost extension also allows for more time._
 - _NIH encourages that data be made available as early as possible._
 
-☑️  Describe how long data will be available to others. 
+:ballot_box_with_check: Describe how long data will be available to others. 
   
 - _There is no requirement for how long need to be available, however, note that journals may have requirements and the NIH encourages that data be made available for as long as the data is anticipated to be useful. Furthermore, [Per Section 8.4.2 of the NIH Grants Policy Statement](https://grants.nih.gov/grants/policy/nihgps/html5/section_8/8.4.2_record_retention_and_access.htm), grantee institutions are required to keep data for 3 years following closeout of a grant or contract agreement. Additionally, specific awards may have their own requirements._
 
-☑️  Describe any differences in timelines for different datasets. 
+:ballot_box_with_check: Describe any differences in timelines for different datasets. 
 
 ## Access and Reuse Considerations
 
 Describe how you considered various factors that may influence data access or hinder your ability to share the data including:
 &nbsp;
 
-☑️  Describe type of informed consent was used or will be used to gather the data.
+:ballot_box_with_check: Describe type of informed consent was used or will be used to gather the data.
 
 - _NIH expects informed consent for de-identified cell lines or clinical specimens as well (even if the research does not meet the definition of "human subjects research" under the Common Rule for all data derived from such specimens after January 25th, 2015, the effective date of the [GDS policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview)._
 
-☑️  Describe if access to data related to human subjects will be controlled and how the privacy, rights and confidentiality of these participants will be protected (for example, de-identification methods).
+:ballot_box_with_check: Describe if access to data related to human subjects will be controlled and how the privacy, rights and confidentiality of these participants will be protected (for example, de-identification methods).
 &nbsp;
 
-☑️  Ensure privacy and confidentiality protections consistent with applicable federal, Tribal, state, and local laws, regulations, and policies.
+:ballot_box_with_check: Ensure privacy and confidentiality protections consistent with applicable federal, Tribal, state, and local laws, regulations, and policies.
 &nbsp;
 
-☑️  Describe any restrictions imposed by federal, Tribal, or state laws, regulations, or policies, or existing or anticipated agreements.
+:ballot_box_with_check: Describe any restrictions imposed by federal, Tribal, or state laws, regulations, or policies, or existing or anticipated agreements.
 &nbsp;
 
-☑️  Describe any other relevant data sharing policies.
+:ballot_box_with_check: Describe any other relevant data sharing policies.
 
 - _An example could be the [Genomic Data Sharing (GDS) policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview)._
 
 - _If indeed the data requires compliance with the GDS policy, researchers should indicate if the study should be designated as ["sensitive"](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-023.html)._
 
-☑️ Describe any reasons that will limit data sharing (including legal, ethical, or technical concerns, as well as [Institutional Certification](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/about-institutional-certifications) limitations). 
+:ballot_box_with_check: Describe any reasons that will limit data sharing (including legal, ethical, or technical concerns, as well as [Institutional Certification](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/about-institutional-certifications) limitations). 
 &nbsp;
 
 - _Other sharing limitations:_
@@ -217,7 +217,7 @@ Describe how you considered various factors that may influence data access or hi
   - _If data cannot be shared due to an Institutional Certification criteria, for example, the data cannot be shared as expected by the [GDS policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview). Researchers should include this information in their DMS plan and explain why the element cannot be met._
 
 
-☑️ Describe any consideration for embargo periods or access controls if there are intellectual property concerns, rather than refraining from sharing altogether.
+:ballot_box_with_check: Describe any consideration for embargo periods or access controls if there are intellectual property concerns, rather than refraining from sharing altogether.
 
 <div class = "ethics"> 
 Keep in mind that there may be important ethical considerations when it comes to sharing data based on the consent process, see the [ethics consent section](#consent) of the appendix. In addition, de-identification can be a tricky process, see the [ethics section](#de-identification) for more information about that as well.
@@ -225,8 +225,8 @@ Keep in mind that there may be important ethical considerations when it comes to
 
 ## Oversight
 
-☑️  Describe who will manage compliance with the DMS plan (include names, titles and roles of all individuals involved).
+:ballot_box_with_check: Describe who will manage compliance with the DMS plan (include names, titles and roles of all individuals involved).
 &nbsp;
 
-☑️  Describe how compliance will be monitored (including frequency of oversight, for example every 3 months).
+:ballot_box_with_check: Describe how compliance will be monitored (including frequency of oversight, for example every 3 months).
 
