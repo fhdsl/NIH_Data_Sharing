@@ -1,6 +1,7 @@
 
 ```{r, include = FALSE}
 ottrpal::set_knitr_image_path()
+devtools::install_github("GuangchuangYu/emojifont")
 library(emojifont)
 ```
 
