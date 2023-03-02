@@ -32,6 +32,37 @@ File sizes for medical imaging data vary greatly depending on both the technolog
 
 Here is an table of average file sizes for various medical imaging modalities from @liu_imaging_2017:
 
+
+```
+## Warning: replacing previous import 'ellipsis::check_dots_unnamed' by
+## 'rlang::check_dots_unnamed' when loading 'tibble'
+```
+
+```
+## Warning: replacing previous import 'ellipsis::check_dots_used' by
+## 'rlang::check_dots_used' when loading 'tibble'
+```
+
+```
+## Warning: replacing previous import 'ellipsis::check_dots_empty' by
+## 'rlang::check_dots_empty' when loading 'tibble'
+```
+
+```
+## Warning: replacing previous import 'ellipsis::check_dots_unnamed' by
+## 'rlang::check_dots_unnamed' when loading 'pillar'
+```
+
+```
+## Warning: replacing previous import 'ellipsis::check_dots_used' by
+## 'rlang::check_dots_used' when loading 'pillar'
+```
+
+```
+## Warning: replacing previous import 'ellipsis::check_dots_empty' by
+## 'rlang::check_dots_empty' when loading 'pillar'
+```
+
 <img src="Data_size_details_files/figure-html//1B4LwuvgA6aUopOHEAbES1Agjy7Ex2IpVAoUIoBFbsq0_gfb2e21ecdc_0_35.png" title="Table of file types for imaging data, most modalities have files in the range of MB to GB. Note that these are approximate values." alt="Table of file types for imaging data, most modalities have files in the range of MB to GB. Note that these are approximate values." width="100%" style="display: block; margin: auto;" />
 [[source](https://www.mdpi.com/2078-2489/8/4/131)]
 
