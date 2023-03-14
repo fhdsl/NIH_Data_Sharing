@@ -25,6 +25,22 @@ It is important to note that it may be possible to change your DMS plan (with ap
 In addition, you may want to consider potential ethical considerations for your data management and sharing plans, see the [ethics section](#ethics) of the appendix.
 </div>
 
+## DMS Helper App
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/_child_dms_app.Rmd",
+  repo_name = "fhdsl/NIH_Data_Sharing",
+  branch = "ava/app-link"
+)
+```
+
+<div class = "notice"> 
+
+If you are not familiar with the plan's sections, we recommend reading on below before diving into the DMS Helper App.
+
+</div>
+
 ## Plan Sections
 
 These following are the major sections of the plan:
@@ -35,10 +51,6 @@ These following are the major sections of the plan:
 4. **Data preservation, access, timelines** - describe where the data will be made available and when
 5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
 6. **Oversight** - describe who will manage compliance of the DMS plan
-
-<div class = "notice"> 
-Have you checked out the [DMS Helper App](https://dmshelper.fredhutch.org/)? We created this tool to make writing your Plan easier.
-</div>
 
 ## General Requirements
 
