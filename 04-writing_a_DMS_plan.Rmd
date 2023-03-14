@@ -30,8 +30,7 @@ In addition, you may want to consider potential ethical considerations for your 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/_child_dms_app.Rmd",
-  repo_name = "fhdsl/NIH_Data_Sharing",
-  branch = "ava/app-link"
+  repo_name = "fhdsl/NIH_Data_Sharing"
 )
 ```
 
