@@ -1,7 +1,7 @@
 
 # DMS Helper App {-}
 
-```{r, echo = FALSE, results='asis'}
+```{r, echo = FALSE, results='asis', warning=FALSE}
 cow::borrow_chapter(
   doc_path = "child/_child_dms_app.Rmd",
   repo_name = "fhdsl/NIH_Data_Sharing"
