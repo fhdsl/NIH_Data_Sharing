@@ -20,6 +20,21 @@ It is important to note that it may be possible to change your DMS plan (with ap
 In addition, you may want to consider potential ethical considerations for your data management and sharing plans, see the [ethics section](#ethics) of the appendix.
 </div>
 
+## DMS Helper App
+
+
+The Fred Hutch Data Science Lab has created and online app where you can create your NIH Data Management and Sharing Plan. It includes template text corresponding to different Fred Hutch Research Cores. You can download your filled-in plan in either Word or Markdown format.
+
+https://dmshelper.fredhutch.org/
+
+<img src="resources/images/04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g21c2a6e60cf_39_0.png" title="Preview of the DMS Helper App." alt="Preview of the DMS Helper App." width="100%" style="display: block; margin: auto;" />
+
+<div class = "notice"> 
+
+If you are not familiar with the plan's sections, we recommend reading on below before diving into the DMS Helper App.
+
+</div>
+
 ## Plan Sections
 
 These following are the major sections of the plan:
@@ -30,7 +45,6 @@ These following are the major sections of the plan:
 4. **Data preservation, access, timelines** - describe where the data will be made available and when
 5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
 6. **Oversight** - describe who will manage compliance of the DMS plan
-
 
 ## General Requirements
 
