@@ -36,6 +36,9 @@ These following are the major sections of the plan:
 5. **Access, distribution, reuse considerations** - describe how you have carefully considered any reasons that might limit sharing
 6. **Oversight** - describe who will manage compliance of the DMS plan
 
+<div class = "notice"> 
+Have you checked out the [DMS Helper App](https://dmshelper.fredhutch.org/)? We created this tool to make writing your Plan easier.
+</div>
 
 ## General Requirements
 
