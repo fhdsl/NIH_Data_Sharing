@@ -10,7 +10,7 @@ description: Description about Course/Book.
 favicon: assets/favicon.ico
 ---
 
-```{r include=FALSE}
+```{r include=FALSE, warning=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(
   .packages(), "bookdown", "knitr", "rmarkdown"
@@ -28,7 +28,7 @@ Once a DMS plan is accepted by the funding agency, the researchers will be requi
 
 In this course we will describe what the new policy requires, places where you might want to share your particular kind of data, and how to deal with possible challenges associated with the policy.
 
-```{r, echo=FALSE, fig.alt='Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process.', out.width = '100%'}
+```{r, echo=FALSE, fig.alt='Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process.', out.width = '100%', warning=FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1784801ac8b_42_26")
 ```
 
