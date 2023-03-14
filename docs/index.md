@@ -1,6 +1,6 @@
 ---
 title: "NIH Data Management and Sharing Policy"
-date: "March 02, 2023"
+date: "March 14, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -22,37 +22,6 @@ The main requirement of this new policy is that researchers include a Data Manag
 Once a DMS plan is accepted by the funding agency, the researchers will be required to carry out the plan. However, updates can be made to the plan as well during the [Just-in-Time process](https://grants.nih.gov/grants/policy/nihgps/html5/section_2/2.5.1_just-in-time_procedures.htm).
 
 In this course we will describe what the new policy requires, places where you might want to share your particular kind of data, and how to deal with possible challenges associated with the policy.
-
-
-```
-## Warning: replacing previous import 'ellipsis::check_dots_unnamed' by
-## 'rlang::check_dots_unnamed' when loading 'tibble'
-```
-
-```
-## Warning: replacing previous import 'ellipsis::check_dots_used' by
-## 'rlang::check_dots_used' when loading 'tibble'
-```
-
-```
-## Warning: replacing previous import 'ellipsis::check_dots_empty' by
-## 'rlang::check_dots_empty' when loading 'tibble'
-```
-
-```
-## Warning: replacing previous import 'ellipsis::check_dots_unnamed' by
-## 'rlang::check_dots_unnamed' when loading 'pillar'
-```
-
-```
-## Warning: replacing previous import 'ellipsis::check_dots_used' by
-## 'rlang::check_dots_used' when loading 'pillar'
-```
-
-```
-## Warning: replacing previous import 'ellipsis::check_dots_empty' by
-## 'rlang::check_dots_empty' when loading 'pillar'
-```
 
 <img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1784801ac8b_42_26.png" title="Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process." alt="Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process." width="100%" />
 
