@@ -47,6 +47,9 @@ We want to help make the process of compliance with the new NIH Data Management 
 
 The course is intended for anyone who plans to submit a grant proposal to the NIH after January 25th, 2023.
 
+```{r, echo=FALSE, fig.alt='For individuals who: are submitting a grant proposal to the NIH, want to determine if their proposal requires compliance with the new policy, want support finding appropriate places to share data, want support writing a data management and sharing plan', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g225dc533c12_1_0")
+```
 
 ## Curriculum  
 
