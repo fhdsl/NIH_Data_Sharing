@@ -104,4 +104,4 @@ This is a new policy for the NIH and they are expecting to have some growing pai
 
 ## Authors
 
-This course was developed by the [Fred Hutch Data Science Lab](https://hutchdatascience.org/). Please see the [author credits](#about-the-authors) for more information.
+This course was developed by the [Fred Hutch Data Science Lab](https://hutchdatascience.org/). Please see the [author credits](#about-the-authors) for more information. The slides for the course are available [here](https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit?usp=sharing).
