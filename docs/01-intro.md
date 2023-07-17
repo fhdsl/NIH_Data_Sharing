@@ -162,7 +162,7 @@ How will this influence the grant review process?
 
 For most proposals -- those where data sharing is not part of the Funding Opportunity Announcement -- the following will happen during the review process:
 
-- Reviewers for will not have access to your DMS plan.
+- Reviewers will not have access to your DMS plan.
 - Reviewers will however see your budget which will include some descriptions of how money will be spent to manage and share data.
 - Thus, the DMS plan should not influence your grant score. 
 - After a grant receives a fundable score, a Program Officer will review the DMS plan and will work with the PI to address any concerns. Changes based on this process can be made during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) procedures.
