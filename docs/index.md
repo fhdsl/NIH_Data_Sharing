@@ -1,6 +1,6 @@
 ---
 title: "NIH Data Management and Sharing Policy"
-date: "March 14, 2023"
+date: "July 17, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -40,6 +40,7 @@ We want to help make the process of compliance with the new NIH Data Management 
 
 The course is intended for anyone who plans to submit a grant proposal to the NIH after January 25th, 2023.
 
+<img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g225dc533c12_1_0.png" title="For individuals who: are submitting a grant proposal to the NIH, want to determine if their proposal requires compliance with the new policy, want support finding appropriate places to share data, want support writing a data management and sharing plan" alt="For individuals who: are submitting a grant proposal to the NIH, want to determine if their proposal requires compliance with the new policy, want support finding appropriate places to share data, want support writing a data management and sharing plan" width="100%" />
 
 ## Curriculum  
 
@@ -92,4 +93,4 @@ This is a new policy for the NIH and they are expecting to have some growing pai
 
 ## Authors
 
-This course was developed by the [Fred Hutch Data Science Lab](https://hutchdatascience.org/). Please see the [author credits](#about-the-authors) for more information.
+This course was developed by the [Fred Hutch Data Science Lab](https://hutchdatascience.org/). Please see the [author credits](#about-the-authors) for more information. The slides for the course are available [here](https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit?usp=sharing).
