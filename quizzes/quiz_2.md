@@ -23,7 +23,7 @@ o) Oversight - describe who will manage compliance of the DMS plan
 C) The type of data and the number of samples
 m) The number of researchers working on the project
 m) The location of the data storage facility
-m) The funding agency's requirements for data storage
+m) The effect size of your treatment or independent variable
 
 {choose-answers: 4}
 ? Which of the following is true about data repositories?
@@ -44,6 +44,7 @@ C) Costs for curating and standardizing the data
 C) Costs for transferring data to a repository
 C) Repository storage costs
 m) Infrastructure costs, such as facilities and administrative costs
+m) You should not budget for data management as it is included in indirect costs to the institution
 
 {choose-answers: 4}
 ? Who will review and assess the Data Sharing and Management Plan submitted by researchers?
