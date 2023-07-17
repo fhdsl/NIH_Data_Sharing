@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>References | NIH Data Management and Sharing Policy</title>
+  <title>Chapter 4 Data Management and Storage | NIH Data Management and Sharing Policy</title>
   <meta name="description" content="Description about Course/Book." />
   <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="References | NIH Data Management and Sharing Policy" />
+  <meta property="og:title" content="Chapter 4 Data Management and Storage | NIH Data Management and Sharing Policy" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="References | NIH Data Management and Sharing Policy" />
+  <meta name="twitter:title" content="Chapter 4 Data Management and Storage | NIH Data Management and Sharing Policy" />
   
   <meta name="twitter:description" content="Description about Course/Book." />
   
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon" />
-<link rel="prev" href="about-the-authors.html"/>
-
+<link rel="prev" href="overview-of-the-dms-plan.html"/>
+<link rel="next" href="budgeting-for-data-sharing.html"/>
 <script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
@@ -249,49 +249,161 @@ div.csl-indent {
 <div class="hero-image-container"> 
   <img class= "hero-image" src="assets/dasl_thin_main_image.png">
 </div>
-<div id="references" class="section level1 unnumbered">
-<h1>References</h1>
+<div id="data-management-and-storage" class="section level1" number="4">
+<h1><span class="header-section-number">Chapter 4</span> Data Management and Storage</h1>
+<p>To enable a more productive research experience and to ease your future compliance with any data sharing requirements, active data management during the research process can be very helpful.</p>
+<p><img src="resources/images/02-data_management_plan_files/figure-html/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_37.png" title="We are on the third step of the pathway - Data Storage Options." alt="We are on the third step of the pathway - Data Storage Options." width="80%" style="display: block; margin: auto;" /></p>
+<div id="data-storage-concerns" class="section level2" number="4.1">
+<h2><span class="header-section-number">4.1</span> Data Storage Concerns</h2>
+<div class="question">
+<p>How should you store and interact with data while doing research?</p>
+</div>
+<p>Your data storage needs will depend greatly on the type of data you will be working with as well as the number of samples you might have. File sizes vary considerably based on the data being stored. A single file can be as small as 1 MB in size (for a PET scan image of the heart) to 60 GB (for an uncompressed fastq of a whole genome sequence). Storing files in a compressed format, especially raw files, can help decrease your storage needs and costs. Below is a table of common types of data and sizes for single files. This list is not comprehensive but instead should be taken as a general guide. You should always get a more specific estimate for your particular project before submitting your grant proposal.</p>
+<table>
+<thead>
+<tr class="header">
+<th><strong>Type of data</strong></th>
+<th><strong>Common size for a <em>single</em> file</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Genomics (WGS, WES)</td>
+<td>15-60 GB</td>
+</tr>
+<tr class="even">
+<td>Genomics (RNA-seq, scRNA-seq)</td>
+<td>3-25 GB</td>
+</tr>
+<tr class="odd">
+<td>Imaging (microscopy)</td>
+<td>2-8 MB</td>
+</tr>
+<tr class="even">
+<td>Imaging (human medical)</td>
+<td>1 MB – 2.5 GB</td>
+</tr>
+<tr class="odd">
+<td>Flow cytometry</td>
+<td>1-50 MB</td>
+</tr>
+<tr class="even">
+<td>Proteomics</td>
+<td>3-5 MB</td>
+</tr>
+<tr class="odd">
+<td>Clinical trials</td>
+<td>2-25 MB</td>
+</tr>
+</tbody>
+</table>
+<p><img src="resources/images/02-data_management_plan_files/figure-html/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_0.png" title="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." alt="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." width="80%" style="display: block; margin: auto;" /></p>
+<p>As you can see some of these data types require large data files. These files may quickly add up to require more storage or computing capacity than your laptop (which typically have 250 GB-1 TB of storage)! If you want to learn more about data file sizes check out the <a href="https://hutchdatascience.org/NIH_Data_Sharing/data-file-size-details.html">data file size details section</a> of the appendix and this class on <a href="https://jhudatascience.org/Computing_for_Cancer_Informatics/index.html">Computing for Cancer Informatics</a> from the <a href="https://itcr.cancer.gov/">Informatics Technology for Cancer Research (ITCR)</a> <a href="https://www.itcrtraining.org/">Training Network (ITN)</a> for options on how to manage large data files.</p>
+</div>
+<div id="data-repositories" class="section level2" number="4.2">
+<h2><span class="header-section-number">4.2</span> Data Repositories</h2>
+<div class="question">
+<p>Where will I share my data? What repositories exist that might work for my data type?</p>
+</div>
+<p>Some programs or Funding Opportunity Announcements (FOA) will specify where the data should be shared. If this applies, you should plan to use the repositories mentioned in the FOA.</p>
+<p>Other programs or FOAs will not specify where the data should be shared, however the NIH provides an <a href="https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data">interactive table of NIH-supported data repositories</a> to help you identify repositories that might be appropriate for your data.</p>
+<p><img src="resources/images/02-data_management_plan_files/figure-html/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_39.png" title="The interactive table provided by NIH can help you find an appropriate repository." alt="The interactive table provided by NIH can help you find an appropriate repository." width="80%" style="display: block; margin: auto;" /></p>
+<p>If you don’t find a repository there, additional repositories can also be found at the following links:</p>
+<ul>
+<li><a href="https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html">Open NIH-supported domain-specific repositories</a></li>
+<li><a href="https://www.nlm.nih.gov/NIHbmic/other_data_resources.html">Other NIH-supported domain-specific resources</a></li>
+<li><a href="https://www.nature.com/sdata/policies/repositories">Nature data sharing resources</a></li>
+<li><a href="https://www.re3data.org/">Registry of research data repositories</a></li>
+</ul>
+<p>Researchers should aim to find repository with the following characteristics according to the NIH:</p>
+<ul>
+<li><strong>Established</strong>: If the repository is established (well-known or has been around for a significant period of time), it is likely to improve the FAIRness <span class="citation">(<a href="references.html#ref-wilkinson_citation_2016" role="doc-biblioref">Wilkinson et al. 2016</a>)</span> of the data.</li>
+<li><strong>Specific</strong>: Repositories that are discipline or data-type specific should be prioritized to promote reuse.</li>
+<li><strong>Unique Persistent Identifiers</strong>: Assigns datasets a citable, unique persistent identifier, such as a digital object identifier (DOI) or accession number, to support data discovery, reporting, and research assessment. The identifier points to a persistent landing page that remains accessible even if the dataset is de-accessioned or no longer available.</li>
+<li><strong>Long-Term Sustainability</strong>: Has a plan for long-term management of data, including maintaining integrity, authenticity, and availability of datasets; building on a stable technical infrastructure and funding plans; and having contingency plans to ensure data are available and maintained during and after unforeseen events.</li>
+<li><strong>Metadata</strong>: Ensures datasets are accompanied by metadata to enable discovery, reuse, and citation of datasets, using schema that are appropriate to, and ideally widely used across, the community/communities the repository serves. Domain-specific repositories would generally have more detailed metadata than generalist repositories.</li>
+<li><strong>Curation and Quality Assurance</strong>: Provides, or has a mechanism for others to provide, expert curation and quality assurance to improve the accuracy and integrity of datasets and metadata.</li>
+<li><strong>Free and Easy Access</strong>: Provides broad, equitable, and maximally open access to datasets and their metadata free of charge in a timely manner after submission, consistent with legal and ethical limits required to maintain privacy and confidentiality, Tribal sovereignty, and protection of other sensitive data.</li>
+<li><strong>Broad and Measured Reuse</strong>: Makes datasets and their metadata available with broadest possible terms of reuse; and provides the ability to measure attribution, citation, and reuse of data (i.e., through assignment of adequate metadata and unique identifiers).</li>
+<li><strong>Clear Use Guidance</strong>: Provides accompanying documentation describing terms of dataset access and use (e.g., particular licenses, need for approval by a data use committee).</li>
+<li><strong>Security and Integrity</strong>: Has documented measures in place to meet generally accepted criteria for preventing unauthorized access to, modification of, or release of data, with levels of security that are appropriate to the sensitivity of data.</li>
+<li><strong>Confidentiality</strong>: Has documented capabilities for ensuring that administrative, technical, and physical safeguards are employed to comply with applicable confidentiality, risk management, and continuous monitoring requirements for sensitive data (should your data require such safeguards).</li>
+<li><strong>Common Format</strong>: Allows datasets and metadata downloaded, accessed, or exported from the repository to be in widely used, preferably non-proprietary, formats consistent with those used in the community/communities the repository serves.</li>
+<li><strong>Provenance</strong>: Has mechanisms in place to record the origin, chain of custody, and any modifications to submitted datasets and metadata.</li>
+<li><strong>Retention Policy</strong>: Provides documentation on policies for data retention within the repository.</li>
+</ul>
+</div>
+<div id="considerations-for-human-data" class="section level2" number="4.3">
+<h2><span class="header-section-number">4.3</span> Considerations for Human Data</h2>
+<p>When working with human participant data, including de-identified human data, here are some additional characteristics to look for:</p>
+<ul>
+<li><strong>Fidelity to Consent</strong>: Uses documented procedures to restrict dataset access and use to those that are consistent with participant consent and changes in consent.</li>
+<li><strong>Restricted Use Compliant</strong>: Uses documented procedures to communicate and enforce data use restrictions, such as preventing reidentification or redistribution to unauthorized users.</li>
+<li><strong>Privacy</strong>: Implements and provides documentation of measures (for example, tiered access, credentialing of data users, security safeguards against potential breaches) to protect human subjects data from inappropriate access.</li>
+<li><strong>Plan for Breach</strong>: Has security measures that include a response plan for detected data breaches.</li>
+<li><strong>Download Control</strong>: Controls and audits access to and download of datasets (if download is permitted).</li>
+<li><strong>Violations</strong>: Has procedures for addressing violations of terms-of-use by users and data mismanagement by the repository.</li>
+<li><strong>Request Review</strong>: Makes use of an established and transparent process for reviewing data access requests.</li>
+</ul>
+<div class="dictionary">
+<p><strong>Data FAIRness</strong></p>
+<p>Data that is <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable, and <strong>R</strong>eusable. For more information about data FAIRness, check out this <a href="https://www.nature.com/articles/sdata201618">manuscript</a> by <span class="citation">Wilkinson et al. (<a href="references.html#ref-wilkinson_citation_2016" role="doc-biblioref">2016</a>)</span>.</p>
+<p>In brief, it is described by the <a href="https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf">NIH</a> as follows:</p>
+<ul>
+<li>To be Findable, data must have unique identifiers, effectively
+labeling it within searchable resources.</li>
+<li>To be Accessible, data must be easily retrievable via open systems
+and effective and secure authentication and authorization
+procedures.</li>
+<li>To be Interoperable, data should “use and speak the same
+language” via use of standardized vocabularies.</li>
+<li>To be Reusable, data must be adequately described to a new user,
+have clear information about data-usage licenses, and have a
+traceable “owner’s manual,” or provenance.</li>
+</ul>
+</div>
+</div>
+<div id="no-existing-repository" class="section level2" number="4.4">
+<h2><span class="header-section-number">4.4</span> No Existing Repository?</h2>
+<div class="question">
+<p>What if I can’t find an appropriate repository?</p>
+</div>
+<ul>
+<li><p><strong>Supplemental material</strong> - If the data are small (less than 2 GB), it may be included as supplemental material for an article. See <a href="https://www.ncbi.nlm.nih.gov/pmc/about/guidelines/#suppm">here</a> for more information.</p></li>
+<li><p><strong>Institutional repositories</strong> - Check to see if your institute has a repository where you could publicly share the data</p></li>
+<li><p><strong><a href="https://www.nlm.nih.gov/NIHbmic/generalist_repositories.html">Generalist repositories</a></strong>- Host your data somewhere that hosts different types of data publicly, such as:</p>
+<ul>
+<li><a href="https://dataverse.org/">Dataverse</a></li>
+<li><a href="https://datadryad.org/">Dryad</a></li>
+<li><a href="https://figshare.com/">Figshare</a></li>
+<li><a href="https://ieee-dataport.org/">IEEE Dataport</a></li>
+<li><a href="https://data.mendeley.com/">Mendeley Data</a></li>
+<li><a href="https://osf.io/">Open Science Framework</a></li>
+<li><a href="https://www.synapse.org/">Synapse</a></li>
+<li><a href="https://vivli.org/">Vivli</a></li>
+<li><a href="https://zenodo.org/">Zenodo</a></li>
+</ul></li>
+</ul>
+<p>Note that the NIH encourages that an existing data sharing repository be used whenever one is available instead of one of these options.</p>
+<p><img src="resources/images/02-data_management_plan_files/figure-html/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_44_28.png" title="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." alt="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." width="80%" style="display: block; margin: auto;" /></p>
+</div>
+<div id="summary" class="section level2" number="4.5">
+<h2><span class="header-section-number">4.5</span> Summary</h2>
+<p>The following links can help you find a data repository for your data:</p>
+<ul>
+<li><a href="https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data">Interactive table of NIH-supported data repositories</a> <em>Start here!</em></li>
+<li><a href="https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html">Open NIH-supported domain-specific repositories</a></li>
+<li><a href="https://www.nlm.nih.gov/NIHbmic/other_data_resources.html">Other NIH-supported domain-specific resources</a></li>
+<li><a href="https://www.nature.com/sdata/policies/repositories">Nature data sharing resources</a></li>
+<li><a href="https://www.re3data.org/">Registry of research data repositories</a></li>
+</ul>
+<p>If you don’t find an appropriate repository for your data type:</p>
+<ul>
+<li>Consider adding your data as a supplementary file to a manuscript if it is small</li>
+<li>Consider an institutional repository</li>
+<li>Check out the <a href="https://www.nlm.nih.gov/NIHbmic/generalist_repositories.html">generalist repositories</a></li>
+</ul>
 
-<div id="refs" class="references csl-bib-body hanging-indent">
-<div id="ref-bauchner_citation_2016" class="csl-entry">
-Bauchner, Howard, Robert M. Golub, and Phil B. Fontanarosa. 2016. <span>“<span class="nocase">Data Sharing: An Ethical and Scientific Imperative</span>.”</span> <em>JAMA</em> 315 (12): 1238–40. <a href="https://doi.org/10.1001/jama.2016.2420">https://doi.org/10.1001/jama.2016.2420</a>.
-</div>
-<div id="ref-bonomi_citation_2020" class="csl-entry">
-Bonomi, Luca, Yingxiang Huang, and Lucila Ohno-Machado. 2020. <span>“Privacy Challenges and Research Opportunities for Genomic Data Sharing.”</span> <em>Nature Genetics</em> 52 (7): 646–54. <a href="https://doi.org/10.1038/s41588-020-0651-0">https://doi.org/10.1038/s41588-020-0651-0</a>.
-</div>
-<div id="ref-colavizza_citation_2020" class="csl-entry">
-Colavizza, Giovanni, Iain Hrynaszkiewicz, Isla Staden, Kirstie Whitaker, and Barbara McGillivray. 2020. <span>“The Citation Advantage of Linking Publications to Research Data.”</span> <em>PLOS ONE</em> 15 (4): e0230416. <a href="https://doi.org/10.1371/journal.pone.0230416">https://doi.org/10.1371/journal.pone.0230416</a>.
-</div>
-<div id="ref-cosgriff_citation_2020" class="csl-entry">
-Cosgriff, Christopher V, Daniel K Ebner, and Leo Anthony Celi. 2020. <span>“Data Sharing in the Era of <span>COVID</span>-19.”</span> <em>The Lancet Digital Health</em> 2 (5): e224. <a href="https://doi.org/10.1016/S2589-7500(20)30082-0">https://doi.org/10.1016/S2589-7500(20)30082-0</a>.
-</div>
-<div id="ref-liu_imaging_2017" class="csl-entry">
-Liu, Feng, Miguel Hernandez-Cabronero, Victor Sanchez, Michael W. Marcellin, and Ali Bilgin. 2017. <span>“The <span>Current</span> <span>Role</span> of <span>Image</span> <span>Compression</span> <span>Standards</span> in <span>Medical</span> <span>Imaging</span>.”</span> <em>Information</em> 8 (4): 131. <a href="https://doi.org/10.3390/info8040131">https://doi.org/10.3390/info8040131</a>.
-</div>
-<div id="ref-mckiernan_citation_2016" class="csl-entry">
-McKiernan, Erin C, Philip E Bourne, C Titus Brown, Stuart Buck, Amye Kenall, Jennifer Lin, Damon McDougall, et al. 2016. <span>“Point of View: How Open Science Helps Researchers Succeed.”</span> Edited by Peter Rodgers. <em>eLife</em> 5 (July): e16800. <a href="https://doi.org/10.7554/eLife.16800">https://doi.org/10.7554/eLife.16800</a>.
-</div>
-<div id="ref-NIS" class="csl-entry">
-<span>“<span>NIS</span> <span>Database</span> <span>Documentation</span>.”</span> n.d. Accessed December 17, 2021. <a href="https://www.hcup-us.ahrq.gov/db/nation/nis/nisdbdocumentation.jsp">https://www.hcup-us.ahrq.gov/db/nation/nis/nisdbdocumentation.jsp</a>.
-</div>
-<div id="ref-piwowar_citation_2011" class="csl-entry">
-Piwowar, Heather A., Todd J. Vision, and Michael C. Whitlock. 2011. <span>“Data Archiving Is a Good Investment.”</span> <em>Nature</em> 473 (7347): 285–85. <a href="https://doi.org/10.1038/473285a">https://doi.org/10.1038/473285a</a>.
-</div>
-<div id="ref-sansone_citation_2019" class="csl-entry">
-Sansone, Susanna-Assunta, Peter McQuilton, Philippe Rocca-Serra, Alejandra Gonzalez-Beltran, Massimiliano Izzo, Allyson L. Lister, Milo Thurston, and the FAIRsharing Community. 2019. <span>“FAIRsharing as a Community Approach to Standards, Repositories and Policies.”</span> <em>Nature Biotechnology</em> 37 (4): 358–67. <a href="https://doi.org/10.1038/s41587-019-0080-8">https://doi.org/10.1038/s41587-019-0080-8</a>.
-</div>
-<div id="ref-tenopir_citation_2020" class="csl-entry">
-Tenopir, Natalie M. AND Allard, Carol AND Rice. 2020. <span>“Data Sharing, Management, Use, and Reuse: Practices and Perceptions of Scientists Worldwide.”</span> <em>PLOS ONE</em> 15 (3): 1–26. <a href="https://doi.org/10.1371/journal.pone.0229003">https://doi.org/10.1371/journal.pone.0229003</a>.
-</div>
-<div id="ref-thessen_citation_2021" class="csl-entry">
-Thessen, Paul AND Patterson, Anne E. AND Bogdan. 2021. <span>“From Reductionism to Reintegration: Solving Society’s Most Pressing Problems Requires Building Bridges Between Data Types Across the Life Sciences.”</span> <em>PLOS Biology</em> 19 (3): 1–12. <a href="https://doi.org/10.1371/journal.pbio.3001129">https://doi.org/10.1371/journal.pbio.3001129</a>.
-</div>
-<div id="ref-vesteghem_citation_2020" class="csl-entry">
-Vesteghem, Charles, Rasmus Froberg Brøndum, Mads Sønderkær, Mia Sommer, Alexander Schmitz, Julie Støve Bødker, Karen Dybkær, Tarec Christoffer El-Galaly, and Martin Bøgsted. 2020. <span>“<span class="nocase">Implementing the FAIR Data Principles in precision oncology: review of supporting initiatives</span>.”</span> <em>Briefings in Bioinformatics</em> 21 (3): 936–45. <a href="https://doi.org/10.1093/bib/bbz044">https://doi.org/10.1093/bib/bbz044</a>.
-</div>
-<div id="ref-wilkinson_citation_2016" class="csl-entry">
-Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. <span>“The FAIR Guiding Principles for Scientific Data Management and Stewardship.”</span> <em>Scientific Data</em> 3 (1): 160018. <a href="https://doi.org/10.1038/sdata.2016.18">https://doi.org/10.1038/sdata.2016.18</a>.
-</div>
 </div>
 </div>
 <hr>
@@ -308,8 +420,8 @@ Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Applet
           </div>
         </div>
       </div>
-<a href="about-the-authors.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-
+<a href="overview-of-the-dms-plan.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="budgeting-for-data-sharing.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
