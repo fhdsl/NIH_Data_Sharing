@@ -38,6 +38,12 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 These materials have been developed at Fred Hutch for the purpose of assisting our faculty scientists with the new NIH data sharing policy requirements.  While we are confident in the content of these materials, we make no guarantee that they will fully comply with NIH's policy.  This is a new policy, and only time will tell.  We will revise these materials on an on-going basis, as appropriate.
 </div>
 
+## Course Format
+
+:::{.notice}
+This course is available in [Bookdown](https://hutchdatascience.org/NIH_Data_Sharing/) and [Leanpub](https://leanpub.com/courses/fredhutch/nih_data_sharing) formats. The Bookdown format allows you to browse the content on a web page. Creating a free account with Leanpub allows you to take quizzes on the material and earn a certificate of completion.
+:::
+
 ## Motivation
 
 We want to help make the process of compliance with the new NIH Data Management and Sharing Policy  [`https://sharing.nih.gov/`](https://sharing.nih.gov/) easier. 
