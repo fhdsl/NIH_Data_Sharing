@@ -1,5 +1,7 @@
-1-Why-this-new-DMS-policy?.md
-2-How-will-this-policy-affect-me?.md
+About-this-Course.md
+DMS-Helper-App.md
+1-Why-this-new-DMS-policy.md
+2-How-will-this-policy-affect-me.md
 quiz_1.md
 3-Overview-of-the-DMS-Plan.md
 4-Data-Management-and-Storage.md
@@ -8,8 +10,6 @@ quiz_1.md
 quiz_2.md
 7-Presubmission-Tips.md
 8-Post-Submission-Tips.md
-About-this-Course.md
-DMS-Helper-App.md
 FAQ.md
 Additional-Resources.md
 Further-Reading.md
