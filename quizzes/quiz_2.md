@@ -43,8 +43,8 @@ m) Costs for collecting the data
 C) Costs for curating and standardizing the data
 C) Costs for transferring data to a repository
 C) Repository storage costs
-m) Infrastructure costs, such as facilities and administrative costs
-m) You should not budget for data management as it is included in indirect costs to the institution
+o) Infrastructure costs, such as facilities and administrative costs
+o) You should not budget for data management as it is included in indirect costs to the institution
 
 {choose-answers: 4}
 ? Who will review and assess the Data Sharing and Management Plan submitted by researchers?
