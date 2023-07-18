@@ -1,3 +1,4 @@
+course-format
 motivation
 target-audience
 curriculum
