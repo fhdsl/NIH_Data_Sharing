@@ -21,7 +21,7 @@ render-coursera: no
 
 ## Automate the creation of Book.txt file? TRUE/FALSE?
 ## This is only relevant if render-leanpub is yes, otherwise it will be ignored
-make-book-txt: FALSE
+make-book-txt: TRUE
 
 # What docker image should be used for rendering?
 # The default is jhudsl/course_template:main
