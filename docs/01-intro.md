@@ -4,13 +4,11 @@
 # (PART\*) Introduction {-}
 
 
-# Why this new DMS policy?
+# Why this new DMS policy
 
 First we will discuss the motivations behind the new data management and sharing policy that will go into effect for (most) grant proposals submitted to the NIH after January 25, 2023.
 
 <img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_1_103.png" title="We are on the first step of the pathway- understanding the motivations of the policy." alt="We are on the first step of the pathway- understanding the motivations of the policy." width="80%" style="display: block; margin: auto;" />
-
-
 
 Why is the NIH doing this? There are several reasons why sharing data can be beneficial to the scientific community.
 
@@ -45,7 +43,7 @@ A plan describing an approach to data management, preservation, and sharing of s
 
 </div>
 
-# How will this policy affect me?
+# How will this policy affect me
 
 > You can refer to the [NIH overview](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policy/research-covered-under-the-data-management-sharing-policy#after){target="_blank"} of which research will be covered by this new policy.  
 
