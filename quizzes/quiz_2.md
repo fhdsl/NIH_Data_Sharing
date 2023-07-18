@@ -14,7 +14,7 @@ o) Data type - describe what data (amount and type) will be generated over the c
 o) Tools, software, and code - describe what tools (and versions) you intend to use to manage and analyze the data (note code is not required to be shared)
 o) Standards - describe any standards that you might need to use for your data and metadata to make them usable by others or be contributed to a repository
 o) Data preservation, access, timelines - describe where the data will be made available and when
-o) Access, distribution, reuse considerations - describe how you have carefully considered any reasons that might limit sharing
+m) Access, distribution, reuse considerations - describe how you have carefully considered any reasons that might limit sharing
 o) Oversight - describe who will manage compliance of the DMS plan
 
 {choose-answers: 4}
@@ -29,7 +29,7 @@ m) The effect size of your treatment or independent variable
 ? Which of the following is true about data repositories?
 
 C) The choice of repository is not always obvious, and sometimes a little research into an appropriate one is needed
-o) The repository is always listed in the funding announcement (FOA) / request for applications (RFA)
+m) The repository is always listed in the funding announcement (FOA) / request for applications (RFA)
 o) Only one appropriate repository exists for each data type
 o) Generalist repositories are for storing data collected from humans
 o) NIH discourages repositories that generate digital object identifiers (DOIs)
