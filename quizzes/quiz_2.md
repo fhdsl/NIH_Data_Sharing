@@ -57,9 +57,9 @@ m) External stakeholders
 {choose-answers: 4}
 ? Which of the following are key to the success of your DMS plan?
 
-a) It falls within the two-page limit
-b) It is free from confidential information and hyperlinks
-c) You reached out to the program officer for feedback and/or guidance
-D) All of the above
+m) It falls within the two-page limit
+m) It is free from confidential information and hyperlinks
+m) You reached out to the program officer for feedback and/or guidance
+C) All of these
 
 {/quiz}
