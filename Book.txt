@@ -1,5 +1,4 @@
 About-this-Course.md
-DMS-Helper-App.md
 1-Why-this-new-DMS-policy.md
 2-How-will-this-policy-affect-me.md
 quiz_1.md
