@@ -29,7 +29,7 @@ unallowable-costs
 budget-implementation
 assessment-of-budget
 writing-a-dms-plan
-dms-helper-app-1
+dms-helper-app
 plan-sections
 general-requirements
 data-type
