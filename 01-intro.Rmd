@@ -30,6 +30,10 @@ Why is the NIH doing this? There are several reasons why sharing data can be ben
 - **Collaboration opportunities** - Available data can inspire other researchers to explore new directions or extend upon previous work. These researchers might reach out to collaborate.
 - **Data citations** - Due to the importance of data generation and sharing to the NIH, data will now be seen as research product that demonstrates a contribution to the scientific community.
 
+```{r, echo=FALSE, fig.alt='Scientist examines the result of a plate assay, which is a test that allows scientists to count how many flu virus particles (virions) are in a mixture', out.width = '80%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g29f8bf18fa1_80_0")
+```
+
 ## Key terms 
 
 <div class = "dictionary_long">
@@ -52,11 +56,13 @@ A plan describing an approach to data management, preservation, and sharing of s
 
 </div>
 
-## Reflection: Benefits of Data Sharing
+## Discussion: Benefits of Data Sharing
+
+Please see below for a self-directed reflection.
 
 <div class = "reflection">
 
-Writing grants takes time and can be a lot of work. You might be thinking that adding an additional plan to your proposal is just more paperwork. If applicable, consider some ways that sharing your data and managing it effecively might benefit you in the long term.
+Writing grants takes time and can be a lot of work. You might be thinking that adding an additional plan to your proposal is just more paperwork. If applicable, consider some ways that sharing your data and managing it effectively might benefit you in the long term.
 
 </div>
 
