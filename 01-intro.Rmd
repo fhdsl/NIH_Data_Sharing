@@ -3,7 +3,7 @@
 ottrpal::set_knitr_image_path()
 ```
 
-# (PART\*) Introduction {-}
+# (PART\*) MODULE 1 Introduction {-}
 
 # VIDEO Introduction
 
