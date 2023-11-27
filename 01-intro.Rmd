@@ -13,7 +13,7 @@ Check out the video below. It provides a summary of the introduction to this cou
 
 # Why this new DMS policy
 
-First we will discuss the motivations behind the new data management and sharing policy that will go into effect for (most) grant proposals submitted to the NIH after January 25, 2023.
+First, we will discuss the motivations behind the new data management and sharing policy. This policy is applicable for (most) grant proposals submitted to the NIH as of January 25, 2023.
 
 ```{r, echo=FALSE, fig.alt='We are on the first step of the pathway- understanding the motivations of the policy.', out.width = '80%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_1_103")
@@ -21,14 +21,14 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 
 Why is the NIH doing this? There are several reasons why sharing data can be beneficial to the scientific community.
 
-- **Supports transparency** - Sharing data provides more clarity about how studies are performed. Many scientists also believe in an ethical responsibility to study participants [@bauchner_citation_2016].
-- **Encourages reproducibility and rigor** - Having the data accessible, allows others to try to reproduce study findings. This can further enable studies that may replicate or validate the initial findings with different data. 
-- **Supports multi-modal work** - When more data of various types are easily available it makes it easier for scientist to perform studies with multiple types of data [@thessen_citation_2021]. 
-- **More efficient and cost effective** - Some data are especially difficult or expensive to produce.
-- **Supports Researcher Inclusion** - Data generation can be especially difficult for those at institutes with less resources. Publicly available data can therefore be used by these researchers to better enable their participation. 
-- **Increased impact** - Papers that share their data in repositories appear to be cited more based on the study by @colavizza_citation_2020 .
-- **Increased collaboration opportunity** - Having data available can encourage other researchers to expand the research in a new direction or extend it further and they may reach out to collaborate.
-- **Data Citations** - Due to the importance of data generation and sharing to the NIH, data will now be seen as research product that demonstrates a contribution to the scientific community.
+- **Transparency** - Sharing data provides more clarity about how studies are performed. Many scientists also believe in an ethical responsibility to study participants [@bauchner_citation_2016].
+- **Reproducibility and rigor** - Having the data accessible allows others to try to reproduce study findings. This can further enable studies that may replicate or validate the initial findings with different data. 
+- **Multi-modal work** - Scientists can perform studies using multiple types of data when this data is easily accessible [@thessen_citation_2021]. 
+- **Efficiency and cost effectiveness** - Some data are especially difficult or expensive to produce. Resources that might have been used to regenerate the data can be used elsewhere.
+- **Researcher Inclusion** - Data generation can be especially difficult for those at institutes with fewer resources. Publicly available data can therefore be used by these researchers to better enable their participation. 
+- **Impact** - Papers that share their data in repositories appear to be cited more often based on the study by @colavizza_citation_2020 .
+- **Collaboration opportunities** - Available data can inspire other researchers to explore new directions or extend upon previous work. These researchers might reach out to collaborate.
+- **Data citations** - Due to the importance of data generation and sharing to the NIH, data will now be seen as research product that demonstrates a contribution to the scientific community.
 
 ## Key terms 
 
@@ -49,6 +49,14 @@ Data that provide additional information intended to make scientific data interp
 **Data Management and Sharing Plan**
 
 A plan describing an approach to data management, preservation, and sharing of scientific data and accompanying metadata.
+
+</div>
+
+## Reflection: Benefits of Data Sharing
+
+<div class = "reflection">
+
+Writing grants takes time and can sometimes be tiring work. You might be thinking that adding an additional plan to your proposal is just more paperwork. If applicable, consider some ways that sharing your data and managing it effecively might benefit you in the long term.
 
 </div>
 
