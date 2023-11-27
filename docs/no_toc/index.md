@@ -1,6 +1,6 @@
 ---
-title: "NIH Data Management and Sharing Policy"
-date: "July 18, 2023"
+title: "Data Management and Sharing for NIH Proposals"
+date: "November 27, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -15,7 +15,7 @@ favicon: assets/favicon.ico
 
 # About this Course {-}
 
-The [National Institutes of Health (NIH)](https://www.nih.gov/) is rolling out a new policy for the management and sharing of scientific data starting for (most) grants submitted **January 25, 2023** or later.
+The [National Institutes of Health (NIH)](https://www.nih.gov/) policy for the management and sharing of scientific data applies for (most) grants submitted.
 
 The main requirement of this new policy is that researchers include a Data Management and Sharing (DMS) plan with their proposal. **Not all research will require data sharing.** However, everyone must provide a justification if they can't share their data.
 
@@ -30,6 +30,14 @@ In this course we will describe what the new policy requires, places where you m
 
 These materials have been developed at Fred Hutch for the purpose of assisting our faculty scientists with the new NIH data sharing policy requirements.  While we are confident in the content of these materials, we make no guarantee that they will fully comply with NIH's policy.  This is a new policy, and only time will tell.  We will revise these materials on an on-going basis, as appropriate.
 </div>
+
+# VIDEO Summary {-}
+
+Check out the video below. It provides a summary and introduction to this course.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Lbn1edKfUb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Format and Audience {-}
 
 ## Course Format
 
@@ -47,6 +55,8 @@ We want to help make the process of compliance with the new NIH Data Management 
 The course is intended for anyone who plans to submit a grant proposal to the NIH after January 25th, 2023.
 
 <img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g225dc533c12_1_0.png" title="For individuals who: are submitting a grant proposal to the NIH, want to determine if their proposal requires compliance with the new policy, want support finding appropriate places to share data, want support writing a data management and sharing plan" alt="For individuals who: are submitting a grant proposal to the NIH, want to determine if their proposal requires compliance with the new policy, want support finding appropriate places to share data, want support writing a data management and sharing plan" width="100%" />
+
+# Course Overview {-}
 
 ## Curriculum  
 
