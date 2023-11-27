@@ -40,7 +40,7 @@ These materials have been developed at Fred Hutch for the purpose of assisting o
 
 # VIDEO Summary {-}
 
-This video will give you a summary and introduction to this course.
+Check out the video below. It provides a summary and introduction to this course.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Lbn1edKfUb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
