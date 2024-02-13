@@ -4,8 +4,10 @@ target-audience
 curriculum
 overall-takeaways
 authors
+video-introduction
 why-this-new-dms-policy
 key-terms
+discussion-on-benefits-of-data-sharing
 how-will-this-policy-affect-me
 no-sharing
 scientific-data
