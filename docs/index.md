@@ -1,6 +1,6 @@
 ---
 title: "Data Management and Sharing for NIH Proposals"
-date: "November 27, 2023"
+date: "February 13, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -31,7 +31,7 @@ In this course we will describe what the new policy requires, places where you m
 These materials have been developed at Fred Hutch for the purpose of assisting our faculty scientists with the new NIH data sharing policy requirements.  While we are confident in the content of these materials, we make no guarantee that they will fully comply with NIH's policy.  This is a new policy, and only time will tell.  We will revise these materials on an on-going basis, as appropriate.
 </div>
 
-# VIDEO Summary {-}
+# Video Summary {-}
 
 Check out the video below. It provides a summary and introduction to this course.
 
