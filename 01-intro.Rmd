@@ -5,13 +5,13 @@ ottrpal::set_knitr_image_path()
 
 # (PART\*) Introduction {-}
 
-# VIDEO Introduction
+# Video Introduction
 
 Check out the video below. It provides a summary of the introduction to this course.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XQkmYWhpQ2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Why this new DMS policy
+# Why This New DMS policy
 
 First, we will discuss the motivations behind the new data management and sharing policy. This policy is applicable for (most) grant proposals submitted to the NIH as of January 25, 2023.
 
@@ -56,7 +56,7 @@ A plan describing an approach to data management, preservation, and sharing of s
 
 </div>
 
-## Discussion: Benefits of Data Sharing
+# Discussion on Benefits of Data Sharing
 
 Please see below for a self-directed reflection.
 
