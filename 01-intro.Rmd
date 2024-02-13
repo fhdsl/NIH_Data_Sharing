@@ -70,7 +70,7 @@ Writing grants takes time and can be a lot of work. You might be thinking that a
 
 Check out the video below. It provides a summary of the personal considerations to keep in mind as you are developing your proposal and a DMS Plan.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XQkmYWhpQ2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TZbA_IloRdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # How Will This Policy Affect Me
 
@@ -280,4 +280,4 @@ The following are **NOT** good reasons to limit the sharing of your data:
 
 Check out the video below. It concludes the introduction to this course.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XQkmYWhpQ2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9h6EvNDoKVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
