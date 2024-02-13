@@ -276,5 +276,8 @@ The following are **NOT** good reasons to limit the sharing of your data:
 - You don't have the right personnel to manage data or share data
 - You don't want to pay for data storage
 
+# Video Introduction Wrap Up
 
+Check out the video below. It concludes the introduction to this course.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XQkmYWhpQ2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
