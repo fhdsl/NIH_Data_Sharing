@@ -57,3 +57,9 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL
 ```{r, echo=FALSE, fig.alt='DMS plans can be edited during the Just In Time process or during regular reporting intervals, so it is okay if you need to make changes when you learn of better alternatives.', out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g18159f1730a_67_115")
 ```
+
+# Video Creating Your Plan Wrap Up
+
+Check out the video below. It concludes this section of the course.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LiWLTap3q90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
