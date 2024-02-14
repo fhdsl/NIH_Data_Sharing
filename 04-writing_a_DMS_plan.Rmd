@@ -251,3 +251,9 @@ Keep in mind that there may be important ethical considerations when it comes to
 
 `r emoji(search_emoji('check'))[1]` Describe how compliance will be monitored (including frequency of oversight, for example every 3 months).
 
+# Video Creating Your Plan Wrap Up
+
+Check out the video below. It concludes this section of the course.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LiWLTap3q90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
