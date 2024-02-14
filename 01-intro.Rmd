@@ -66,7 +66,13 @@ Writing grants takes time and can be a lot of work. You might be thinking that a
 
 </div>
 
-# How will this policy affect me
+# Video Your Considerations
+
+Check out the video below. It provides a summary of the personal considerations to keep in mind as you are developing your proposal and a DMS Plan.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TZbA_IloRdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# How Will This Policy Affect Me
 
 > You can refer to the [NIH overview](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policy/research-covered-under-the-data-management-sharing-policy#after){target="_blank"} of which research will be covered by this new policy.  
 
@@ -74,9 +80,9 @@ Writing grants takes time and can be a lot of work. You might be thinking that a
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g16b04bd80e5_4_12")
 ```
 
-The major requirement of the policy is that all grant proposals (submitted after January 25th, 2023) for mechanisms that require compliance, must include a plan for how they will manage and share their data. 
+The major requirement of the policy is that all grant proposals (submitted after January 25th, 2023) for mechanisms that require compliance, **must include a plan** for how they will manage and share their data. 
 
-For certain grant mechanisms for projects that do not generate data, compliance with the policy is not required. For certain types of data, sharing is not possible, and a justification will be required instead. 
+For certain grant mechanisms for projects that do not generate data, you will not need to submit a DMS plan. For certain types of data, sharing is not possible, and a justification will be required instead. 
 
 The following text will discuss several key questions:
 
@@ -94,10 +100,10 @@ In addition to these questions, there are ethical considerations that you may wa
 </div>
 
 ## Grant Mechanisms {#no-sharing}
+
 <div class = "question">
 What grant mechanisms require compliance with the DMS policy? 
 </div>
-
 
 The DMS Policy applies to all research that generates [scientific data](#scientific-data) (regardless of the funding level), including:
 
@@ -119,19 +125,18 @@ You can look up your NIH Activity Code [here](https://sharing.nih.gov/node/112){
 
 For example, I am interested in applying to a **R03** award.
 
-```{r, echo=FALSE, fig.alt='I can find the R03 activity code in the request for applications.', out.width = '80%', fig.align = 'center'}
+```{r, echo=FALSE, fig.alt='I can find the R03 activity code in the request for applications.', out.width = '100%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_56")
 ```
 
 According to the table, a **DMS Plan is required** for this particular award.
 
-```{r, echo=FALSE, fig.alt='I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf', out.width = '80%', fig.align = 'center'}
+```{r, echo=FALSE, fig.alt='I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf', out.width = '100%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_64")
 ```
 
-
-
 ### Data-generating Research {#scientific-data}
+
 <div class = "question"> 
 Does my research generate scientific data?
 </div>
@@ -150,7 +155,7 @@ Scientific data are the “recorded factual material of sufficient quality to va
 - null results
 - results used to publish papers
 
-#### Not scientific data
+#### Not Scientific Data
 
 You are not expected to share:
 
@@ -175,7 +180,6 @@ You are not expected to share:
 
 <!-- </div> -->
 
-
 ## Grant Renewals {#grant-renewals}
 
 <div class = "question">
@@ -185,6 +189,7 @@ Do grant renewals need to comply with the policy?
 If you submit a grant renewal application for any of the grants mechanisms that require compliance after January 25th, 2023, then your renewal will need to include a DMS Plan even if the grant was originally funded before January 25th, 2023. 
 
 ## Impact on Reviews {#review-process}
+
 <div class = "question">
 How will this influence the grant review process?
 </div>
@@ -201,7 +206,6 @@ For proposals where data sharing is specified as part of the Funding Opportunity
  - The reviewers will have access to the plan and it may be part of the review criteria.
  - Program staff will also review the DMS plan.
  
-
 ## Sharing Timeline {#sharing-timeline} 
 
 <div class = "question">
@@ -213,7 +217,6 @@ Data should be made available **no later than publication or end of the award**.
 ### No-cost Extensions
 
 Scientific data should be made accessible as soon as possible, and no later than the time of an associated publication or the end of the performance period of the extramural award that generated the data. If a no cost extension is granted for an extramural award, scientific data should be made accessible no later than the time of an associated publication, or the end of the no cost extension, whichever comes first.
-
 
 ## When to Not Share Data {#when-to-not-share}
 
@@ -273,6 +276,8 @@ The following are **NOT** good reasons to limit the sharing of your data:
 - You don't have the right personnel to manage data or share data
 - You don't want to pay for data storage
 
+# Video Introduction Wrap Up
 
- 
- 
+Check out the video below. It concludes the introduction to this course.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9h6EvNDoKVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -36,7 +36,7 @@ C) Peer reviews
 m) Results used to publish papers
 
 {choose-answers: 4}
-? Which of the following is FALSE regarding the grant review process and your DMS Plan??
+? Which of the following is FALSE regarding the grant review process and your DMS Plan?
 
 m) Reviewers will not have access to your DMS plan
 m) Reviewers will see your budget which will include some descriptions of how money will be spent to manage and share data
