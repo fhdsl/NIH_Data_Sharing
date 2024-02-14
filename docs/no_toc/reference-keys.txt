@@ -8,6 +8,7 @@ video-introduction
 why-this-new-dms-policy
 key-terms
 discussion-on-benefits-of-data-sharing
+video-your-considerations
 how-will-this-policy-affect-me
 no-sharing
 scientific-data
@@ -18,6 +19,7 @@ review-process
 sharing-timeline
 no-cost-extensions
 when-to-not-share
+video-introduction-wrap-up
 overview-of-the-dms-plan
 data-management-and-storage
 data-storage-concerns
