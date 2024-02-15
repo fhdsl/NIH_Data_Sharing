@@ -1,7 +1,7 @@
 
 # Learning Objectives {-}
 
-## Data Management and Sharing for NIH Proposals - Learning Objectives
+## Learning Objectives
 
 By completing this course, learners will be able to:
 
