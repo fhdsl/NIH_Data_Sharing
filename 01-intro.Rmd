@@ -58,11 +58,9 @@ A plan describing an approach to data management, preservation, and sharing of s
 
 # Discussion on Benefits of Data Sharing
 
-Please see below for a self-directed reflection.
+## Discussion
 
-&nbsp;
-&nbsp;
-&nbsp;
+Please see below for a self-directed reflection.
 
 <div class = "reflection">
 

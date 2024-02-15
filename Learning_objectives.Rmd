@@ -1,10 +1,8 @@
 
 # Learning Objectives {-}
 
-<!-- &nbsp; -->
-<!-- &nbsp; -->
+## Data Management and Sharing for NIH Proposals - Learning Objectives
 
-:::{.notice}
 By completing this course, learners will be able to:
 
 * Recall that NIH has a Data Management and Sharing Policy
@@ -12,9 +10,3 @@ By completing this course, learners will be able to:
 * Determine appropriate data storage repositories and budgets for a Data Management and Sharing Plan
 * Implement key section headers and structural requirements for the Data Management and Sharing Plan
 * Identify and leverage additional resources as needed for their specific Data Management and Sharing Plan 
-
-:::
-
-
-
-
