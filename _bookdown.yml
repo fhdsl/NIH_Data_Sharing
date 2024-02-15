@@ -2,6 +2,7 @@ book_filename: "Data Management and Sharing for NIH Proposals"
 chapter_name: "Chapter "
 repo: https://github.com/fhdsl/NIH_Data_Sharing/
 rmd_files: ["index.Rmd",
+            "Learning_objectives.Rmd",
             "01-intro.Rmd",
             "02-data_management_plan.Rmd",
             "03-budgeting.Rmd",
