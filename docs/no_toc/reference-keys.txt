@@ -51,11 +51,10 @@ methods-to-make-scientific-data-findable-and-identifiable
 timeline-of-scientific-data-sharing
 access-and-reuse-considerations
 oversight
-video-creating-your-plan-wrap-up
 presubmission-tips
 submission-by-funding-type
 post-submission-tips
-video-creating-your-plan-wrap-up-1
+video-creating-your-plan-wrap-up
 consent
 de-identification
 raw-vs-processed
