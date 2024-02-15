@@ -45,3 +45,9 @@ These questions probably require case-by-case considerations. If the data was us
 ## Additional Resources
 
 - The [Ethical, Legal, and Social Implications of genetics and genomics (ELSI) Hub](https://elsihub.org/index.php/) can be a helpful resource for your ethical concerns regarding sharing genomics data. 
+
+# Video Course Wrap Up
+
+Check out the video below. It concludes this course!
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VFaRiC4c8V8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
