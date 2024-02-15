@@ -3,6 +3,9 @@
 
 By completing this course, learners will be able to:
 
+&nbsp;
+&nbsp;
+
 :::{.notice}
 * Recall that NIH has a Data Management and Sharing Policy
 * Understand the audience, motivations, and personal considerations of the Data Management and Sharing Policy
