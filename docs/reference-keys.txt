@@ -4,10 +4,12 @@ target-audience
 curriculum
 overall-takeaways
 authors
+learning-objectives-1
 video-introduction
 why-this-new-dms-policy
 key-terms
 discussion-on-benefits-of-data-sharing
+discussion
 video-your-considerations
 how-will-this-policy-affect-me
 no-sharing
@@ -20,6 +22,7 @@ sharing-timeline
 no-cost-extensions
 when-to-not-share
 video-introduction-wrap-up
+video-creating-your-plan
 overview-of-the-dms-plan
 data-management-and-storage
 data-storage-concerns
@@ -48,12 +51,15 @@ methods-to-make-scientific-data-findable-and-identifiable
 timeline-of-scientific-data-sharing
 access-and-reuse-considerations
 oversight
+video-creating-your-plan-wrap-up
 presubmission-tips
 submission-by-funding-type
 post-submission-tips
+video-creating-your-plan-wrap-up-1
 consent
 de-identification
 raw-vs-processed
 standards-ethics
 quality
 additional-resources-1
+video-course-wrap-up

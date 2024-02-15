@@ -3,7 +3,14 @@
 
 # (PART\*) Creating a DMS Plan {-}
 
+# Video Creating Your Plan
+
+Check out the video below. It provides a summary of this section of the course.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hjCbLCyetBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Overview of the DMS Plan
+
 The NIH has provided an outline for what components of the Data Sharing and Management Plan are required. We'll introduce these sections and then discuss in more detail some of the important considerations you'll need to include in your specific plan. 
 
 The following are the major sections of the NIH DMS plan:
@@ -161,4 +168,3 @@ If you don't find an appropriate repository for your data type:
 - Consider adding your data as a supplementary file to a manuscript if it is small
 - Consider an institutional repository
 - Check out the [generalist repositories](https://www.nlm.nih.gov/NIHbmic/generalist_repositories.html)
-

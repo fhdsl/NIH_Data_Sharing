@@ -49,3 +49,9 @@ In this section we will discuss tips about what might be needed after you submit
    - NIH staff will monitor compliance with the DMS plan during this process.
 
 <img src="resources/images/05-submission_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_115.png" title="DMS plans can be edited during the Just In Time process or during regular reporting intervals, so it is okay if you need to make changes when you learn of better alternatives." alt="DMS plans can be edited during the Just In Time process or during regular reporting intervals, so it is okay if you need to make changes when you learn of better alternatives." width="100%" />
+
+# Video Creating Your Plan Wrap Up
+
+Check out the video below. It concludes this section of the course.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LiWLTap3q90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
