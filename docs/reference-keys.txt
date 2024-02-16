@@ -55,10 +55,4 @@ presubmission-tips
 submission-by-funding-type
 post-submission-tips
 video-creating-your-plan-wrap-up
-consent
-de-identification
-raw-vs-processed
-standards-ethics
-quality
-additional-resources-1
 video-course-wrap-up
