@@ -52,7 +52,7 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          sudo apt-get install subversion
+          # sudo apt-get install subversion
 
           # What's the Quizzes repository's name?
           QUIZ_REPO=$(echo ${GITHUB_REPOSITORY} | sed "s/_Bookdown/ /g" | sed "s/_Template/ /g" | awk '{print $1"_Quizzes"}')
@@ -61,6 +61,7 @@ jobs:
           # Get repo check script
           # svn export --force https://github.com/${GITHUB_REPOSITORY}/blob/${GITHUB_REF#refs/heads/}/scripts/git_repo_check.R git_repo_check.R
           # wget https://raw.githubusercontent.com/jhudsl/OTTR_Template/main/scripts/git_repo_check.R
+          ls -a
 
           # Run repo check script
           results=$(Rscript --vanilla scripts/git_repo_check.R --repo "$GITHUB_REPOSITORY" --git_pat "$GH_PAT")
@@ -75,6 +76,14 @@ jobs:
         with:
           repository: ${{ steps.git_repo_check.outputs.leanpub_repo }}
           token: ${{ secrets.GH_PAT }}
+          
+      - name: Scope out Files
+        id: git_repo_check_2
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          ls -a
+          ls -a ../
 
       - name: Get files from Bookdown repo
         if: ${{ steps.git_repo_check.outputs.git_results == 'TRUE' }}
@@ -83,10 +92,10 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           # Copy over images folder
-          svn export --force https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/resources/chapt_screen_images resources/chapt_screen_images
+          # svn export --force https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/resources/chapt_screen_images resources/chapt_screen_images
 
           # Copy over _bookdown.yml
-          svn export --force https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/_bookdown.yml _bookdown.yml
+          # svn export --force https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/_bookdown.yml _bookdown.yml
 
       - name: Create PR with resources files
         if: ${{ steps.git_repo_check.outputs.git_results == 'TRUE' }}
