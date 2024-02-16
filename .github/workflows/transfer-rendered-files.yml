@@ -89,13 +89,13 @@ jobs:
           mkdir -p quizzes/resources/chapt_screen_images
           cp bookdown/resources/chapt_screen_images/* quizzes/resources/chapt_screen_images
           echo "Are files present?"
-          la -a quizzes/resources/chapt_screen_images
+          ls -a quizzes/resources/chapt_screen_images
           
           # Copy over _bookdown.yml
           # svn export --force https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/_bookdown.yml _bookdown.yml
           cp bookdown/_bookdown.yml quizzes/_bookdown.yml
           echo "Are files present?"
-          la -a quizzes/_bookdown.yml
+          ls -a quizzes/_bookdown.yml
           
 
       - name: Create PR with resources files
