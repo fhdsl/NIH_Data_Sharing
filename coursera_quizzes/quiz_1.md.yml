@@ -1,0 +1,76 @@
+
+- typeName: multipleChoice
+  prompt: What is one of the benefits of data sharing mentioned in the Introduction?
+
+  shuffleOptions: true
+  options:
+    - answer: Increased collaboration opportunities
+      isCorrect: true
+    - answer: Decreased transparency in research
+      isCorrect: false
+    - answer: Limited reproducibility of study findings
+      isCorrect: false
+    - answer: Data storage costs covered by the federal government
+      isCorrect: false
+    - answer: Scientific analysis is limited to experts in the field
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Is a DMS plan is required?
+
+  shuffleOptions: true
+  options:
+    - answer: Yes, all grant mechanisms require a DMS plan
+      isCorrect: false
+    - answer: Maybe, look up the NIH Activity Code to see if you are required to submit a DMS Plan
+      isCorrect: true
+    - answer: No, the DMS plan is optional, but can improve your grant score
+      isCorrect: false
+    - answer: Yes, ask the Office of Sponsored Research for your institution to prepare a plan
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following is NOT considered scientific data under the NIH Data Management and Sharing (DMS) Policy?
+
+  shuffleOptions: true
+  options:
+    - answer: Unpublished results
+      isCorrect: false
+    - answer: Null results
+      isCorrect: false
+    - answer: Lab notebooks
+      isCorrect: true
+    - answer: Results used to publish papers
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following is FALSE regarding the grant review process and your DMS Plan?
+
+  shuffleOptions: true
+  options:
+    - answer: Reviewers will not have access to your DMS plan
+      isCorrect: false
+    - answer: Reviewers will see your budget which will include some descriptions of how money will be spent to manage and share data
+      isCorrect: false
+    - answer: DMS plan should not influence your grant score
+      isCorrect: false
+    - answer: The Program Officer will write the DMS plan and will work with the PI to address any concerns
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: What are some justifiable reasons for limiting data sharing?
+
+  shuffleOptions: true
+  options:
+    - answer: Data is considered too small and won't be widely used
+      isCorrect: false
+    - answer: Researchers anticipate the data won't have a suitable repository
+      isCorrect: false
+    - answer: Existing consent prohibits sharing or limits the scope of sharing
+      isCorrect: true
+    - answer: Researchers don't have the right personnel to manage and share data
+      isCorrect: false
+    - answer: You want to upgrade your lab equipment instead of paying for data storage
+      isCorrect: false
+    - answer: You want to conduct a follow up analysis in a few years
+      isCorrect: false

@@ -1,0 +1,148 @@
+
+- typeName: multipleChoice
+  prompt: Under what circumstances is it acceptable to not share scientific data generated from NIH-funded research according to the DMS policy?
+
+  shuffleOptions: true
+  options:
+    - answer: If the data are considered too small
+      isCorrect: false
+    - answer: If the dataset is not yet complete
+      isCorrect: false
+    - answer: If you don't have the personnel or funds to manage/share data
+      isCorrect: false
+    - answer: If consent does not allow for sharing
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: Which of the following grant mechanisms requires you to complete a Data Management and Sharing (DMS) Plan?
+
+  shuffleOptions: true
+  options:
+    - answer: Research Projects
+      isCorrect: true
+    - answer: Training grants (T)
+      isCorrect: false
+    - answer: Conference grants (R13)
+      isCorrect: false
+    - answer: Career Development Awards (K)
+      isCorrect: false
+    - answer: All of these
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: According to the new NIH DMS policy, when should data be made available?
+
+  shuffleOptions: true
+  options:
+    - answer: At the beginning of the grant period
+      isCorrect: false
+    - answer: By the time of publication or end of the award period
+      isCorrect: true
+    - answer: 5 years after the end of the grant period
+      isCorrect: false
+    - answer: Data does not need to be shared
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following is NOT a major section of the NIH DMS plan?
+
+  shuffleOptions: true
+  options:
+    - answer: Data type
+      isCorrect: false
+    - answer: Tools, software, and code
+      isCorrect: false
+    - answer: Figures
+      isCorrect: true
+    - answer: Access, distribution, reuse considerations
+      isCorrect: false
+    - answer: Oversight
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following best describes data FAIRness?
+
+  shuffleOptions: true
+  options:
+    - answer: Data that follows the Findable, Accessible, Interchangeable, Reusable principles
+      isCorrect: false
+    - answer: Data that is Findable, Accessible, Interoperable, and Reusable
+      isCorrect: true
+    - answer: Data that is Fair, Accessible, Interchangeable, and Reusable
+      isCorrect: false
+    - answer: Data that is Findable, Accessible, Integrated, and Reusable
+      isCorrect: false
+    - answer: Data that is Fair, Accessible, Interoperable, and Reproducible
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which characteristic should repositories aim to have to improve FAIRness of data according to the content?
+
+  shuffleOptions: true
+  options:
+    - answer: Unique persistent identifiers
+      isCorrect: true
+    - answer: Open access
+      isCorrect: false
+    - answer: Programmatic interfaces
+      isCorrect: false
+    - answer: Machine readability
+      isCorrect: false
+    - answer: Daily backups
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following costs are considered allowable in a budget request for data management and sharing?
+
+  shuffleOptions: true
+  options:
+    - answer: Infrastructure costs
+      isCorrect: false
+    - answer: Costs related to gaining access to the data
+      isCorrect: false
+    - answer: Fees associated with curating, standardizing, and preparing metadata for the data
+      isCorrect: true
+    - answer: Costs related to collecting the original data
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: According to the passage, how should direct costs related to data management and sharing be requested in the NIH budget forms?
+
+  shuffleOptions: true
+  options:
+    - answer: As a single line item in section E "Participant Costs" of the R&R Budget Form
+      isCorrect: false
+    - answer: As text embedded within the section K "Limited Amounts of Budgeted Salaries" of the R&R Budget Form
+      isCorrect: false
+    - answer: As a percentage of the total modular budget request
+      isCorrect: false
+    - answer: As a single line item in section F "Other Direct Costs" of the R&R Budget Form
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: According to the passage, how should direct costs related to data management and sharing be requested in the NIH budget forms?
+
+  shuffleOptions: true
+  options:
+    - answer: As a single line item in section E "Participant Costs" of the R&R Budget Form
+      isCorrect: false
+    - answer: As text embedded within the section K "Limited Amounts of Budgeted Salaries" of the R&R Budget Form
+      isCorrect: false
+    - answer: As a percentage of the total modular budget request
+      isCorrect: false
+    - answer: As a single line item in section F "Other Direct Costs" of the R&R Budget Form
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: What is the recommended page limit for a DMS plan?
+
+  shuffleOptions: true
+  options:
+    - answer: 1 page
+      isCorrect: false
+    - answer: 2 pages
+      isCorrect: true
+    - answer: 3 pages
+      isCorrect: false
+    - answer: No limit
+      isCorrect: false
