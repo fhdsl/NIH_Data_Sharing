@@ -53,15 +53,9 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          # sudo apt-get install subversion
-
           # What's the Quizzes repository's name?
           QUIZ_REPO=$(echo ${GITHUB_REPOSITORY} | sed "s/_Bookdown/ /g" | sed "s/_Template/ /g" | awk '{print $1"_Quizzes"}')
           echo $QUIZ_REPO
-
-          # Get repo check script
-          # svn export --force https://github.com/${GITHUB_REPOSITORY}/blob/${GITHUB_REF#refs/heads/}/scripts/git_repo_check.R git_repo_check.R
-          # wget https://raw.githubusercontent.com/jhudsl/OTTR_Template/main/scripts/git_repo_check.R
 
           # Run repo check script
           results=$(Rscript --vanilla bookdown/scripts/git_repo_check.R --repo "$GITHUB_REPOSITORY" --git_pat "$GH_PAT")
@@ -88,15 +82,10 @@ jobs:
           # svn export --force https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/resources/chapt_screen_images resources/chapt_screen_images
           mkdir -p quizzes/resources/chapt_screen_images
           cp bookdown/resources/chapt_screen_images/* quizzes/resources/chapt_screen_images
-          echo "Are files present?"
-          ls -a quizzes/resources/chapt_screen_images
           
           # Copy over _bookdown.yml
           # svn export --force https://github.com/${GITHUB_REPOSITORY}.git/branches/${GITHUB_REF#refs/heads/}/_bookdown.yml _bookdown.yml
           cp bookdown/_bookdown.yml quizzes/_bookdown.yml
-          echo "Are files present?"
-          ls -a quizzes/_bookdown.yml
-          
 
       - name: Create PR with resources files
         if: ${{ steps.git_repo_check.outputs.git_results == 'TRUE' }}
