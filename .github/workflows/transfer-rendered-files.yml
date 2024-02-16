@@ -42,6 +42,11 @@ jobs:
     if: ${{needs.yaml-check.outputs.toggle_coursera == 'yes' || needs.yaml-check.outputs.toggle_leanpub == 'yes'}}
 
     steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+    
       - name: Run git repo check
         id: git_repo_check
         env:
@@ -55,10 +60,10 @@ jobs:
 
           # Get repo check script
           # svn export --force https://github.com/${GITHUB_REPOSITORY}/blob/${GITHUB_REF#refs/heads/}/scripts/git_repo_check.R git_repo_check.R
-          wget https://raw.githubusercontent.com/jhudsl/OTTR_Template/main/scripts/git_repo_check.R
+          # wget https://raw.githubusercontent.com/jhudsl/OTTR_Template/main/scripts/git_repo_check.R
 
           # Run repo check script
-          results=$(Rscript --vanilla git_repo_check.R --repo "$GITHUB_REPOSITORY" --git_pat "$GH_PAT")
+          results=$(Rscript --vanilla scripts/git_repo_check.R --repo "$GITHUB_REPOSITORY" --git_pat "$GH_PAT")
           echo $QUIZ_REPO exists: $results
 
           echo "git_results=$results" >> $GITHUB_OUTPUT
