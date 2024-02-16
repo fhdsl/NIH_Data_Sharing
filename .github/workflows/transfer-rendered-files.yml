@@ -45,6 +45,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
         with:
+          path: main
           token: ${{ secrets.GH_PAT }}
     
       - name: Run git repo check
@@ -61,6 +62,7 @@ jobs:
           # Get repo check script
           # svn export --force https://github.com/${GITHUB_REPOSITORY}/blob/${GITHUB_REF#refs/heads/}/scripts/git_repo_check.R git_repo_check.R
           # wget https://raw.githubusercontent.com/jhudsl/OTTR_Template/main/scripts/git_repo_check.R
+          echo "main repo"
           ls -a
 
           # Run repo check script
@@ -74,6 +76,7 @@ jobs:
         if: ${{ steps.git_repo_check.outputs.git_results == 'TRUE' }}
         uses: actions/checkout@v4
         with:
+          path: quizzes
           repository: ${{ steps.git_repo_check.outputs.leanpub_repo }}
           token: ${{ secrets.GH_PAT }}
           
@@ -82,7 +85,9 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
+          echo "current:"
           ls -a
+          echo "up one:"
           ls -a ../
 
       - name: Get files from Bookdown repo
