@@ -1,0 +1,70 @@
+
+- typeName: multipleChoice
+  prompt: Which of the following is true for researchers planning to collect data?
+
+  shuffleOptions: true
+  options:
+    - answer: There are no repositories available for sharing data
+      isCorrect: false
+    - answer: Researchers should aim to find repositories that meet specific criteria outlined by the NIH
+      isCorrect: true
+    - answer: Researchers should avoid using any repositories and keep data private
+      isCorrect: false
+    - answer: Data should only be shared with colleagues directly via email
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What if I can't find an appropriate repository for my data?
+
+  shuffleOptions: true
+  options:
+    - answer: Give up on sharing the data
+      isCorrect: false
+    - answer: Use a generalist repository if no specific repository is available
+      isCorrect: true
+    - answer: Keep the data in a private database accessible only to the research team
+      isCorrect: false
+    - answer: Ignore the NIH guidelines and share the data on any platform
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What types of costs can be requested for funding related to data management and sharing?
+
+  shuffleOptions: true
+  options:
+    - answer: Infrastructure costs and costs related to gaining access to the data
+      isCorrect: false
+    - answer: Personnel costs and fees associated with curating the data
+      isCorrect: true
+    - answer: Costs related to collecting the data
+      isCorrect: false
+    - answer: Costs for facilities and administrative expenses only
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following is NOT a major section of the Data Management and Sharing (DMS) plan?
+
+  shuffleOptions: true
+  options:
+    - answer: Data type
+      isCorrect: false
+    - answer: Budget implementation
+      isCorrect: true
+    - answer: Tools, software, and code
+      isCorrect: false
+    - answer: Oversight
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following is NOT a requirement for describing data types in the DMS plan?
+
+  shuffleOptions: true
+  options:
+    - answer: Description of expected amounts of data
+      isCorrect: false
+    - answer: Description of the study's hypothesis
+      isCorrect: true
+    - answer: Description of expected levels of aggregation
+      isCorrect: false
+    - answer: Description of expected degree of processing of data
+      isCorrect: false
