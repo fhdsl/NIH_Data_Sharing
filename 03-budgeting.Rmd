@@ -44,21 +44,17 @@ You can request funding for costs related to your data including **personnel** a
 
 The following costs are **not allowed** in the budget:
 
-  - Infrastructure costs (for example [facilities and administrative costs](https://grants.nih.gov/grants/policy/nihgps/html5/section_7/7.3_direct_costs_and_facilities_and_administrative_costs.htm) should be indirect costs)
-  - Costs related to gaining access to the data
-  - Costs related to collecting the data
+* Infrastructure costs (for example [facilities and administrative costs](https://grants.nih.gov/grants/policy/nihgps/html5/section_7/7.3_direct_costs_and_facilities_and_administrative_costs.htm) should be indirect costs)
+* Costs related to gaining access to the data
+* Costs related to collecting the data
   
 ## Budget Implementation
 
 To request funds for data management and sharing:
 
-* Direct costs should use the R&R Budget Form. 
+* Direct costs should use the R&R Budget Form. _A single line item should appear in section F "Other Direct Costs"_
 
-     - _A single line item should appear in section F "Other Direct Costs"_
-
-* Budget justification should provide a brief summary of the DMS plan and costs.
-
-     - _Use PHS 398 Modular Budget Form (as text embedded within the Additional Narrative Justification) and the R&R Budget Form (embedded within the section L "Budget Justification" attachment)_
+* Budget justification should provide a brief summary of the DMS plan and costs. _Use PHS 398 Modular Budget Form (as text embedded within the Additional Narrative Justification) and the R&R Budget Form (embedded within the section L "Budget Justification" attachment)_
 
 * Check that any related costs for other data policies like the [Genomic Data Sharing (GDS) Policy](https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/) are also included
 

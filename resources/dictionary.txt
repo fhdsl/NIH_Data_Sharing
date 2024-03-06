@@ -94,7 +94,7 @@ libguides
 Markua
 Mendeley
 mentorship
-MERCHANTABILITY	
+MERCHANTABILITY
 MIAME
 Multiome
 Muschelli
