@@ -1,12 +1,14 @@
 About-this-Course.md
 1-Why-this-new-DMS-policy.md
 2-How-will-this-policy-affect-me.md
-quiz_1.md
+quiz_1a.md
+quiz_1b.md
 3-Overview-of-the-DMS-Plan.md
 4-Data-Management-and-Storage.md
 5-Budgeting-for-Data-Sharing.md
 6-Writing-a-DMS-Plan.md
-quiz_2.md
+quiz_2a.md
+quiz_2b.md
 7-Presubmission-Tips.md
 8-Post-Submission-Tips.md
 FAQ.md
@@ -15,5 +17,6 @@ Further-Reading.md
 Tools-Used-for-This-Course.md
 Data-File-Size-Details.md
 Ethical-Considerations.md
+quiz_3.md
 About-the-Authors.md
 References.md
