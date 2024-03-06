@@ -1,0 +1,70 @@
+
+- typeName: multipleChoice
+  prompt: What is the primary motivation behind the new data management and sharing (DMS) policy introduced by the NIH?
+
+  shuffleOptions: true
+  options:
+    - answer: To increase paperwork for researchers
+      isCorrect: false
+    - answer: To restrict access to scientific data
+      isCorrect: false
+    - answer: To promote transparency and reproducibility in research
+      isCorrect: true
+    - answer: To decrease collaboration opportunities
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following is NOT listed as a benefit of data sharing according to the text?
+
+  shuffleOptions: true
+  options:
+    - answer: Transparency
+      isCorrect: false
+    - answer: Efficiency and cost-effectiveness
+      isCorrect: false
+    - answer: Limiting collaboration opportunities
+      isCorrect: true
+    - answer: Researcher inclusion
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What does the term "scientific data" refer to?
+
+  shuffleOptions: true
+  options:
+    - answer: Lab notebooks and preliminary analyses
+      isCorrect: false
+    - answer: Case report forms and peer reviews
+      isCorrect: false
+    - answer: Recorded factual material used to validate and replicate research findings
+      isCorrect: true
+    - answer: Plans for future research and communications with colleagues
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Under what circumstances is it permissible to not share data according to the new DMS policy?
+
+  shuffleOptions: true
+  options:
+    - answer: If the data are considered too small
+      isCorrect: false
+    - answer: If the researcher doesn't have the right personnel to manage data
+      isCorrect: false
+    - answer: If there are legal or ethical concerns, and appropriate justification is provided
+      isCorrect: true
+    - answer: If the researcher anticipates that the data will not be widely used
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What action should be taken if a researcher anticipates that data cannot be shared due to legal or ethical concerns?
+
+  shuffleOptions: true
+  options:
+    - answer: Submit the grant proposal without addressing the issue
+      isCorrect: false
+    - answer: Provide a justification in the DMS plan
+      isCorrect: true
+    - answer: Avoid mentioning the issue in the proposal
+      isCorrect: false
+    - answer: Seek approval from the NIH after the grant is awarded
+      isCorrect: false
