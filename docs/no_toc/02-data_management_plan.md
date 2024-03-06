@@ -111,7 +111,7 @@ When working with human participant data, including de-identified human data, he
 <div class = "dictionary">
 **Data FAIRness**
 
-Data that is **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable. For more information about data FAIRness, check out this [manuscript](https://www.nature.com/articles/sdata201618) by @wilkinson_citation_2016.
+Data that is **Findable**, **Accessible**, **Interoperable**, and **Reusable**. For more information about data FAIRness, check out this [manuscript](https://www.nature.com/articles/sdata201618) by @wilkinson_citation_2016.
 
 In brief, it is described by the [NIH](https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf) as follows:
 
