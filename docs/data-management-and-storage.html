@@ -6,11 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 9 Data Management and Storage | Data Management and Sharing for NIH Proposals</title>
   <meta name="description" content="Description about Course/Book." />
-  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.39.1 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 9 Data Management and Storage | Data Management and Sharing for NIH Proposals" />
   <meta property="og:type" content="book" />
-  
   
   <meta property="og:description" content="Description about Course/Book." />
   
@@ -23,7 +22,7 @@
 
 
 
-<meta name="date" content="2024-03-06" />
+<meta name="date" content="2024-09-04" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -32,7 +31,6 @@
   <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon" />
 <link rel="prev" href="overview-of-the-dms-plan.html"/>
 <link rel="next" href="budgeting-for-data-sharing.html"/>
-<script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -50,11 +48,16 @@
 
 
 
-<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
-<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 
 
 
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
 <style type="text/css">
 /* Used with Pandoc 2.11+ new --citeproc when CSL is used */
 div.csl-bib-body { }
@@ -268,12 +271,12 @@ div.csl-indent {
 <div class="hero-image-container"> 
   <img class= "hero-image" src="assets/dasl_thin_main_image.png">
 </div>
-<div id="data-management-and-storage" class="section level1" number="9">
-<h1><span class="header-section-number">Chapter 9</span> Data Management and Storage</h1>
+<div id="data-management-and-storage" class="section level1 hasAnchor" number="9">
+<h1><span class="header-section-number">Chapter 9</span> Data Management and Storage<a href="data-management-and-storage.html#data-management-and-storage" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <p>To enable a more productive research experience and to ease your future compliance with any data sharing requirements, active data management during the research process can be very helpful.</p>
-<p><img src="resources/images/02-data_management_plan_files/figure-html/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_37.png" title="We are on the third step of the pathway - Data Storage Options." alt="We are on the third step of the pathway - Data Storage Options." width="80%" style="display: block; margin: auto;" /></p>
-<div id="data-storage-concerns" class="section level2" number="9.1">
-<h2><span class="header-section-number">9.1</span> Data Storage Concerns</h2>
+<p><img src="resources/images/02-data_management_plan_files/figure-html/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_37.png" alt="We are on the third step of the pathway - Data Storage Options." width="80%" style="display: block; margin: auto;" /></p>
+<div id="data-storage-concerns" class="section level2 hasAnchor" number="9.1">
+<h2><span class="header-section-number">9.1</span> Data Storage Concerns<a href="data-management-and-storage.html#data-storage-concerns" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <div class="question">
 <p>How should you store and interact with data while doing research?</p>
 </div>
@@ -316,17 +319,17 @@ div.csl-indent {
 </tr>
 </tbody>
 </table>
-<p><img src="resources/images/02-data_management_plan_files/figure-html/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_0.png" title="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." alt="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." width="80%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/02-data_management_plan_files/figure-html/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_0.png" alt="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." width="80%" style="display: block; margin: auto;" /></p>
 <p>As you can see some of these data types require large data files. These files may quickly add up to require more storage or computing capacity than your laptop (which typically have 250 GB-1 TB of storage)! If you want to learn more about data file sizes check out the <a href="https://hutchdatascience.org/NIH_Data_Sharing/data-file-size-details.html">data file size details section</a> of the appendix and this class on <a href="https://jhudatascience.org/Computing_for_Cancer_Informatics/index.html">Computing for Cancer Informatics</a> from the <a href="https://itcr.cancer.gov/">Informatics Technology for Cancer Research (ITCR)</a> <a href="https://www.itcrtraining.org/">Training Network (ITN)</a> for options on how to manage large data files.</p>
 </div>
-<div id="data-repositories" class="section level2" number="9.2">
-<h2><span class="header-section-number">9.2</span> Data Repositories</h2>
+<div id="data-repositories" class="section level2 hasAnchor" number="9.2">
+<h2><span class="header-section-number">9.2</span> Data Repositories<a href="data-management-and-storage.html#data-repositories" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <div class="question">
 <p>Where will I share my data? What repositories exist that might work for my data type?</p>
 </div>
 <p>Some programs or Funding Opportunity Announcements (FOA) will specify where the data should be shared. If this applies, you should plan to use the repositories mentioned in the FOA.</p>
 <p>Other programs or FOAs will not specify where the data should be shared, however the NIH provides an <a href="https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data">interactive table of NIH-supported data repositories</a> to help you identify repositories that might be appropriate for your data.</p>
-<p><img src="resources/images/02-data_management_plan_files/figure-html/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_39.png" title="The interactive table provided by NIH can help you find an appropriate repository." alt="The interactive table provided by NIH can help you find an appropriate repository." width="80%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/02-data_management_plan_files/figure-html/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_39.png" alt="The interactive table provided by NIH can help you find an appropriate repository." width="80%" style="display: block; margin: auto;" /></p>
 <p>If you don’t find a repository there, additional repositories can also be found at the following links:</p>
 <ul>
 <li><a href="https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html">Open NIH-supported domain-specific repositories</a></li>
@@ -336,7 +339,7 @@ div.csl-indent {
 </ul>
 <p>Researchers should aim to find repository with the following characteristics according to the NIH:</p>
 <ul>
-<li><strong>Established</strong>: If the repository is established (well-known or has been around for a significant period of time), it is likely to improve the FAIRness <span class="citation">(<a href="references.html#ref-wilkinson_citation_2016" role="doc-biblioref">Wilkinson et al. 2016</a>)</span> of the data.</li>
+<li><strong>Established</strong>: If the repository is established (well-known or has been around for a significant period of time), it is likely to improve the FAIRness <span class="citation">(<a href="references.html#ref-wilkinson_citation_2016">Wilkinson et al. 2016</a>)</span> of the data.</li>
 <li><strong>Specific</strong>: Repositories that are discipline or data-type specific should be prioritized to promote reuse.</li>
 <li><strong>Unique Persistent Identifiers</strong>: Assigns datasets a citable, unique persistent identifier, such as a digital object identifier (DOI) or accession number, to support data discovery, reporting, and research assessment. The identifier points to a persistent landing page that remains accessible even if the dataset is de-accessioned or no longer available.</li>
 <li><strong>Long-Term Sustainability</strong>: Has a plan for long-term management of data, including maintaining integrity, authenticity, and availability of datasets; building on a stable technical infrastructure and funding plans; and having contingency plans to ensure data are available and maintained during and after unforeseen events.</li>
@@ -352,8 +355,8 @@ div.csl-indent {
 <li><strong>Retention Policy</strong>: Provides documentation on policies for data retention within the repository.</li>
 </ul>
 </div>
-<div id="considerations-for-human-data" class="section level2" number="9.3">
-<h2><span class="header-section-number">9.3</span> Considerations for Human Data</h2>
+<div id="considerations-for-human-data" class="section level2 hasAnchor" number="9.3">
+<h2><span class="header-section-number">9.3</span> Considerations for Human Data<a href="data-management-and-storage.html#considerations-for-human-data" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>When working with human participant data, including de-identified human data, here are some additional characteristics to look for:</p>
 <ul>
 <li><strong>Fidelity to Consent</strong>: Uses documented procedures to restrict dataset access and use to those that are consistent with participant consent and changes in consent.</li>
@@ -366,7 +369,7 @@ div.csl-indent {
 </ul>
 <div class="dictionary">
 <p><strong>Data FAIRness</strong></p>
-<p>Data that is <strong>Findable</strong>, <strong>Accessible</strong>, <strong>Interoperable</strong>, and <strong>Reusable</strong>. For more information about data FAIRness, check out this <a href="https://www.nature.com/articles/sdata201618">manuscript</a> by <span class="citation">Wilkinson et al. (<a href="references.html#ref-wilkinson_citation_2016" role="doc-biblioref">2016</a>)</span>.</p>
+<p>Data that is <strong>Findable</strong>, <strong>Accessible</strong>, <strong>Interoperable</strong>, and <strong>Reusable</strong>. For more information about data FAIRness, check out this <a href="https://www.nature.com/articles/sdata201618">manuscript</a> by <span class="citation">Wilkinson et al. (<a href="references.html#ref-wilkinson_citation_2016">2016</a>)</span>.</p>
 <p>In brief, it is described by the <a href="https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf">NIH</a> as follows:</p>
 <ul>
 <li>To be Findable, data must have unique identifiers, effectively
@@ -382,8 +385,8 @@ traceable “owner’s manual,” or provenance.</li>
 </ul>
 </div>
 </div>
-<div id="no-existing-repository" class="section level2" number="9.4">
-<h2><span class="header-section-number">9.4</span> No Existing Repository?</h2>
+<div id="no-existing-repository" class="section level2 hasAnchor" number="9.4">
+<h2><span class="header-section-number">9.4</span> No Existing Repository?<a href="data-management-and-storage.html#no-existing-repository" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <div class="question">
 <p>What if I can’t find an appropriate repository?</p>
 </div>
@@ -404,10 +407,10 @@ traceable “owner’s manual,” or provenance.</li>
 </ul></li>
 </ul>
 <p>Note that the NIH encourages that an existing data sharing repository be used whenever one is available instead of one of these options.</p>
-<p><img src="resources/images/02-data_management_plan_files/figure-html/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_44_28.png" title="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." alt="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." width="80%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/02-data_management_plan_files/figure-html/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_44_28.png" alt="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." width="80%" style="display: block; margin: auto;" /></p>
 </div>
-<div id="summary" class="section level2" number="9.5">
-<h2><span class="header-section-number">9.5</span> Summary</h2>
+<div id="summary" class="section level2 hasAnchor" number="9.5">
+<h2><span class="header-section-number">9.5</span> Summary<a href="data-management-and-storage.html#summary" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>The following links can help you find a data repository for your data:</p>
 <ul>
 <li><a href="https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data">Interactive table of NIH-supported data repositories</a> <em>Start here!</em></li>
@@ -425,6 +428,16 @@ traceable “owner’s manual,” or provenance.</li>
 
 </div>
 </div>
+<hr>
+<center>
+<div class="container">
+  <iframe class="responsive-iframe" src="https://c-savonen.shinyapps.io/widget-survey/?course_name=nih_data_sharing" style="width: 400px; height: 220px; overflow: auto;"></iframe>
+</div>
+  </div>
+</center>
+
+
+
 <hr>
 <center>
   <div class="footer">

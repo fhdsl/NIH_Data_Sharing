@@ -13,7 +13,7 @@ Check out the video below. It provides a summary of the introduction to this cou
 
 First, we will discuss the motivations behind the new data management and sharing policy. This policy is applicable for (most) grant proposals submitted to the NIH as of January 25, 2023.
 
-<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_1_103.png" title="We are on the first step of the pathway- understanding the motivations of the policy." alt="We are on the first step of the pathway- understanding the motivations of the policy." width="80%" style="display: block; margin: auto;" />
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_1_103.png" alt="We are on the first step of the pathway- understanding the motivations of the policy." width="80%" style="display: block; margin: auto;" />
 
 Why is the NIH doing this? There are several reasons why sharing data can be beneficial to the scientific community.
 
@@ -26,7 +26,7 @@ Why is the NIH doing this? There are several reasons why sharing data can be ben
 - **Collaboration opportunities** - Available data can inspire other researchers to explore new directions or extend upon previous work. These researchers might reach out to collaborate.
 - **Data citations** - Due to the importance of data generation and sharing to the NIH, data will now be seen as research product that demonstrates a contribution to the scientific community.
 
-<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g29f8bf18fa1_80_0.png" title="Scientist examines the result of a plate assay, which is a test that allows scientists to count how many flu virus particles (virions) are in a mixture" alt="Scientist examines the result of a plate assay, which is a test that allows scientists to count how many flu virus particles (virions) are in a mixture" width="80%" style="display: block; margin: auto;" />
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g29f8bf18fa1_80_0.png" alt="Scientist examines the result of a plate assay, which is a test that allows scientists to count how many flu virus particles (virions) are in a mixture" width="80%" style="display: block; margin: auto;" />
 
 ## Key terms 
 
@@ -72,7 +72,7 @@ Check out the video below. It provides a summary of the personal considerations 
 
 > You can refer to the [NIH overview](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policy/research-covered-under-the-data-management-sharing-policy#after){target="_blank"} of which research will be covered by this new policy.  
 
-<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_12.png" title="We are on the second step of the pathway - personal considerations of the policy." alt="We are on the second step of the pathway - personal considerations of the policy." width="80%" style="display: block; margin: auto;" />
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_12.png" alt="We are on the second step of the pathway - personal considerations of the policy." width="80%" style="display: block; margin: auto;" />
 
 The major requirement of the policy is that all grant proposals (submitted after January 25th, 2023) for mechanisms that require compliance, **must include a plan** for how they will manage and share their data. 
 
@@ -119,11 +119,11 @@ You can look up your NIH Activity Code [here](https://sharing.nih.gov/node/112){
 
 For example, I am interested in applying to a **R03** award.
 
-<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_56.png" title="I can find the R03 activity code in the request for applications." alt="I can find the R03 activity code in the request for applications." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_56.png" alt="I can find the R03 activity code in the request for applications." width="100%" style="display: block; margin: auto;" />
 
 According to the table, a **DMS Plan is required** for this particular award.
 
-<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_64.png" title="I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf" alt="I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_64.png" alt="I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf" width="100%" style="display: block; margin: auto;" />
 
 ### Data-generating Research {#scientific-data}
 
@@ -133,7 +133,7 @@ Does my research generate scientific data?
 
 The NIH Data Management and Sharing (DMS) Policy applies to **all NIH-supported research generating scientific data**. But what is "scientific data"?
 
-<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_0.png" title="Scientific data should be shared under the new DMS policy, but there are many scientific products that are not considered scientific data." alt="Scientific data should be shared under the new DMS policy, but there are many scientific products that are not considered scientific data." width="70%" style="display: block; margin: auto;" />
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_0.png" alt="Scientific data should be shared under the new DMS policy, but there are many scientific products that are not considered scientific data." width="70%" style="display: block; margin: auto;" />
 
 #### Scientific data
 
@@ -214,7 +214,7 @@ Is it possible to not share data?
 
 There are legitimate reasons you might not share your data. Data might not be shareable due to ethical, legal, or technical concerns. **You will still need to submit a DMS Plan even if you plan to withhold data sharing**. You must explain your reasoning in your DMS Plan.
 
-<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_36.png" title="Researchers with scientific data must justify why they will not share data with an appropriate exception." alt="Researchers with scientific data must justify why they will not share data with an appropriate exception." width="70%" style="display: block; margin: auto;" />
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_36.png" alt="Researchers with scientific data must justify why they will not share data with an appropriate exception." width="70%" style="display: block; margin: auto;" />
 
 Justifiable ethical, legal, and technical factors for limiting sharing of data include: 
 

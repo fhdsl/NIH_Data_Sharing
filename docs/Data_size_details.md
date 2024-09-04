@@ -32,13 +32,13 @@ File sizes for medical imaging data vary greatly depending on both the technolog
 
 Here is an table of average file sizes for various medical imaging modalities from @liu_imaging_2017:
 
-<img src="Data_size_details_files/figure-html//1B4LwuvgA6aUopOHEAbES1Agjy7Ex2IpVAoUIoBFbsq0_gfb2e21ecdc_0_35.png" title="Table of file types for imaging data, most modalities have files in the range of MB to GB. Note that these are approximate values." alt="Table of file types for imaging data, most modalities have files in the range of MB to GB. Note that these are approximate values." width="100%" style="display: block; margin: auto;" />
+<img src="Data_size_details_files/figure-html//1B4LwuvgA6aUopOHEAbES1Agjy7Ex2IpVAoUIoBFbsq0_gfb2e21ecdc_0_35.png" alt="Table of file types for imaging data, most modalities have files in the range of MB to GB. Note that these are approximate values." width="100%" style="display: block; margin: auto;" />
 [[source](https://www.mdpi.com/2078-2489/8/4/131)]
 
 
 Note that depending on the study requirements, several images may be needed for each sample. Thus data storage needs can add up quickly.
 
-<img src="Data_size_details_files/figure-html//1B4LwuvgA6aUopOHEAbES1Agjy7Ex2IpVAoUIoBFbsq0_gfb2e21ecdc_0_25.png" title="Example table of overall file storage needs for samples in imaging studies." alt="Example table of overall file storage needs for samples in imaging studies." width="100%" style="display: block; margin: auto;" />
+<img src="Data_size_details_files/figure-html//1B4LwuvgA6aUopOHEAbES1Agjy7Ex2IpVAoUIoBFbsq0_gfb2e21ecdc_0_25.png" alt="Example table of overall file storage needs for samples in imaging studies." width="100%" style="display: block; margin: auto;" />
 [[source](https://jhudatascience.org/Computing_for_Cancer_Informatics)]
 
 ## Clinical Data {-}
@@ -53,6 +53,6 @@ According to the NIS website it "enables analyses of rare conditions, uncommon t
 Looking at the [file sizes](https://www.hcup-us.ahrq.gov/db/state/sedddist/sedddist_filesize.jsp) for the NIS data for different states across years, you can see that there are files for some states, such as California as large as 24,000 MB or 2.4 GB [@NIS]. You can see how this could add up across years and states quite quickly.
 
 
-<img src="Data_size_details_files/figure-html//1B4LwuvgA6aUopOHEAbES1Agjy7Ex2IpVAoUIoBFbsq0_gfb2e21ecdc_0_42.png" title="Table of file sizes for the Healthcare Cost and Utilization Project (HCUP) National (Nationwide) Inpatient Sample (NIS) of data from different years and states." alt="Table of file sizes for the Healthcare Cost and Utilization Project (HCUP) National (Nationwide) Inpatient Sample (NIS) of data from different years and states." width="100%" style="display: block; margin: auto;" />
+<img src="Data_size_details_files/figure-html//1B4LwuvgA6aUopOHEAbES1Agjy7Ex2IpVAoUIoBFbsq0_gfb2e21ecdc_0_42.png" alt="Table of file sizes for the Healthcare Cost and Utilization Project (HCUP) National (Nationwide) Inpatient Sample (NIS) of data from different years and states." width="100%" style="display: block; margin: auto;" />
 
 
