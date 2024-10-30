@@ -5,7 +5,7 @@ ottrpal::set_knitr_image_path()
 
 # (PART\*) Introduction {-}
 
-# Video Introduction
+# Video Introduction 
 
 Check out the video below. It provides a summary of the introduction to this course.
 
