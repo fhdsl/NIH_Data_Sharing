@@ -5,7 +5,7 @@ ottrpal::set_knitr_image_path()
 
 # (PART\*) Introduction {-}
 
-# Video Introduction
+# Video Introduction 
 
 Check out the video below. It provides a summary of the introduction to this course.
 
@@ -123,7 +123,7 @@ The DMS Policy does not apply to research and other activities that do not gener
 - Resource (G)
 - Research-Related Infrastructure Programs (e.g., S06)
 
-You can look up your NIH Activity Code [here](https://sharing.nih.gov/node/112){target="_blank"} to see if you are required to submit a DMS Plan.
+You can look up your NIH Activity Code [here](https://sharing.nih.gov/sites/default/files/flmngr/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf){target="_blank"} to see if you are required to submit a DMS Plan.
 
 For example, I am interested in applying to a **R03** award.
 
@@ -131,9 +131,9 @@ For example, I am interested in applying to a **R03** award.
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_56")
 ```
 
-According to the table, a **DMS Plan is required** for this particular award.
+According to the [table](https://sharing.nih.gov/sites/default/files/flmngr/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf), a **DMS Plan is required** for this particular award.
 
-```{r, echo=FALSE, fig.alt='I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf', out.width = '100%', fig.align = 'center'}
+```{r, echo=FALSE, fig.alt='I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/flmngr/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf', out.width = '100%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g1740f401082_0_64")
 ```
 
