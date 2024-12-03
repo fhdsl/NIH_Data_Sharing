@@ -1,0 +1,8 @@
+
+The Fred Hutch Data Science Lab has created and online app where you can create your NIH Data Management and Sharing Plan. It includes template text corresponding to different Fred Hutch Research Cores. You can download your filled-in plan in either Word or Markdown format.
+
+https://dmshelper.fredhutch.org/
+
+```{r, echo=FALSE, fig.alt='Preview of the DMS Helper App.', out.width = '100%', fig.align = 'center', warning=FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak/edit#slide=id.g21c2a6e60cf_39_0")
+```
