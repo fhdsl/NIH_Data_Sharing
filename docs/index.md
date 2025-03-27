@@ -1,6 +1,6 @@
 ---
 title: "Data Management and Sharing for NIH Proposals"
-date: "September 04, 2024"
+date: "March 27, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -42,7 +42,7 @@ Check out the video below. It provides a summary and introduction to this course
 ## Course Format
 
 :::{.notice}
-This course is available in [Bookdown](https://hutchdatascience.org/NIH_Data_Sharing/) and [Leanpub](https://leanpub.com/courses/fredhutch/nih_data_sharing) formats. The Bookdown format allows you to browse the content on a web page. Creating a free account with Leanpub allows you to take quizzes on the material and earn a certificate of completion.
+This course is available in [Bookdown](https://hutchdatascience.org/NIH_Data_Sharing/) and [Leanpub](https://leanpub.com/courses/fredhutch/nih_data_sharing) formats. The Bookdown format allows you to browse the content on a web page. Creating a free account with Leanpub allows you to take quizzes on the material and earn a certificate of completion. Additionally, our courses are open source, you can find the [source material for this course on GitHub](https://github.com/fhdsl/NIH_Data_Sharing). This course can also be taken on [Coursera for certification here](https://www.coursera.org/learn/nih-data-sharing/).
 :::
 
 ## Motivation

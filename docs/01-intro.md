@@ -3,7 +3,7 @@
 
 # (PART\*) Introduction {-}
 
-# Video Introduction
+# Video Introduction 
 
 Check out the video below. It provides a summary of the introduction to this course.
 
@@ -115,15 +115,15 @@ The DMS Policy does not apply to research and other activities that do not gener
 - Resource (G)
 - Research-Related Infrastructure Programs (e.g., S06)
 
-You can look up your NIH Activity Code [here](https://sharing.nih.gov/node/112){target="_blank"} to see if you are required to submit a DMS Plan.
+You can look up your NIH Activity Code [here](https://sharing.nih.gov/sites/default/files/flmngr/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf){target="_blank"} to see if you are required to submit a DMS Plan.
 
 For example, I am interested in applying to a **R03** award.
 
 <img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_56.png" alt="I can find the R03 activity code in the request for applications." width="100%" style="display: block; margin: auto;" />
 
-According to the table, a **DMS Plan is required** for this particular award.
+According to the [table](https://sharing.nih.gov/sites/default/files/flmngr/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf), a **DMS Plan is required** for this particular award.
 
-<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_64.png" alt="I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01-intro_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1740f401082_0_64.png" alt="I can determine if a DMS plan is required using the table here: https://sharing.nih.gov/sites/default/files/flmngr/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf" width="100%" style="display: block; margin: auto;" />
 
 ### Data-generating Research {#scientific-data}
 
