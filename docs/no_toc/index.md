@@ -1,6 +1,6 @@
 ---
 title: "Data Management and Sharing for NIH Proposals"
-date: "March 06, 2024"
+date: "March 27, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -23,7 +23,7 @@ Once a DMS plan is accepted by the funding agency, the researchers will be requi
 
 In this course we will describe what the new policy requires, places where you might want to share your particular kind of data, and how to deal with possible challenges associated with the policy.
 
-<img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1784801ac8b_42_26.png" title="Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process." alt="Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process." width="100%" />
+<img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1784801ac8b_42_26.png" alt="Main topics covered in this course: Introducing the DMS policy, Creating a DMS plan, DMS submission process." width="100%" />
 
 <div class = blackbox>
 **Disclaimer**
@@ -42,7 +42,7 @@ Check out the video below. It provides a summary and introduction to this course
 ## Course Format
 
 :::{.notice}
-This course is available in [Bookdown](https://hutchdatascience.org/NIH_Data_Sharing/) and [Leanpub](https://leanpub.com/courses/fredhutch/nih_data_sharing) formats. The Bookdown format allows you to browse the content on a web page. Creating a free account with Leanpub allows you to take quizzes on the material and earn a certificate of completion.
+This course is available in [Bookdown](https://hutchdatascience.org/NIH_Data_Sharing/) and [Leanpub](https://leanpub.com/courses/fredhutch/nih_data_sharing) formats. The Bookdown format allows you to browse the content on a web page. Creating a free account with Leanpub allows you to take quizzes on the material and earn a certificate of completion. Additionally, our courses are open source, you can find the [source material for this course on GitHub](https://github.com/fhdsl/NIH_Data_Sharing). This course can also be taken on [Coursera for certification here](https://www.coursera.org/learn/nih-data-sharing/).
 :::
 
 ## Motivation
@@ -54,7 +54,7 @@ We want to help make the process of compliance with the new NIH Data Management 
 
 The course is intended for anyone who plans to submit a grant proposal to the NIH after January 25th, 2023.
 
-<img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g225dc533c12_1_0.png" title="For individuals who: are submitting a grant proposal to the NIH, want to determine if their proposal requires compliance with the new policy, want support finding appropriate places to share data, want support writing a data management and sharing plan" alt="For individuals who: are submitting a grant proposal to the NIH, want to determine if their proposal requires compliance with the new policy, want support finding appropriate places to share data, want support writing a data management and sharing plan" width="100%" />
+<img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g225dc533c12_1_0.png" alt="For individuals who: are submitting a grant proposal to the NIH, want to determine if their proposal requires compliance with the new policy, want support finding appropriate places to share data, want support writing a data management and sharing plan" width="100%" />
 
 # Course Overview {-}
 
@@ -73,7 +73,7 @@ The course will cover:
 
 <br>
 
-<img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1784801ac8b_42_0.png" title="Pathway of more specific topics covered in this course: motivations of the new policy, personal considerations, data storage options, budgeting, creating a DMS plan, submission tips, and post submission tips." alt="Pathway of more specific topics covered in this course: motivations of the new policy, personal considerations, data storage options, budgeting, creating a DMS plan, submission tips, and post submission tips." width="100%" />
+<img src="index_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g1784801ac8b_42_0.png" alt="Pathway of more specific topics covered in this course: motivations of the new policy, personal considerations, data storage options, budgeting, creating a DMS plan, submission tips, and post submission tips." width="100%" />
 
 ## Overall Takeaways
 

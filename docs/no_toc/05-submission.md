@@ -9,7 +9,7 @@
 
 In this section we will outline how you can submit your DMS plan: 
 
-<img src="resources/images/05-submission_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_113.png" title="We are on the sixth step of our pathway - Submission" alt="We are on the sixth step of our pathway - Submission" width="80%" />
+<img src="resources/images/05-submission_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_113.png" alt="We are on the sixth step of our pathway - Submission" width="80%" />
 
 ## Submission by Funding Type
 
@@ -37,7 +37,7 @@ It is important to note that the submission process may be different depending o
 
 In this section we will discuss tips about what might be needed after you submit your DMS plan: 
 
-<img src="resources/images/05-submission_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_138.png" title="We are on the final step of our pathway - Post Submission" alt="We are on the final step of our pathway - Post Submission" width="100%" />
+<img src="resources/images/05-submission_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_138.png" alt="We are on the final step of our pathway - Post Submission" width="100%" />
 
 - You can update your DMS plan if is not accepted during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process.
 - You can also update your DMS plan during regular reporting intervals, but these changes will need to be approved by program staff. Researchers are encouraged to discuss such changes in advance.
@@ -48,7 +48,7 @@ In this section we will discuss tips about what might be needed after you submit
 - Investigators are expected to report progress made on data sharing in their annual Research Progress Performance Report (RPPR).
    - NIH staff will monitor compliance with the DMS plan during this process.
 
-<img src="resources/images/05-submission_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_115.png" title="DMS plans can be edited during the Just In Time process or during regular reporting intervals, so it is okay if you need to make changes when you learn of better alternatives." alt="DMS plans can be edited during the Just In Time process or during regular reporting intervals, so it is okay if you need to make changes when you learn of better alternatives." width="100%" />
+<img src="resources/images/05-submission_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_115.png" alt="DMS plans can be edited during the Just In Time process or during regular reporting intervals, so it is okay if you need to make changes when you learn of better alternatives." width="100%" />
 
 # Video Creating Your Plan Wrap Up
 
