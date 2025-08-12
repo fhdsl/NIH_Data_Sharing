@@ -1,6 +1,6 @@
 ---
 title: "Data Management and Sharing for NIH Proposals"
-date: "March 27, 2025"
+date: "August 12, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib

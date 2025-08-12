@@ -28,7 +28,7 @@ We will cover specific requirements for each of these sections later. However, b
 
 To enable a more productive research experience and to ease your future compliance with any data sharing requirements, active data management during the research process can be very helpful.  
 
-<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_37.png" alt="We are on the third step of the pathway - Data Storage Options." width="80%" style="display: block; margin: auto;" />
+<img src="02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_37.png" alt="We are on the third step of the pathway - Data Storage Options." width="80%" style="display: block; margin: auto;" />
 
 ## Data Storage Concerns
 
@@ -50,7 +50,7 @@ Your data storage needs will depend greatly on the type of data you will be work
 | Clinical trials | 2-25 MB |
 
 
-<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_0.png" alt="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." width="80%" style="display: block; margin: auto;" />
+<img src="02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_0.png" alt="A cell phone with 64GB of storage can fit 1 WGS file, 2 RNA-seq files, 25 imaging files, and thousands of flow cytometry, clinical trial, microscopy, and proteomics files." width="80%" style="display: block; margin: auto;" />
 
 As you can see some of these data types require large data files. These files may quickly add up to require more storage or computing capacity than your laptop (which typically have 250 GB-1 TB of storage)! If you want to learn more about data file sizes check out the [data file size details section](https://hutchdatascience.org/NIH_Data_Sharing/data-file-size-details.html) of the appendix and this class on [Computing for Cancer Informatics](https://jhudatascience.org/Computing_for_Cancer_Informatics/index.html) from the [Informatics Technology for Cancer Research (ITCR)](https://itcr.cancer.gov/) [Training Network (ITN)](https://www.itcrtraining.org/) for options on how to manage large data files.
 
@@ -65,7 +65,7 @@ Some programs or Funding Opportunity Announcements (FOA) will specify where the 
 
 Other programs or FOAs will not specify where the data should be shared, however the NIH provides an [interactive table of NIH-supported data repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) to help you identify repositories that might be appropriate for your data. 
 
-<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_39.png" alt="The interactive table provided by NIH can help you find an appropriate repository." width="80%" style="display: block; margin: auto;" />
+<img src="02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_39.png" alt="The interactive table provided by NIH can help you find an appropriate repository." width="80%" style="display: block; margin: auto;" />
 
 If you don't find a repository there, additional repositories can also be found at the following links:
 
@@ -151,7 +151,7 @@ What if I can't find an appropriate repository?
     
 Note that the NIH encourages that an existing data sharing repository be used whenever one is available instead of one of these options.
 
-<img src="resources/images/02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_44_28.png" alt="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." width="80%" style="display: block; margin: auto;" />
+<img src="02-data_management_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_44_28.png" alt="NIH prefers you to use the explicitly mentioned repository, followed by a known, FAIR repository, followed by a public generalist repository for data storage." width="80%" style="display: block; margin: auto;" />
 
 ## Summary
 
