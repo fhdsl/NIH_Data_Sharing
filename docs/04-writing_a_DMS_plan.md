@@ -5,7 +5,7 @@
 
 In this section we will guide you through the requirements for the various sections of the DMS plan.
 
-<img src="resources/images/04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_88.png" alt="We are on the fifth step of the pathway- Creating a DMS plan." width="80%" />
+<img src="04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_88.png" alt="We are on the fifth step of the pathway- Creating a DMS plan." width="80%" />
 
 <div class = "notice"> 
 
@@ -27,7 +27,7 @@ The Fred Hutch Data Science Lab has created and online app where you can create 
 
 https://dmshelper.fredhutch.org/
 
-<img src="resources/images/04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g21c2a6e60cf_39_0.png" alt="Preview of the DMS Helper App." width="100%" style="display: block; margin: auto;" />
+<img src="04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g21c2a6e60cf_39_0.png" alt="Preview of the DMS Helper App." width="100%" style="display: block; margin: auto;" />
 
 <div class = "notice"> 
 
@@ -62,7 +62,7 @@ You are encouraged to talk to the appropriate Program Officer for your respectiv
 
 - _Keep in mind that your DMS plan will **not** be reviewed by reviewers, only the budget sections in regard to this will be seen by them. Instead the Program Officer will review your DMS plan to determine if it is reasonable and appropriate or if you need to make changes._
 
-<img src="resources/images/04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_87.png" alt="When writing the plan, ensure it is less than 2 pages long, contains no confidential information, and has been planned out carefully, contacting the program officer if necessary." width="80%" style="display: block; margin: auto;" />
+<img src="04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g18159f1730a_67_87.png" alt="When writing the plan, ensure it is less than 2 pages long, contains no confidential information, and has been planned out carefully, contacting the program officer if necessary." width="80%" style="display: block; margin: auto;" />
 
 ##  Data Type
 
