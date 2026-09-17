@@ -13,6 +13,15 @@ Check out the video below. It provides a summary of this section of the course.
 
 The NIH has provided an outline for what components of the Data Sharing and Management Plan are required. We'll introduce these sections and then discuss in more detail some of the important considerations you'll need to include in your specific plan. 
 
+<div class = "warning"> 
+
+As of May 2026, there is a new Data Management and Sharing (DMS) Plan format (more information can be found on [this NIH webpage](https://grants.nih.gov/grants-process/write-application/forms-directory/data-management-and-sharing-plan-format-page)). While the information in this section may still be useful for preparing a DMS Plan, many of the components described are no longer included in the DMS Plan. Please see the new format before proceeding with your DMS Plan. This course will be updated based on the new DMS Plan format shortly.
+
+</div>
+
+&nbsp;
+&nbsp;
+
 The following are the major sections of the NIH DMS plan:
 
 1. **Data type** - describe what data (amount and type) will be generated over the course of funding and what data will or will not be shared

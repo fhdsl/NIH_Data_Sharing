@@ -7,6 +7,15 @@ In this section we will guide you through the requirements for the various secti
 
 <img src="04-writing_a_DMS_plan_files/figure-html//1luFoDzF6aDJEebbL6iWoJ_s8s9nQnaWLL5jghbmWdak_g16b04bd80e5_4_88.png" alt="We are on the fifth step of the pathway- Creating a DMS plan." width="80%" />
 
+<div class = "warning"> 
+
+As of May 2026, there is a new Data Management and Sharing (DMS) Plan format (more information can be found on [this NIH webpage](https://grants.nih.gov/grants-process/write-application/forms-directory/data-management-and-sharing-plan-format-page)). While the information in this section may still be useful for preparing a DMS Plan, many of the components described are no longer included in the DMS Plan. Please see the new format before proceeding with your DMS Plan. This course will be updated based on the new DMS Plan format shortly.
+
+</div>
+
+&nbsp;
+&nbsp;
+
 <div class = "notice"> 
 
 It is important to note that it may be possible to change your DMS plan (with approval) after submission. Changes can occur during the [Just-in-Time](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.1_just-in-time_procedures.htm) process or during regular reporting intervals. Thus you need to initially show that you made a plan, but it's OK if things change. 
